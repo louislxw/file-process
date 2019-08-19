@@ -1,0 +1,3132 @@
+Frame	 1 	detect	 person 	 2 	times
+Frame	 2 	detect	 person 	 3 	times
+Frame	 3 	detect	 person 	 2 	times
+Frame	 4 	detect	 person 	 2 	times
+Frame	 5 	detect	 person 	 1 	times
+Frame	 6 	detect	 person 	 1 	times
+Frame	 7 	detect	 person 	 1 	times
+Frame	 8 	detect	 person 	 1 	times
+Frame	 26 	detect	 person 	 1 	times
+Frame	 27 	detect	 person 	 1 	times
+Frame	 28 	detect	 person 	 1 	times
+Frame	 29 	detect	 person 	 1 	times
+Frame	 30 	detect	 person 	 1 	times
+Frame	 35 	detect	 person 	 1 	times
+Frame	 60 	detect	 person 	 1 	times
+Frame	 61 	detect	 person 	 1 	times
+Frame	 67 	detect	 person 	 1 	times
+Frame	 68 	detect	 person 	 1 	times
+Frame	 69 	detect	 person 	 1 	times
+Frame	 70 	detect	 person 	 1 	times
+Frame	 71 	detect	 person 	 1 	times
+Frame	 72 	detect	 person 	 1 	times
+Frame	 73 	detect	 person 	 1 	times
+Frame	 74 	detect	 person 	 1 	times
+Frame	 75 	detect	 person 	 2 	times
+Frame	 76 	detect	 person 	 1 	times
+Frame	 77 	detect	 person 	 1 	times
+Frame	 78 	detect	 person 	 1 	times
+Frame	 79 	detect	 person 	 1 	times
+Frame	 80 	detect	 person 	 1 	times
+Frame	 82 	detect	 person 	 1 	times
+Frame	 83 	detect	 person 	 1 	times
+Frame	 84 	detect	 person 	 2 	times
+Frame	 85 	detect	 person 	 1 	times
+Frame	 86 	detect	 person 	 1 	times
+Frame	 87 	detect	 person 	 1 	times
+Frame	 89 	detect	 person 	 1 	times
+Frame	 90 	detect	 person 	 1 	times
+Frame	 93 	detect	 person 	 1 	times
+Frame	 96 	detect	 person 	 1 	times
+Frame	 102 	detect	 person 	 1 	times
+Frame	 103 	detect	 person 	 2 	times
+Frame	 104 	detect	 person 	 2 	times
+Frame	 106 	detect	 person 	 3 	times
+Frame	 108 	detect	 person 	 1 	times
+Frame	 110 	detect	 person 	 2 	times
+Frame	 111 	detect	 person 	 1 	times
+Frame	 113 	detect	 person 	 1 	times
+Frame	 114 	detect	 person 	 3 	times
+Frame	 115 	detect	 person 	 3 	times
+Frame	 116 	detect	 person 	 3 	times
+Frame	 117 	detect	 person 	 3 	times
+Frame	 118 	detect	 person 	 4 	times
+Frame	 119 	detect	 person 	 3 	times
+Frame	 120 	detect	 person 	 1 	times
+Frame	 121 	detect	 person 	 3 	times
+Frame	 124 	detect	 person 	 1 	times
+Frame	 125 	detect	 person 	 1 	times
+Frame	 126 	detect	 person 	 1 	times
+Frame	 129 	detect	 person 	 1 	times
+Frame	 130 	detect	 person 	 1 	times
+Frame	 131 	detect	 person 	 3 	times
+Frame	 132 	detect	 person 	 2 	times
+Frame	 133 	detect	 person 	 2 	times
+Frame	 134 	detect	 person 	 3 	times
+Frame	 135 	detect	 person 	 3 	times
+Frame	 136 	detect	 person 	 3 	times
+Frame	 137 	detect	 person 	 2 	times
+Frame	 138 	detect	 person 	 4 	times
+Frame	 139 	detect	 person 	 1 	times
+Frame	 140 	detect	 person 	 1 	times
+Frame	 141 	detect	 person 	 1 	times
+Frame	 142 	detect	 person 	 1 	times
+Frame	 144 	detect	 person 	 2 	times
+Frame	 145 	detect	 person 	 1 	times
+Frame	 146 	detect	 person 	 1 	times
+Frame	 147 	detect	 person 	 1 	times
+Frame	 150 	detect	 person 	 1 	times
+Frame	 178 	detect	 person 	 1 	times
+Frame	 179 	detect	 person 	 1 	times
+Frame	 180 	detect	 person 	 1 	times
+Frame	 182 	detect	 person 	 1 	times
+Frame	 183 	detect	 person 	 2 	times
+Frame	 184 	detect	 person 	 1 	times
+Frame	 216 	detect	 person 	 1 	times
+Frame	 217 	detect	 person 	 1 	times
+Frame	 218 	detect	 person 	 1 	times
+Frame	 219 	detect	 person 	 1 	times
+Frame	 220 	detect	 person 	 1 	times
+Frame	 221 	detect	 person 	 1 	times
+Frame	 222 	detect	 person 	 1 	times
+Frame	 223 	detect	 person 	 1 	times
+Frame	 225 	detect	 person 	 1 	times
+Frame	 235 	detect	 person 	 1 	times
+Frame	 236 	detect	 person 	 1 	times
+Frame	 260 	detect	 person 	 1 	times
+Frame	 262 	detect	 person 	 1 	times
+Frame	 269 	detect	 person 	 1 	times
+Frame	 280 	detect	 person 	 1 	times
+Frame	 284 	detect	 person 	 1 	times
+Frame	 285 	detect	 person 	 1 	times
+Frame	 286 	detect	 person 	 1 	times
+Frame	 287 	detect	 person 	 1 	times
+Frame	 288 	detect	 person 	 1 	times
+Frame	 289 	detect	 person 	 1 	times
+Frame	 290 	detect	 person 	 1 	times
+Frame	 291 	detect	 person 	 1 	times
+Frame	 293 	detect	 person 	 1 	times
+Frame	 294 	detect	 person 	 1 	times
+Frame	 295 	detect	 person 	 1 	times
+Frame	 296 	detect	 person 	 1 	times
+Frame	 297 	detect	 person 	 1 	times
+Frame	 298 	detect	 person 	 1 	times
+Frame	 299 	detect	 person 	 1 	times
+Frame	 300 	detect	 person 	 1 	times
+Frame	 301 	detect	 person 	 1 	times
+Frame	 302 	detect	 person 	 1 	times
+Frame	 303 	detect	 person 	 1 	times
+Frame	 304 	detect	 person 	 1 	times
+Frame	 305 	detect	 person 	 1 	times
+Frame	 306 	detect	 person 	 1 	times
+Frame	 307 	detect	 person 	 1 	times
+Frame	 308 	detect	 person 	 1 	times
+Frame	 309 	detect	 person 	 1 	times
+Frame	 310 	detect	 person 	 1 	times
+Frame	 311 	detect	 person 	 1 	times
+Frame	 312 	detect	 person 	 1 	times
+Frame	 313 	detect	 person 	 1 	times
+Frame	 314 	detect	 person 	 1 	times
+Frame	 315 	detect	 person 	 1 	times
+Frame	 316 	detect	 person 	 1 	times
+Frame	 317 	detect	 person 	 1 	times
+Frame	 330 	detect	 person 	 1 	times
+Frame	 333 	detect	 person 	 1 	times
+Frame	 334 	detect	 person 	 1 	times
+Frame	 335 	detect	 person 	 1 	times
+Frame	 336 	detect	 person 	 1 	times
+Frame	 337 	detect	 person 	 1 	times
+Frame	 338 	detect	 person 	 1 	times
+Frame	 339 	detect	 person 	 1 	times
+Frame	 340 	detect	 person 	 1 	times
+Frame	 341 	detect	 person 	 1 	times
+Frame	 342 	detect	 person 	 1 	times
+Frame	 343 	detect	 person 	 1 	times
+Frame	 344 	detect	 person 	 1 	times
+Frame	 345 	detect	 person 	 1 	times
+Frame	 346 	detect	 person 	 1 	times
+Frame	 347 	detect	 person 	 1 	times
+Frame	 348 	detect	 person 	 1 	times
+Frame	 349 	detect	 person 	 1 	times
+Frame	 352 	detect	 person 	 1 	times
+Frame	 353 	detect	 person 	 1 	times
+Frame	 354 	detect	 person 	 1 	times
+Frame	 355 	detect	 person 	 1 	times
+Frame	 356 	detect	 person 	 1 	times
+Frame	 357 	detect	 person 	 1 	times
+Frame	 358 	detect	 person 	 1 	times
+Frame	 359 	detect	 person 	 1 	times
+Frame	 360 	detect	 person 	 1 	times
+Frame	 361 	detect	 person 	 1 	times
+Frame	 362 	detect	 person 	 1 	times
+Frame	 363 	detect	 person 	 1 	times
+Frame	 364 	detect	 person 	 1 	times
+Frame	 365 	detect	 person 	 1 	times
+Frame	 366 	detect	 person 	 1 	times
+Frame	 367 	detect	 person 	 1 	times
+Frame	 368 	detect	 person 	 1 	times
+Frame	 369 	detect	 person 	 1 	times
+Frame	 370 	detect	 person 	 1 	times
+Frame	 371 	detect	 person 	 1 	times
+Frame	 372 	detect	 person 	 1 	times
+Frame	 373 	detect	 person 	 1 	times
+Frame	 374 	detect	 person 	 1 	times
+Frame	 375 	detect	 person 	 1 	times
+Frame	 376 	detect	 person 	 1 	times
+Frame	 377 	detect	 person 	 1 	times
+Frame	 378 	detect	 person 	 1 	times
+Frame	 379 	detect	 person 	 1 	times
+Frame	 380 	detect	 person 	 1 	times
+Frame	 381 	detect	 person 	 1 	times
+Frame	 382 	detect	 person 	 1 	times
+Frame	 383 	detect	 person 	 1 	times
+Frame	 384 	detect	 person 	 1 	times
+Frame	 385 	detect	 person 	 1 	times
+Frame	 386 	detect	 person 	 1 	times
+Frame	 387 	detect	 person 	 1 	times
+Frame	 388 	detect	 person 	 1 	times
+Frame	 389 	detect	 person 	 1 	times
+Frame	 390 	detect	 person 	 1 	times
+Frame	 391 	detect	 person 	 1 	times
+Frame	 392 	detect	 person 	 1 	times
+Frame	 393 	detect	 person 	 1 	times
+Frame	 394 	detect	 person 	 1 	times
+Frame	 395 	detect	 person 	 1 	times
+Frame	 396 	detect	 person 	 1 	times
+Frame	 397 	detect	 person 	 1 	times
+Frame	 398 	detect	 person 	 1 	times
+Frame	 399 	detect	 person 	 1 	times
+Frame	 401 	detect	 person 	 1 	times
+Frame	 402 	detect	 person 	 1 	times
+Frame	 404 	detect	 person 	 1 	times
+Frame	 405 	detect	 person 	 1 	times
+Frame	 408 	detect	 person 	 1 	times
+Frame	 410 	detect	 person 	 1 	times
+Frame	 411 	detect	 person 	 1 	times
+Frame	 414 	detect	 person 	 1 	times
+Frame	 416 	detect	 person 	 1 	times
+Frame	 417 	detect	 person 	 1 	times
+Frame	 419 	detect	 person 	 1 	times
+Frame	 420 	detect	 person 	 1 	times
+Frame	 426 	detect	 person 	 1 	times
+Frame	 428 	detect	 person 	 1 	times
+Frame	 429 	detect	 person 	 1 	times
+Frame	 430 	detect	 person 	 1 	times
+Frame	 432 	detect	 person 	 1 	times
+Frame	 433 	detect	 person 	 1 	times
+Frame	 434 	detect	 person 	 1 	times
+Frame	 435 	detect	 person 	 1 	times
+Frame	 436 	detect	 person 	 1 	times
+Frame	 437 	detect	 person 	 1 	times
+Frame	 438 	detect	 person 	 1 	times
+Frame	 439 	detect	 person 	 1 	times
+Frame	 440 	detect	 person 	 1 	times
+Frame	 441 	detect	 person 	 1 	times
+Frame	 442 	detect	 person 	 1 	times
+Frame	 443 	detect	 person 	 1 	times
+Frame	 444 	detect	 person 	 1 	times
+Frame	 445 	detect	 person 	 1 	times
+Frame	 446 	detect	 person 	 1 	times
+Frame	 447 	detect	 person 	 1 	times
+Frame	 449 	detect	 person 	 1 	times
+Frame	 450 	detect	 person 	 1 	times
+Frame	 451 	detect	 person 	 1 	times
+Frame	 453 	detect	 person 	 1 	times
+Frame	 454 	detect	 person 	 1 	times
+Frame	 455 	detect	 person 	 1 	times
+Frame	 456 	detect	 person 	 1 	times
+Frame	 457 	detect	 person 	 1 	times
+Frame	 458 	detect	 person 	 1 	times
+Frame	 459 	detect	 person 	 1 	times
+Frame	 460 	detect	 person 	 1 	times
+Frame	 461 	detect	 person 	 1 	times
+Frame	 464 	detect	 person 	 1 	times
+Frame	 465 	detect	 person 	 1 	times
+Frame	 466 	detect	 person 	 1 	times
+Frame	 467 	detect	 person 	 1 	times
+Frame	 468 	detect	 person 	 1 	times
+Frame	 469 	detect	 person 	 1 	times
+Frame	 470 	detect	 person 	 1 	times
+Frame	 472 	detect	 person 	 1 	times
+Frame	 476 	detect	 person 	 1 	times
+Frame	 477 	detect	 person 	 1 	times
+Frame	 480 	detect	 person 	 1 	times
+Frame	 482 	detect	 person 	 1 	times
+Frame	 484 	detect	 person 	 1 	times
+Frame	 485 	detect	 person 	 1 	times
+Frame	 487 	detect	 person 	 1 	times
+Frame	 488 	detect	 person 	 1 	times
+Frame	 499 	detect	 person 	 1 	times
+Frame	 558 	detect	 person 	 1 	times
+Frame	 562 	detect	 person 	 1 	times
+Frame	 563 	detect	 person 	 1 	times
+Frame	 564 	detect	 person 	 1 	times
+Frame	 586 	detect	 person 	 1 	times
+Frame	 589 	detect	 person 	 1 	times
+Frame	 590 	detect	 person 	 1 	times
+Frame	 591 	detect	 person 	 1 	times
+Frame	 592 	detect	 person 	 1 	times
+Frame	 593 	detect	 person 	 1 	times
+Frame	 594 	detect	 person 	 1 	times
+Frame	 595 	detect	 person 	 1 	times
+Frame	 596 	detect	 person 	 1 	times
+Frame	 597 	detect	 person 	 1 	times
+Frame	 599 	detect	 person 	 1 	times
+Frame	 600 	detect	 person 	 1 	times
+Frame	 603 	detect	 person 	 1 	times
+Frame	 604 	detect	 person 	 1 	times
+Frame	 605 	detect	 person 	 1 	times
+Frame	 606 	detect	 person 	 1 	times
+Frame	 610 	detect	 person 	 1 	times
+Frame	 611 	detect	 person 	 1 	times
+Frame	 653 	detect	 person 	 1 	times
+Frame	 655 	detect	 person 	 1 	times
+Frame	 954 	detect	 person 	 1 	times
+Frame	 955 	detect	 person 	 1 	times
+Frame	 1007 	detect	 person 	 1 	times
+Frame	 1009 	detect	 person 	 1 	times
+Frame	 1010 	detect	 person 	 1 	times
+Frame	 1011 	detect	 person 	 1 	times
+Frame	 1012 	detect	 person 	 1 	times
+Frame	 1013 	detect	 person 	 1 	times
+Frame	 1014 	detect	 person 	 1 	times
+Frame	 1015 	detect	 person 	 1 	times
+Frame	 1016 	detect	 person 	 1 	times
+Frame	 1022 	detect	 person 	 1 	times
+Frame	 1023 	detect	 person 	 1 	times
+Frame	 1094 	detect	 person 	 1 	times
+Frame	 1106 	detect	 person 	 1 	times
+Frame	 1164 	detect	 person 	 1 	times
+Frame	 1 	detect	 car 	 2 	times
+Frame	 2 	detect	 car 	 2 	times
+Frame	 3 	detect	 car 	 2 	times
+Frame	 4 	detect	 car 	 2 	times
+Frame	 5 	detect	 car 	 2 	times
+Frame	 6 	detect	 car 	 2 	times
+Frame	 7 	detect	 car 	 2 	times
+Frame	 8 	detect	 car 	 2 	times
+Frame	 9 	detect	 car 	 2 	times
+Frame	 10 	detect	 car 	 2 	times
+Frame	 11 	detect	 car 	 2 	times
+Frame	 12 	detect	 car 	 2 	times
+Frame	 13 	detect	 car 	 2 	times
+Frame	 14 	detect	 car 	 2 	times
+Frame	 15 	detect	 car 	 1 	times
+Frame	 16 	detect	 car 	 1 	times
+Frame	 17 	detect	 car 	 1 	times
+Frame	 18 	detect	 car 	 2 	times
+Frame	 19 	detect	 car 	 2 	times
+Frame	 20 	detect	 car 	 2 	times
+Frame	 21 	detect	 car 	 2 	times
+Frame	 22 	detect	 car 	 2 	times
+Frame	 23 	detect	 car 	 1 	times
+Frame	 25 	detect	 car 	 2 	times
+Frame	 26 	detect	 car 	 1 	times
+Frame	 27 	detect	 car 	 1 	times
+Frame	 28 	detect	 car 	 1 	times
+Frame	 29 	detect	 car 	 2 	times
+Frame	 30 	detect	 car 	 2 	times
+Frame	 31 	detect	 car 	 2 	times
+Frame	 32 	detect	 car 	 1 	times
+Frame	 35 	detect	 car 	 1 	times
+Frame	 36 	detect	 car 	 1 	times
+Frame	 37 	detect	 car 	 1 	times
+Frame	 38 	detect	 car 	 1 	times
+Frame	 43 	detect	 car 	 1 	times
+Frame	 44 	detect	 car 	 1 	times
+Frame	 45 	detect	 car 	 1 	times
+Frame	 46 	detect	 car 	 1 	times
+Frame	 47 	detect	 car 	 2 	times
+Frame	 48 	detect	 car 	 1 	times
+Frame	 49 	detect	 car 	 1 	times
+Frame	 50 	detect	 car 	 1 	times
+Frame	 51 	detect	 car 	 1 	times
+Frame	 52 	detect	 car 	 1 	times
+Frame	 53 	detect	 car 	 2 	times
+Frame	 54 	detect	 car 	 2 	times
+Frame	 55 	detect	 car 	 2 	times
+Frame	 56 	detect	 car 	 2 	times
+Frame	 57 	detect	 car 	 2 	times
+Frame	 58 	detect	 car 	 2 	times
+Frame	 59 	detect	 car 	 1 	times
+Frame	 60 	detect	 car 	 1 	times
+Frame	 61 	detect	 car 	 1 	times
+Frame	 62 	detect	 car 	 2 	times
+Frame	 63 	detect	 car 	 2 	times
+Frame	 64 	detect	 car 	 2 	times
+Frame	 66 	detect	 car 	 1 	times
+Frame	 67 	detect	 car 	 2 	times
+Frame	 68 	detect	 car 	 1 	times
+Frame	 70 	detect	 car 	 1 	times
+Frame	 71 	detect	 car 	 1 	times
+Frame	 73 	detect	 car 	 1 	times
+Frame	 74 	detect	 car 	 1 	times
+Frame	 75 	detect	 car 	 1 	times
+Frame	 76 	detect	 car 	 1 	times
+Frame	 77 	detect	 car 	 1 	times
+Frame	 78 	detect	 car 	 1 	times
+Frame	 79 	detect	 car 	 1 	times
+Frame	 80 	detect	 car 	 1 	times
+Frame	 81 	detect	 car 	 1 	times
+Frame	 82 	detect	 car 	 1 	times
+Frame	 83 	detect	 car 	 1 	times
+Frame	 84 	detect	 car 	 1 	times
+Frame	 85 	detect	 car 	 1 	times
+Frame	 86 	detect	 car 	 1 	times
+Frame	 87 	detect	 car 	 1 	times
+Frame	 88 	detect	 car 	 1 	times
+Frame	 89 	detect	 car 	 1 	times
+Frame	 90 	detect	 car 	 1 	times
+Frame	 91 	detect	 car 	 1 	times
+Frame	 92 	detect	 car 	 1 	times
+Frame	 93 	detect	 car 	 1 	times
+Frame	 94 	detect	 car 	 1 	times
+Frame	 95 	detect	 car 	 1 	times
+Frame	 96 	detect	 car 	 1 	times
+Frame	 97 	detect	 car 	 1 	times
+Frame	 98 	detect	 car 	 1 	times
+Frame	 99 	detect	 car 	 1 	times
+Frame	 100 	detect	 car 	 1 	times
+Frame	 101 	detect	 car 	 1 	times
+Frame	 102 	detect	 car 	 1 	times
+Frame	 103 	detect	 car 	 1 	times
+Frame	 104 	detect	 car 	 1 	times
+Frame	 105 	detect	 car 	 1 	times
+Frame	 106 	detect	 car 	 1 	times
+Frame	 107 	detect	 car 	 1 	times
+Frame	 108 	detect	 car 	 1 	times
+Frame	 109 	detect	 car 	 1 	times
+Frame	 110 	detect	 car 	 1 	times
+Frame	 111 	detect	 car 	 1 	times
+Frame	 112 	detect	 car 	 1 	times
+Frame	 113 	detect	 car 	 1 	times
+Frame	 114 	detect	 car 	 1 	times
+Frame	 115 	detect	 car 	 1 	times
+Frame	 116 	detect	 car 	 1 	times
+Frame	 117 	detect	 car 	 1 	times
+Frame	 118 	detect	 car 	 1 	times
+Frame	 119 	detect	 car 	 1 	times
+Frame	 120 	detect	 car 	 1 	times
+Frame	 121 	detect	 car 	 1 	times
+Frame	 122 	detect	 car 	 1 	times
+Frame	 123 	detect	 car 	 1 	times
+Frame	 124 	detect	 car 	 1 	times
+Frame	 125 	detect	 car 	 1 	times
+Frame	 126 	detect	 car 	 1 	times
+Frame	 127 	detect	 car 	 1 	times
+Frame	 129 	detect	 car 	 1 	times
+Frame	 130 	detect	 car 	 1 	times
+Frame	 131 	detect	 car 	 1 	times
+Frame	 132 	detect	 car 	 1 	times
+Frame	 133 	detect	 car 	 1 	times
+Frame	 134 	detect	 car 	 1 	times
+Frame	 135 	detect	 car 	 1 	times
+Frame	 136 	detect	 car 	 1 	times
+Frame	 140 	detect	 car 	 1 	times
+Frame	 141 	detect	 car 	 1 	times
+Frame	 144 	detect	 car 	 1 	times
+Frame	 145 	detect	 car 	 1 	times
+Frame	 147 	detect	 car 	 1 	times
+Frame	 149 	detect	 car 	 1 	times
+Frame	 150 	detect	 car 	 1 	times
+Frame	 152 	detect	 car 	 1 	times
+Frame	 153 	detect	 car 	 1 	times
+Frame	 154 	detect	 car 	 1 	times
+Frame	 155 	detect	 car 	 1 	times
+Frame	 156 	detect	 car 	 2 	times
+Frame	 157 	detect	 car 	 1 	times
+Frame	 160 	detect	 car 	 1 	times
+Frame	 161 	detect	 car 	 2 	times
+Frame	 179 	detect	 car 	 1 	times
+Frame	 180 	detect	 car 	 1 	times
+Frame	 183 	detect	 car 	 1 	times
+Frame	 184 	detect	 car 	 1 	times
+Frame	 187 	detect	 car 	 1 	times
+Frame	 188 	detect	 car 	 1 	times
+Frame	 189 	detect	 car 	 1 	times
+Frame	 190 	detect	 car 	 1 	times
+Frame	 191 	detect	 car 	 1 	times
+Frame	 192 	detect	 car 	 1 	times
+Frame	 193 	detect	 car 	 1 	times
+Frame	 194 	detect	 car 	 1 	times
+Frame	 195 	detect	 car 	 1 	times
+Frame	 196 	detect	 car 	 1 	times
+Frame	 197 	detect	 car 	 1 	times
+Frame	 198 	detect	 car 	 1 	times
+Frame	 199 	detect	 car 	 2 	times
+Frame	 200 	detect	 car 	 2 	times
+Frame	 201 	detect	 car 	 2 	times
+Frame	 202 	detect	 car 	 1 	times
+Frame	 203 	detect	 car 	 1 	times
+Frame	 204 	detect	 car 	 1 	times
+Frame	 205 	detect	 car 	 1 	times
+Frame	 206 	detect	 car 	 1 	times
+Frame	 207 	detect	 car 	 1 	times
+Frame	 208 	detect	 car 	 1 	times
+Frame	 209 	detect	 car 	 1 	times
+Frame	 210 	detect	 car 	 1 	times
+Frame	 211 	detect	 car 	 1 	times
+Frame	 212 	detect	 car 	 2 	times
+Frame	 213 	detect	 car 	 2 	times
+Frame	 214 	detect	 car 	 1 	times
+Frame	 215 	detect	 car 	 1 	times
+Frame	 216 	detect	 car 	 2 	times
+Frame	 217 	detect	 car 	 2 	times
+Frame	 218 	detect	 car 	 2 	times
+Frame	 219 	detect	 car 	 2 	times
+Frame	 220 	detect	 car 	 2 	times
+Frame	 221 	detect	 car 	 2 	times
+Frame	 222 	detect	 car 	 2 	times
+Frame	 223 	detect	 car 	 2 	times
+Frame	 224 	detect	 car 	 2 	times
+Frame	 225 	detect	 car 	 2 	times
+Frame	 226 	detect	 car 	 2 	times
+Frame	 227 	detect	 car 	 2 	times
+Frame	 228 	detect	 car 	 1 	times
+Frame	 229 	detect	 car 	 2 	times
+Frame	 230 	detect	 car 	 2 	times
+Frame	 231 	detect	 car 	 2 	times
+Frame	 232 	detect	 car 	 2 	times
+Frame	 233 	detect	 car 	 2 	times
+Frame	 234 	detect	 car 	 2 	times
+Frame	 235 	detect	 car 	 2 	times
+Frame	 236 	detect	 car 	 2 	times
+Frame	 237 	detect	 car 	 2 	times
+Frame	 238 	detect	 car 	 2 	times
+Frame	 239 	detect	 car 	 2 	times
+Frame	 240 	detect	 car 	 2 	times
+Frame	 241 	detect	 car 	 2 	times
+Frame	 242 	detect	 car 	 2 	times
+Frame	 243 	detect	 car 	 2 	times
+Frame	 244 	detect	 car 	 2 	times
+Frame	 245 	detect	 car 	 2 	times
+Frame	 246 	detect	 car 	 2 	times
+Frame	 247 	detect	 car 	 2 	times
+Frame	 248 	detect	 car 	 2 	times
+Frame	 249 	detect	 car 	 2 	times
+Frame	 250 	detect	 car 	 2 	times
+Frame	 251 	detect	 car 	 2 	times
+Frame	 252 	detect	 car 	 2 	times
+Frame	 253 	detect	 car 	 2 	times
+Frame	 254 	detect	 car 	 2 	times
+Frame	 255 	detect	 car 	 2 	times
+Frame	 256 	detect	 car 	 2 	times
+Frame	 257 	detect	 car 	 2 	times
+Frame	 258 	detect	 car 	 2 	times
+Frame	 259 	detect	 car 	 2 	times
+Frame	 260 	detect	 car 	 2 	times
+Frame	 261 	detect	 car 	 2 	times
+Frame	 262 	detect	 car 	 2 	times
+Frame	 263 	detect	 car 	 2 	times
+Frame	 264 	detect	 car 	 2 	times
+Frame	 265 	detect	 car 	 2 	times
+Frame	 266 	detect	 car 	 2 	times
+Frame	 267 	detect	 car 	 2 	times
+Frame	 268 	detect	 car 	 2 	times
+Frame	 269 	detect	 car 	 2 	times
+Frame	 270 	detect	 car 	 2 	times
+Frame	 271 	detect	 car 	 2 	times
+Frame	 272 	detect	 car 	 1 	times
+Frame	 273 	detect	 car 	 1 	times
+Frame	 274 	detect	 car 	 1 	times
+Frame	 275 	detect	 car 	 1 	times
+Frame	 276 	detect	 car 	 1 	times
+Frame	 277 	detect	 car 	 1 	times
+Frame	 278 	detect	 car 	 1 	times
+Frame	 279 	detect	 car 	 1 	times
+Frame	 280 	detect	 car 	 1 	times
+Frame	 281 	detect	 car 	 1 	times
+Frame	 282 	detect	 car 	 1 	times
+Frame	 283 	detect	 car 	 1 	times
+Frame	 284 	detect	 car 	 2 	times
+Frame	 285 	detect	 car 	 2 	times
+Frame	 286 	detect	 car 	 1 	times
+Frame	 287 	detect	 car 	 2 	times
+Frame	 288 	detect	 car 	 2 	times
+Frame	 289 	detect	 car 	 1 	times
+Frame	 290 	detect	 car 	 1 	times
+Frame	 291 	detect	 car 	 1 	times
+Frame	 292 	detect	 car 	 1 	times
+Frame	 293 	detect	 car 	 2 	times
+Frame	 294 	detect	 car 	 1 	times
+Frame	 295 	detect	 car 	 1 	times
+Frame	 298 	detect	 car 	 1 	times
+Frame	 299 	detect	 car 	 1 	times
+Frame	 300 	detect	 car 	 1 	times
+Frame	 301 	detect	 car 	 1 	times
+Frame	 305 	detect	 car 	 1 	times
+Frame	 306 	detect	 car 	 1 	times
+Frame	 308 	detect	 car 	 1 	times
+Frame	 309 	detect	 car 	 1 	times
+Frame	 310 	detect	 car 	 1 	times
+Frame	 312 	detect	 car 	 1 	times
+Frame	 313 	detect	 car 	 1 	times
+Frame	 314 	detect	 car 	 1 	times
+Frame	 315 	detect	 car 	 1 	times
+Frame	 316 	detect	 car 	 1 	times
+Frame	 317 	detect	 car 	 1 	times
+Frame	 318 	detect	 car 	 1 	times
+Frame	 319 	detect	 car 	 1 	times
+Frame	 320 	detect	 car 	 1 	times
+Frame	 321 	detect	 car 	 1 	times
+Frame	 322 	detect	 car 	 1 	times
+Frame	 323 	detect	 car 	 1 	times
+Frame	 324 	detect	 car 	 1 	times
+Frame	 325 	detect	 car 	 1 	times
+Frame	 326 	detect	 car 	 1 	times
+Frame	 327 	detect	 car 	 1 	times
+Frame	 328 	detect	 car 	 1 	times
+Frame	 329 	detect	 car 	 1 	times
+Frame	 330 	detect	 car 	 1 	times
+Frame	 331 	detect	 car 	 1 	times
+Frame	 332 	detect	 car 	 1 	times
+Frame	 333 	detect	 car 	 1 	times
+Frame	 334 	detect	 car 	 1 	times
+Frame	 335 	detect	 car 	 1 	times
+Frame	 337 	detect	 car 	 1 	times
+Frame	 338 	detect	 car 	 1 	times
+Frame	 339 	detect	 car 	 1 	times
+Frame	 340 	detect	 car 	 1 	times
+Frame	 342 	detect	 car 	 1 	times
+Frame	 343 	detect	 car 	 1 	times
+Frame	 344 	detect	 car 	 1 	times
+Frame	 345 	detect	 car 	 1 	times
+Frame	 347 	detect	 car 	 1 	times
+Frame	 350 	detect	 car 	 1 	times
+Frame	 351 	detect	 car 	 1 	times
+Frame	 352 	detect	 car 	 1 	times
+Frame	 353 	detect	 car 	 1 	times
+Frame	 354 	detect	 car 	 1 	times
+Frame	 355 	detect	 car 	 1 	times
+Frame	 356 	detect	 car 	 1 	times
+Frame	 357 	detect	 car 	 1 	times
+Frame	 358 	detect	 car 	 1 	times
+Frame	 359 	detect	 car 	 1 	times
+Frame	 360 	detect	 car 	 1 	times
+Frame	 361 	detect	 car 	 1 	times
+Frame	 362 	detect	 car 	 1 	times
+Frame	 363 	detect	 car 	 1 	times
+Frame	 365 	detect	 car 	 1 	times
+Frame	 366 	detect	 car 	 1 	times
+Frame	 367 	detect	 car 	 1 	times
+Frame	 368 	detect	 car 	 1 	times
+Frame	 369 	detect	 car 	 1 	times
+Frame	 370 	detect	 car 	 1 	times
+Frame	 371 	detect	 car 	 1 	times
+Frame	 372 	detect	 car 	 1 	times
+Frame	 373 	detect	 car 	 1 	times
+Frame	 374 	detect	 car 	 2 	times
+Frame	 376 	detect	 car 	 1 	times
+Frame	 377 	detect	 car 	 1 	times
+Frame	 378 	detect	 car 	 1 	times
+Frame	 379 	detect	 car 	 1 	times
+Frame	 380 	detect	 car 	 1 	times
+Frame	 381 	detect	 car 	 1 	times
+Frame	 382 	detect	 car 	 1 	times
+Frame	 387 	detect	 car 	 1 	times
+Frame	 388 	detect	 car 	 1 	times
+Frame	 389 	detect	 car 	 1 	times
+Frame	 390 	detect	 car 	 1 	times
+Frame	 391 	detect	 car 	 1 	times
+Frame	 392 	detect	 car 	 1 	times
+Frame	 393 	detect	 car 	 1 	times
+Frame	 394 	detect	 car 	 1 	times
+Frame	 395 	detect	 car 	 1 	times
+Frame	 396 	detect	 car 	 1 	times
+Frame	 397 	detect	 car 	 1 	times
+Frame	 398 	detect	 car 	 1 	times
+Frame	 399 	detect	 car 	 1 	times
+Frame	 400 	detect	 car 	 1 	times
+Frame	 401 	detect	 car 	 1 	times
+Frame	 402 	detect	 car 	 1 	times
+Frame	 403 	detect	 car 	 1 	times
+Frame	 404 	detect	 car 	 1 	times
+Frame	 409 	detect	 car 	 1 	times
+Frame	 410 	detect	 car 	 1 	times
+Frame	 422 	detect	 car 	 1 	times
+Frame	 427 	detect	 car 	 1 	times
+Frame	 428 	detect	 car 	 1 	times
+Frame	 429 	detect	 car 	 1 	times
+Frame	 430 	detect	 car 	 1 	times
+Frame	 431 	detect	 car 	 1 	times
+Frame	 432 	detect	 car 	 2 	times
+Frame	 433 	detect	 car 	 2 	times
+Frame	 434 	detect	 car 	 1 	times
+Frame	 435 	detect	 car 	 1 	times
+Frame	 436 	detect	 car 	 1 	times
+Frame	 437 	detect	 car 	 1 	times
+Frame	 438 	detect	 car 	 2 	times
+Frame	 439 	detect	 car 	 2 	times
+Frame	 440 	detect	 car 	 2 	times
+Frame	 441 	detect	 car 	 2 	times
+Frame	 442 	detect	 car 	 2 	times
+Frame	 443 	detect	 car 	 1 	times
+Frame	 444 	detect	 car 	 1 	times
+Frame	 445 	detect	 car 	 1 	times
+Frame	 446 	detect	 car 	 1 	times
+Frame	 448 	detect	 car 	 1 	times
+Frame	 450 	detect	 car 	 1 	times
+Frame	 451 	detect	 car 	 2 	times
+Frame	 452 	detect	 car 	 2 	times
+Frame	 453 	detect	 car 	 1 	times
+Frame	 454 	detect	 car 	 1 	times
+Frame	 455 	detect	 car 	 2 	times
+Frame	 456 	detect	 car 	 1 	times
+Frame	 457 	detect	 car 	 1 	times
+Frame	 459 	detect	 car 	 1 	times
+Frame	 460 	detect	 car 	 2 	times
+Frame	 464 	detect	 car 	 1 	times
+Frame	 465 	detect	 car 	 1 	times
+Frame	 467 	detect	 car 	 2 	times
+Frame	 468 	detect	 car 	 1 	times
+Frame	 469 	detect	 car 	 1 	times
+Frame	 470 	detect	 car 	 1 	times
+Frame	 471 	detect	 car 	 1 	times
+Frame	 472 	detect	 car 	 2 	times
+Frame	 473 	detect	 car 	 3 	times
+Frame	 474 	detect	 car 	 2 	times
+Frame	 475 	detect	 car 	 2 	times
+Frame	 476 	detect	 car 	 1 	times
+Frame	 477 	detect	 car 	 1 	times
+Frame	 478 	detect	 car 	 3 	times
+Frame	 479 	detect	 car 	 3 	times
+Frame	 480 	detect	 car 	 2 	times
+Frame	 481 	detect	 car 	 3 	times
+Frame	 482 	detect	 car 	 3 	times
+Frame	 483 	detect	 car 	 2 	times
+Frame	 484 	detect	 car 	 3 	times
+Frame	 485 	detect	 car 	 2 	times
+Frame	 486 	detect	 car 	 1 	times
+Frame	 487 	detect	 car 	 1 	times
+Frame	 488 	detect	 car 	 1 	times
+Frame	 489 	detect	 car 	 1 	times
+Frame	 490 	detect	 car 	 2 	times
+Frame	 491 	detect	 car 	 2 	times
+Frame	 492 	detect	 car 	 2 	times
+Frame	 493 	detect	 car 	 2 	times
+Frame	 494 	detect	 car 	 1 	times
+Frame	 495 	detect	 car 	 2 	times
+Frame	 496 	detect	 car 	 3 	times
+Frame	 497 	detect	 car 	 2 	times
+Frame	 498 	detect	 car 	 2 	times
+Frame	 499 	detect	 car 	 2 	times
+Frame	 500 	detect	 car 	 1 	times
+Frame	 501 	detect	 car 	 1 	times
+Frame	 502 	detect	 car 	 2 	times
+Frame	 503 	detect	 car 	 3 	times
+Frame	 504 	detect	 car 	 2 	times
+Frame	 505 	detect	 car 	 3 	times
+Frame	 506 	detect	 car 	 4 	times
+Frame	 507 	detect	 car 	 3 	times
+Frame	 508 	detect	 car 	 3 	times
+Frame	 509 	detect	 car 	 2 	times
+Frame	 510 	detect	 car 	 1 	times
+Frame	 511 	detect	 car 	 3 	times
+Frame	 512 	detect	 car 	 2 	times
+Frame	 513 	detect	 car 	 3 	times
+Frame	 514 	detect	 car 	 2 	times
+Frame	 515 	detect	 car 	 3 	times
+Frame	 516 	detect	 car 	 2 	times
+Frame	 517 	detect	 car 	 2 	times
+Frame	 518 	detect	 car 	 3 	times
+Frame	 519 	detect	 car 	 3 	times
+Frame	 520 	detect	 car 	 2 	times
+Frame	 521 	detect	 car 	 3 	times
+Frame	 522 	detect	 car 	 3 	times
+Frame	 523 	detect	 car 	 3 	times
+Frame	 524 	detect	 car 	 3 	times
+Frame	 525 	detect	 car 	 1 	times
+Frame	 526 	detect	 car 	 2 	times
+Frame	 527 	detect	 car 	 2 	times
+Frame	 528 	detect	 car 	 1 	times
+Frame	 529 	detect	 car 	 2 	times
+Frame	 530 	detect	 car 	 3 	times
+Frame	 531 	detect	 car 	 1 	times
+Frame	 532 	detect	 car 	 1 	times
+Frame	 535 	detect	 car 	 1 	times
+Frame	 536 	detect	 car 	 1 	times
+Frame	 537 	detect	 car 	 2 	times
+Frame	 538 	detect	 car 	 2 	times
+Frame	 539 	detect	 car 	 2 	times
+Frame	 540 	detect	 car 	 2 	times
+Frame	 541 	detect	 car 	 3 	times
+Frame	 542 	detect	 car 	 3 	times
+Frame	 543 	detect	 car 	 2 	times
+Frame	 544 	detect	 car 	 2 	times
+Frame	 545 	detect	 car 	 3 	times
+Frame	 546 	detect	 car 	 4 	times
+Frame	 547 	detect	 car 	 4 	times
+Frame	 548 	detect	 car 	 4 	times
+Frame	 549 	detect	 car 	 3 	times
+Frame	 550 	detect	 car 	 3 	times
+Frame	 551 	detect	 car 	 3 	times
+Frame	 552 	detect	 car 	 3 	times
+Frame	 553 	detect	 car 	 3 	times
+Frame	 554 	detect	 car 	 3 	times
+Frame	 555 	detect	 car 	 3 	times
+Frame	 556 	detect	 car 	 3 	times
+Frame	 557 	detect	 car 	 3 	times
+Frame	 558 	detect	 car 	 3 	times
+Frame	 559 	detect	 car 	 3 	times
+Frame	 560 	detect	 car 	 3 	times
+Frame	 561 	detect	 car 	 3 	times
+Frame	 562 	detect	 car 	 3 	times
+Frame	 563 	detect	 car 	 3 	times
+Frame	 564 	detect	 car 	 3 	times
+Frame	 565 	detect	 car 	 3 	times
+Frame	 566 	detect	 car 	 3 	times
+Frame	 567 	detect	 car 	 3 	times
+Frame	 568 	detect	 car 	 3 	times
+Frame	 569 	detect	 car 	 3 	times
+Frame	 570 	detect	 car 	 3 	times
+Frame	 571 	detect	 car 	 3 	times
+Frame	 572 	detect	 car 	 3 	times
+Frame	 573 	detect	 car 	 3 	times
+Frame	 574 	detect	 car 	 3 	times
+Frame	 575 	detect	 car 	 3 	times
+Frame	 576 	detect	 car 	 3 	times
+Frame	 577 	detect	 car 	 3 	times
+Frame	 578 	detect	 car 	 3 	times
+Frame	 579 	detect	 car 	 4 	times
+Frame	 580 	detect	 car 	 4 	times
+Frame	 581 	detect	 car 	 4 	times
+Frame	 582 	detect	 car 	 4 	times
+Frame	 583 	detect	 car 	 3 	times
+Frame	 584 	detect	 car 	 3 	times
+Frame	 585 	detect	 car 	 3 	times
+Frame	 586 	detect	 car 	 3 	times
+Frame	 587 	detect	 car 	 3 	times
+Frame	 588 	detect	 car 	 3 	times
+Frame	 589 	detect	 car 	 4 	times
+Frame	 590 	detect	 car 	 4 	times
+Frame	 591 	detect	 car 	 3 	times
+Frame	 592 	detect	 car 	 3 	times
+Frame	 593 	detect	 car 	 3 	times
+Frame	 594 	detect	 car 	 3 	times
+Frame	 595 	detect	 car 	 3 	times
+Frame	 596 	detect	 car 	 3 	times
+Frame	 597 	detect	 car 	 4 	times
+Frame	 598 	detect	 car 	 3 	times
+Frame	 599 	detect	 car 	 3 	times
+Frame	 600 	detect	 car 	 3 	times
+Frame	 601 	detect	 car 	 3 	times
+Frame	 602 	detect	 car 	 4 	times
+Frame	 603 	detect	 car 	 4 	times
+Frame	 604 	detect	 car 	 3 	times
+Frame	 605 	detect	 car 	 3 	times
+Frame	 606 	detect	 car 	 3 	times
+Frame	 607 	detect	 car 	 3 	times
+Frame	 608 	detect	 car 	 3 	times
+Frame	 609 	detect	 car 	 2 	times
+Frame	 610 	detect	 car 	 2 	times
+Frame	 611 	detect	 car 	 2 	times
+Frame	 612 	detect	 car 	 3 	times
+Frame	 613 	detect	 car 	 4 	times
+Frame	 614 	detect	 car 	 4 	times
+Frame	 615 	detect	 car 	 4 	times
+Frame	 616 	detect	 car 	 4 	times
+Frame	 617 	detect	 car 	 5 	times
+Frame	 618 	detect	 car 	 4 	times
+Frame	 619 	detect	 car 	 4 	times
+Frame	 620 	detect	 car 	 4 	times
+Frame	 621 	detect	 car 	 4 	times
+Frame	 622 	detect	 car 	 4 	times
+Frame	 623 	detect	 car 	 4 	times
+Frame	 624 	detect	 car 	 4 	times
+Frame	 625 	detect	 car 	 4 	times
+Frame	 626 	detect	 car 	 4 	times
+Frame	 627 	detect	 car 	 4 	times
+Frame	 628 	detect	 car 	 4 	times
+Frame	 629 	detect	 car 	 4 	times
+Frame	 630 	detect	 car 	 4 	times
+Frame	 631 	detect	 car 	 4 	times
+Frame	 632 	detect	 car 	 4 	times
+Frame	 633 	detect	 car 	 4 	times
+Frame	 634 	detect	 car 	 4 	times
+Frame	 635 	detect	 car 	 4 	times
+Frame	 636 	detect	 car 	 4 	times
+Frame	 637 	detect	 car 	 4 	times
+Frame	 638 	detect	 car 	 4 	times
+Frame	 639 	detect	 car 	 4 	times
+Frame	 640 	detect	 car 	 3 	times
+Frame	 641 	detect	 car 	 3 	times
+Frame	 642 	detect	 car 	 3 	times
+Frame	 643 	detect	 car 	 3 	times
+Frame	 644 	detect	 car 	 4 	times
+Frame	 645 	detect	 car 	 4 	times
+Frame	 646 	detect	 car 	 4 	times
+Frame	 647 	detect	 car 	 4 	times
+Frame	 648 	detect	 car 	 3 	times
+Frame	 649 	detect	 car 	 3 	times
+Frame	 650 	detect	 car 	 3 	times
+Frame	 651 	detect	 car 	 4 	times
+Frame	 652 	detect	 car 	 4 	times
+Frame	 653 	detect	 car 	 3 	times
+Frame	 654 	detect	 car 	 4 	times
+Frame	 655 	detect	 car 	 4 	times
+Frame	 656 	detect	 car 	 4 	times
+Frame	 657 	detect	 car 	 4 	times
+Frame	 658 	detect	 car 	 4 	times
+Frame	 659 	detect	 car 	 4 	times
+Frame	 660 	detect	 car 	 4 	times
+Frame	 661 	detect	 car 	 4 	times
+Frame	 662 	detect	 car 	 4 	times
+Frame	 663 	detect	 car 	 4 	times
+Frame	 664 	detect	 car 	 4 	times
+Frame	 665 	detect	 car 	 4 	times
+Frame	 666 	detect	 car 	 4 	times
+Frame	 667 	detect	 car 	 4 	times
+Frame	 668 	detect	 car 	 4 	times
+Frame	 669 	detect	 car 	 4 	times
+Frame	 670 	detect	 car 	 4 	times
+Frame	 671 	detect	 car 	 4 	times
+Frame	 672 	detect	 car 	 4 	times
+Frame	 673 	detect	 car 	 4 	times
+Frame	 674 	detect	 car 	 4 	times
+Frame	 675 	detect	 car 	 4 	times
+Frame	 676 	detect	 car 	 4 	times
+Frame	 677 	detect	 car 	 4 	times
+Frame	 678 	detect	 car 	 3 	times
+Frame	 679 	detect	 car 	 3 	times
+Frame	 680 	detect	 car 	 3 	times
+Frame	 681 	detect	 car 	 3 	times
+Frame	 682 	detect	 car 	 4 	times
+Frame	 683 	detect	 car 	 3 	times
+Frame	 684 	detect	 car 	 4 	times
+Frame	 685 	detect	 car 	 4 	times
+Frame	 686 	detect	 car 	 3 	times
+Frame	 687 	detect	 car 	 3 	times
+Frame	 688 	detect	 car 	 3 	times
+Frame	 689 	detect	 car 	 3 	times
+Frame	 690 	detect	 car 	 3 	times
+Frame	 691 	detect	 car 	 3 	times
+Frame	 692 	detect	 car 	 3 	times
+Frame	 693 	detect	 car 	 4 	times
+Frame	 694 	detect	 car 	 3 	times
+Frame	 695 	detect	 car 	 4 	times
+Frame	 696 	detect	 car 	 4 	times
+Frame	 697 	detect	 car 	 3 	times
+Frame	 698 	detect	 car 	 5 	times
+Frame	 699 	detect	 car 	 4 	times
+Frame	 700 	detect	 car 	 4 	times
+Frame	 701 	detect	 car 	 4 	times
+Frame	 702 	detect	 car 	 5 	times
+Frame	 703 	detect	 car 	 5 	times
+Frame	 704 	detect	 car 	 3 	times
+Frame	 705 	detect	 car 	 4 	times
+Frame	 706 	detect	 car 	 5 	times
+Frame	 707 	detect	 car 	 4 	times
+Frame	 708 	detect	 car 	 4 	times
+Frame	 709 	detect	 car 	 4 	times
+Frame	 710 	detect	 car 	 5 	times
+Frame	 711 	detect	 car 	 2 	times
+Frame	 712 	detect	 car 	 2 	times
+Frame	 713 	detect	 car 	 2 	times
+Frame	 714 	detect	 car 	 2 	times
+Frame	 715 	detect	 car 	 2 	times
+Frame	 716 	detect	 car 	 2 	times
+Frame	 717 	detect	 car 	 3 	times
+Frame	 718 	detect	 car 	 2 	times
+Frame	 719 	detect	 car 	 2 	times
+Frame	 720 	detect	 car 	 2 	times
+Frame	 721 	detect	 car 	 4 	times
+Frame	 722 	detect	 car 	 3 	times
+Frame	 723 	detect	 car 	 3 	times
+Frame	 724 	detect	 car 	 3 	times
+Frame	 725 	detect	 car 	 4 	times
+Frame	 726 	detect	 car 	 4 	times
+Frame	 727 	detect	 car 	 4 	times
+Frame	 728 	detect	 car 	 3 	times
+Frame	 729 	detect	 car 	 4 	times
+Frame	 730 	detect	 car 	 4 	times
+Frame	 731 	detect	 car 	 4 	times
+Frame	 732 	detect	 car 	 4 	times
+Frame	 733 	detect	 car 	 4 	times
+Frame	 734 	detect	 car 	 4 	times
+Frame	 735 	detect	 car 	 4 	times
+Frame	 736 	detect	 car 	 4 	times
+Frame	 737 	detect	 car 	 3 	times
+Frame	 738 	detect	 car 	 3 	times
+Frame	 739 	detect	 car 	 3 	times
+Frame	 740 	detect	 car 	 4 	times
+Frame	 741 	detect	 car 	 4 	times
+Frame	 742 	detect	 car 	 4 	times
+Frame	 743 	detect	 car 	 3 	times
+Frame	 744 	detect	 car 	 3 	times
+Frame	 745 	detect	 car 	 2 	times
+Frame	 746 	detect	 car 	 2 	times
+Frame	 747 	detect	 car 	 4 	times
+Frame	 748 	detect	 car 	 3 	times
+Frame	 749 	detect	 car 	 3 	times
+Frame	 750 	detect	 car 	 3 	times
+Frame	 751 	detect	 car 	 4 	times
+Frame	 752 	detect	 car 	 3 	times
+Frame	 753 	detect	 car 	 3 	times
+Frame	 754 	detect	 car 	 3 	times
+Frame	 755 	detect	 car 	 3 	times
+Frame	 756 	detect	 car 	 4 	times
+Frame	 757 	detect	 car 	 4 	times
+Frame	 758 	detect	 car 	 3 	times
+Frame	 759 	detect	 car 	 3 	times
+Frame	 760 	detect	 car 	 3 	times
+Frame	 761 	detect	 car 	 4 	times
+Frame	 762 	detect	 car 	 4 	times
+Frame	 763 	detect	 car 	 3 	times
+Frame	 764 	detect	 car 	 3 	times
+Frame	 765 	detect	 car 	 3 	times
+Frame	 766 	detect	 car 	 3 	times
+Frame	 767 	detect	 car 	 3 	times
+Frame	 768 	detect	 car 	 3 	times
+Frame	 769 	detect	 car 	 4 	times
+Frame	 770 	detect	 car 	 4 	times
+Frame	 771 	detect	 car 	 5 	times
+Frame	 772 	detect	 car 	 5 	times
+Frame	 773 	detect	 car 	 5 	times
+Frame	 774 	detect	 car 	 5 	times
+Frame	 775 	detect	 car 	 5 	times
+Frame	 776 	detect	 car 	 4 	times
+Frame	 777 	detect	 car 	 4 	times
+Frame	 778 	detect	 car 	 4 	times
+Frame	 779 	detect	 car 	 4 	times
+Frame	 780 	detect	 car 	 3 	times
+Frame	 781 	detect	 car 	 3 	times
+Frame	 782 	detect	 car 	 5 	times
+Frame	 783 	detect	 car 	 5 	times
+Frame	 784 	detect	 car 	 5 	times
+Frame	 785 	detect	 car 	 5 	times
+Frame	 786 	detect	 car 	 4 	times
+Frame	 787 	detect	 car 	 5 	times
+Frame	 788 	detect	 car 	 5 	times
+Frame	 789 	detect	 car 	 4 	times
+Frame	 790 	detect	 car 	 4 	times
+Frame	 791 	detect	 car 	 4 	times
+Frame	 792 	detect	 car 	 5 	times
+Frame	 793 	detect	 car 	 5 	times
+Frame	 794 	detect	 car 	 5 	times
+Frame	 795 	detect	 car 	 5 	times
+Frame	 796 	detect	 car 	 6 	times
+Frame	 797 	detect	 car 	 6 	times
+Frame	 798 	detect	 car 	 4 	times
+Frame	 799 	detect	 car 	 4 	times
+Frame	 800 	detect	 car 	 5 	times
+Frame	 801 	detect	 car 	 5 	times
+Frame	 802 	detect	 car 	 5 	times
+Frame	 803 	detect	 car 	 5 	times
+Frame	 804 	detect	 car 	 5 	times
+Frame	 805 	detect	 car 	 5 	times
+Frame	 806 	detect	 car 	 4 	times
+Frame	 807 	detect	 car 	 5 	times
+Frame	 808 	detect	 car 	 4 	times
+Frame	 809 	detect	 car 	 4 	times
+Frame	 810 	detect	 car 	 5 	times
+Frame	 811 	detect	 car 	 4 	times
+Frame	 812 	detect	 car 	 5 	times
+Frame	 813 	detect	 car 	 5 	times
+Frame	 814 	detect	 car 	 5 	times
+Frame	 815 	detect	 car 	 5 	times
+Frame	 816 	detect	 car 	 5 	times
+Frame	 817 	detect	 car 	 5 	times
+Frame	 818 	detect	 car 	 4 	times
+Frame	 819 	detect	 car 	 4 	times
+Frame	 820 	detect	 car 	 5 	times
+Frame	 821 	detect	 car 	 5 	times
+Frame	 822 	detect	 car 	 6 	times
+Frame	 823 	detect	 car 	 6 	times
+Frame	 824 	detect	 car 	 3 	times
+Frame	 825 	detect	 car 	 4 	times
+Frame	 826 	detect	 car 	 4 	times
+Frame	 827 	detect	 car 	 4 	times
+Frame	 828 	detect	 car 	 4 	times
+Frame	 829 	detect	 car 	 4 	times
+Frame	 830 	detect	 car 	 4 	times
+Frame	 831 	detect	 car 	 4 	times
+Frame	 832 	detect	 car 	 3 	times
+Frame	 833 	detect	 car 	 4 	times
+Frame	 834 	detect	 car 	 4 	times
+Frame	 835 	detect	 car 	 4 	times
+Frame	 836 	detect	 car 	 2 	times
+Frame	 837 	detect	 car 	 3 	times
+Frame	 838 	detect	 car 	 3 	times
+Frame	 839 	detect	 car 	 4 	times
+Frame	 840 	detect	 car 	 4 	times
+Frame	 841 	detect	 car 	 4 	times
+Frame	 842 	detect	 car 	 4 	times
+Frame	 843 	detect	 car 	 5 	times
+Frame	 844 	detect	 car 	 5 	times
+Frame	 845 	detect	 car 	 5 	times
+Frame	 846 	detect	 car 	 3 	times
+Frame	 847 	detect	 car 	 4 	times
+Frame	 848 	detect	 car 	 4 	times
+Frame	 849 	detect	 car 	 6 	times
+Frame	 850 	detect	 car 	 6 	times
+Frame	 851 	detect	 car 	 6 	times
+Frame	 852 	detect	 car 	 5 	times
+Frame	 853 	detect	 car 	 6 	times
+Frame	 854 	detect	 car 	 6 	times
+Frame	 855 	detect	 car 	 6 	times
+Frame	 856 	detect	 car 	 6 	times
+Frame	 857 	detect	 car 	 6 	times
+Frame	 858 	detect	 car 	 6 	times
+Frame	 859 	detect	 car 	 5 	times
+Frame	 860 	detect	 car 	 6 	times
+Frame	 861 	detect	 car 	 5 	times
+Frame	 862 	detect	 car 	 5 	times
+Frame	 863 	detect	 car 	 4 	times
+Frame	 864 	detect	 car 	 4 	times
+Frame	 865 	detect	 car 	 3 	times
+Frame	 866 	detect	 car 	 3 	times
+Frame	 867 	detect	 car 	 5 	times
+Frame	 868 	detect	 car 	 4 	times
+Frame	 869 	detect	 car 	 3 	times
+Frame	 870 	detect	 car 	 3 	times
+Frame	 871 	detect	 car 	 3 	times
+Frame	 872 	detect	 car 	 5 	times
+Frame	 873 	detect	 car 	 3 	times
+Frame	 874 	detect	 car 	 4 	times
+Frame	 875 	detect	 car 	 4 	times
+Frame	 876 	detect	 car 	 4 	times
+Frame	 877 	detect	 car 	 3 	times
+Frame	 878 	detect	 car 	 4 	times
+Frame	 879 	detect	 car 	 4 	times
+Frame	 880 	detect	 car 	 4 	times
+Frame	 881 	detect	 car 	 4 	times
+Frame	 882 	detect	 car 	 4 	times
+Frame	 883 	detect	 car 	 3 	times
+Frame	 884 	detect	 car 	 3 	times
+Frame	 885 	detect	 car 	 3 	times
+Frame	 886 	detect	 car 	 3 	times
+Frame	 887 	detect	 car 	 4 	times
+Frame	 888 	detect	 car 	 3 	times
+Frame	 889 	detect	 car 	 4 	times
+Frame	 890 	detect	 car 	 4 	times
+Frame	 891 	detect	 car 	 4 	times
+Frame	 892 	detect	 car 	 5 	times
+Frame	 893 	detect	 car 	 5 	times
+Frame	 894 	detect	 car 	 5 	times
+Frame	 895 	detect	 car 	 5 	times
+Frame	 896 	detect	 car 	 5 	times
+Frame	 897 	detect	 car 	 5 	times
+Frame	 898 	detect	 car 	 4 	times
+Frame	 899 	detect	 car 	 5 	times
+Frame	 900 	detect	 car 	 5 	times
+Frame	 901 	detect	 car 	 5 	times
+Frame	 902 	detect	 car 	 5 	times
+Frame	 903 	detect	 car 	 5 	times
+Frame	 904 	detect	 car 	 5 	times
+Frame	 905 	detect	 car 	 5 	times
+Frame	 906 	detect	 car 	 5 	times
+Frame	 907 	detect	 car 	 5 	times
+Frame	 908 	detect	 car 	 5 	times
+Frame	 909 	detect	 car 	 5 	times
+Frame	 910 	detect	 car 	 5 	times
+Frame	 911 	detect	 car 	 5 	times
+Frame	 912 	detect	 car 	 4 	times
+Frame	 913 	detect	 car 	 5 	times
+Frame	 914 	detect	 car 	 5 	times
+Frame	 915 	detect	 car 	 5 	times
+Frame	 916 	detect	 car 	 5 	times
+Frame	 917 	detect	 car 	 5 	times
+Frame	 918 	detect	 car 	 5 	times
+Frame	 919 	detect	 car 	 4 	times
+Frame	 920 	detect	 car 	 4 	times
+Frame	 921 	detect	 car 	 4 	times
+Frame	 922 	detect	 car 	 4 	times
+Frame	 923 	detect	 car 	 4 	times
+Frame	 924 	detect	 car 	 4 	times
+Frame	 925 	detect	 car 	 4 	times
+Frame	 926 	detect	 car 	 4 	times
+Frame	 927 	detect	 car 	 4 	times
+Frame	 928 	detect	 car 	 4 	times
+Frame	 929 	detect	 car 	 4 	times
+Frame	 930 	detect	 car 	 3 	times
+Frame	 931 	detect	 car 	 3 	times
+Frame	 932 	detect	 car 	 3 	times
+Frame	 933 	detect	 car 	 3 	times
+Frame	 934 	detect	 car 	 3 	times
+Frame	 935 	detect	 car 	 4 	times
+Frame	 936 	detect	 car 	 3 	times
+Frame	 937 	detect	 car 	 3 	times
+Frame	 938 	detect	 car 	 3 	times
+Frame	 939 	detect	 car 	 3 	times
+Frame	 940 	detect	 car 	 3 	times
+Frame	 941 	detect	 car 	 3 	times
+Frame	 942 	detect	 car 	 3 	times
+Frame	 943 	detect	 car 	 3 	times
+Frame	 944 	detect	 car 	 4 	times
+Frame	 945 	detect	 car 	 4 	times
+Frame	 946 	detect	 car 	 4 	times
+Frame	 947 	detect	 car 	 4 	times
+Frame	 948 	detect	 car 	 4 	times
+Frame	 949 	detect	 car 	 4 	times
+Frame	 950 	detect	 car 	 4 	times
+Frame	 951 	detect	 car 	 4 	times
+Frame	 952 	detect	 car 	 6 	times
+Frame	 953 	detect	 car 	 5 	times
+Frame	 954 	detect	 car 	 5 	times
+Frame	 955 	detect	 car 	 5 	times
+Frame	 956 	detect	 car 	 5 	times
+Frame	 957 	detect	 car 	 5 	times
+Frame	 958 	detect	 car 	 5 	times
+Frame	 959 	detect	 car 	 5 	times
+Frame	 960 	detect	 car 	 5 	times
+Frame	 961 	detect	 car 	 5 	times
+Frame	 962 	detect	 car 	 5 	times
+Frame	 963 	detect	 car 	 5 	times
+Frame	 964 	detect	 car 	 5 	times
+Frame	 965 	detect	 car 	 5 	times
+Frame	 966 	detect	 car 	 5 	times
+Frame	 967 	detect	 car 	 5 	times
+Frame	 968 	detect	 car 	 5 	times
+Frame	 969 	detect	 car 	 5 	times
+Frame	 970 	detect	 car 	 4 	times
+Frame	 971 	detect	 car 	 4 	times
+Frame	 972 	detect	 car 	 4 	times
+Frame	 973 	detect	 car 	 4 	times
+Frame	 974 	detect	 car 	 4 	times
+Frame	 975 	detect	 car 	 4 	times
+Frame	 976 	detect	 car 	 4 	times
+Frame	 977 	detect	 car 	 4 	times
+Frame	 978 	detect	 car 	 4 	times
+Frame	 979 	detect	 car 	 4 	times
+Frame	 980 	detect	 car 	 4 	times
+Frame	 981 	detect	 car 	 4 	times
+Frame	 982 	detect	 car 	 4 	times
+Frame	 983 	detect	 car 	 4 	times
+Frame	 984 	detect	 car 	 4 	times
+Frame	 985 	detect	 car 	 4 	times
+Frame	 986 	detect	 car 	 4 	times
+Frame	 987 	detect	 car 	 5 	times
+Frame	 988 	detect	 car 	 5 	times
+Frame	 989 	detect	 car 	 4 	times
+Frame	 990 	detect	 car 	 4 	times
+Frame	 991 	detect	 car 	 4 	times
+Frame	 992 	detect	 car 	 3 	times
+Frame	 993 	detect	 car 	 3 	times
+Frame	 994 	detect	 car 	 3 	times
+Frame	 995 	detect	 car 	 4 	times
+Frame	 996 	detect	 car 	 3 	times
+Frame	 997 	detect	 car 	 2 	times
+Frame	 998 	detect	 car 	 3 	times
+Frame	 999 	detect	 car 	 4 	times
+Frame	 1000 	detect	 car 	 3 	times
+Frame	 1001 	detect	 car 	 4 	times
+Frame	 1002 	detect	 car 	 4 	times
+Frame	 1003 	detect	 car 	 4 	times
+Frame	 1004 	detect	 car 	 4 	times
+Frame	 1005 	detect	 car 	 3 	times
+Frame	 1006 	detect	 car 	 3 	times
+Frame	 1007 	detect	 car 	 3 	times
+Frame	 1008 	detect	 car 	 4 	times
+Frame	 1009 	detect	 car 	 3 	times
+Frame	 1010 	detect	 car 	 3 	times
+Frame	 1011 	detect	 car 	 5 	times
+Frame	 1012 	detect	 car 	 4 	times
+Frame	 1013 	detect	 car 	 4 	times
+Frame	 1014 	detect	 car 	 4 	times
+Frame	 1015 	detect	 car 	 4 	times
+Frame	 1016 	detect	 car 	 4 	times
+Frame	 1017 	detect	 car 	 4 	times
+Frame	 1018 	detect	 car 	 4 	times
+Frame	 1019 	detect	 car 	 4 	times
+Frame	 1020 	detect	 car 	 4 	times
+Frame	 1021 	detect	 car 	 4 	times
+Frame	 1022 	detect	 car 	 3 	times
+Frame	 1023 	detect	 car 	 3 	times
+Frame	 1024 	detect	 car 	 3 	times
+Frame	 1025 	detect	 car 	 3 	times
+Frame	 1026 	detect	 car 	 2 	times
+Frame	 1027 	detect	 car 	 2 	times
+Frame	 1028 	detect	 car 	 2 	times
+Frame	 1029 	detect	 car 	 2 	times
+Frame	 1030 	detect	 car 	 2 	times
+Frame	 1031 	detect	 car 	 2 	times
+Frame	 1032 	detect	 car 	 2 	times
+Frame	 1033 	detect	 car 	 2 	times
+Frame	 1034 	detect	 car 	 2 	times
+Frame	 1035 	detect	 car 	 2 	times
+Frame	 1036 	detect	 car 	 2 	times
+Frame	 1037 	detect	 car 	 2 	times
+Frame	 1038 	detect	 car 	 2 	times
+Frame	 1039 	detect	 car 	 2 	times
+Frame	 1040 	detect	 car 	 2 	times
+Frame	 1041 	detect	 car 	 2 	times
+Frame	 1042 	detect	 car 	 2 	times
+Frame	 1043 	detect	 car 	 2 	times
+Frame	 1044 	detect	 car 	 2 	times
+Frame	 1045 	detect	 car 	 2 	times
+Frame	 1046 	detect	 car 	 2 	times
+Frame	 1047 	detect	 car 	 2 	times
+Frame	 1048 	detect	 car 	 2 	times
+Frame	 1049 	detect	 car 	 2 	times
+Frame	 1050 	detect	 car 	 2 	times
+Frame	 1051 	detect	 car 	 2 	times
+Frame	 1052 	detect	 car 	 2 	times
+Frame	 1053 	detect	 car 	 3 	times
+Frame	 1054 	detect	 car 	 3 	times
+Frame	 1055 	detect	 car 	 2 	times
+Frame	 1056 	detect	 car 	 2 	times
+Frame	 1057 	detect	 car 	 2 	times
+Frame	 1058 	detect	 car 	 2 	times
+Frame	 1059 	detect	 car 	 2 	times
+Frame	 1060 	detect	 car 	 3 	times
+Frame	 1061 	detect	 car 	 3 	times
+Frame	 1062 	detect	 car 	 3 	times
+Frame	 1063 	detect	 car 	 2 	times
+Frame	 1064 	detect	 car 	 3 	times
+Frame	 1065 	detect	 car 	 2 	times
+Frame	 1066 	detect	 car 	 2 	times
+Frame	 1067 	detect	 car 	 2 	times
+Frame	 1068 	detect	 car 	 2 	times
+Frame	 1069 	detect	 car 	 2 	times
+Frame	 1070 	detect	 car 	 2 	times
+Frame	 1071 	detect	 car 	 2 	times
+Frame	 1072 	detect	 car 	 2 	times
+Frame	 1073 	detect	 car 	 2 	times
+Frame	 1074 	detect	 car 	 2 	times
+Frame	 1075 	detect	 car 	 2 	times
+Frame	 1076 	detect	 car 	 2 	times
+Frame	 1077 	detect	 car 	 2 	times
+Frame	 1078 	detect	 car 	 2 	times
+Frame	 1079 	detect	 car 	 2 	times
+Frame	 1080 	detect	 car 	 2 	times
+Frame	 1081 	detect	 car 	 2 	times
+Frame	 1082 	detect	 car 	 2 	times
+Frame	 1083 	detect	 car 	 2 	times
+Frame	 1084 	detect	 car 	 2 	times
+Frame	 1085 	detect	 car 	 2 	times
+Frame	 1086 	detect	 car 	 2 	times
+Frame	 1087 	detect	 car 	 2 	times
+Frame	 1088 	detect	 car 	 3 	times
+Frame	 1089 	detect	 car 	 2 	times
+Frame	 1090 	detect	 car 	 2 	times
+Frame	 1091 	detect	 car 	 3 	times
+Frame	 1092 	detect	 car 	 2 	times
+Frame	 1093 	detect	 car 	 2 	times
+Frame	 1094 	detect	 car 	 2 	times
+Frame	 1095 	detect	 car 	 2 	times
+Frame	 1096 	detect	 car 	 2 	times
+Frame	 1097 	detect	 car 	 2 	times
+Frame	 1098 	detect	 car 	 2 	times
+Frame	 1099 	detect	 car 	 2 	times
+Frame	 1100 	detect	 car 	 2 	times
+Frame	 1101 	detect	 car 	 2 	times
+Frame	 1102 	detect	 car 	 3 	times
+Frame	 1103 	detect	 car 	 3 	times
+Frame	 1104 	detect	 car 	 3 	times
+Frame	 1105 	detect	 car 	 3 	times
+Frame	 1106 	detect	 car 	 3 	times
+Frame	 1107 	detect	 car 	 3 	times
+Frame	 1108 	detect	 car 	 2 	times
+Frame	 1109 	detect	 car 	 2 	times
+Frame	 1110 	detect	 car 	 2 	times
+Frame	 1111 	detect	 car 	 3 	times
+Frame	 1112 	detect	 car 	 2 	times
+Frame	 1113 	detect	 car 	 2 	times
+Frame	 1114 	detect	 car 	 2 	times
+Frame	 1115 	detect	 car 	 2 	times
+Frame	 1116 	detect	 car 	 2 	times
+Frame	 1117 	detect	 car 	 2 	times
+Frame	 1118 	detect	 car 	 2 	times
+Frame	 1119 	detect	 car 	 3 	times
+Frame	 1120 	detect	 car 	 2 	times
+Frame	 1121 	detect	 car 	 2 	times
+Frame	 1122 	detect	 car 	 2 	times
+Frame	 1123 	detect	 car 	 2 	times
+Frame	 1124 	detect	 car 	 2 	times
+Frame	 1125 	detect	 car 	 2 	times
+Frame	 1126 	detect	 car 	 2 	times
+Frame	 1127 	detect	 car 	 2 	times
+Frame	 1128 	detect	 car 	 3 	times
+Frame	 1129 	detect	 car 	 4 	times
+Frame	 1130 	detect	 car 	 2 	times
+Frame	 1131 	detect	 car 	 2 	times
+Frame	 1132 	detect	 car 	 3 	times
+Frame	 1133 	detect	 car 	 3 	times
+Frame	 1134 	detect	 car 	 4 	times
+Frame	 1135 	detect	 car 	 3 	times
+Frame	 1136 	detect	 car 	 2 	times
+Frame	 1137 	detect	 car 	 2 	times
+Frame	 1138 	detect	 car 	 3 	times
+Frame	 1139 	detect	 car 	 3 	times
+Frame	 1140 	detect	 car 	 3 	times
+Frame	 1141 	detect	 car 	 2 	times
+Frame	 1142 	detect	 car 	 2 	times
+Frame	 1143 	detect	 car 	 3 	times
+Frame	 1144 	detect	 car 	 2 	times
+Frame	 1145 	detect	 car 	 2 	times
+Frame	 1146 	detect	 car 	 3 	times
+Frame	 1147 	detect	 car 	 3 	times
+Frame	 1148 	detect	 car 	 3 	times
+Frame	 1149 	detect	 car 	 3 	times
+Frame	 1150 	detect	 car 	 3 	times
+Frame	 1151 	detect	 car 	 3 	times
+Frame	 1152 	detect	 car 	 3 	times
+Frame	 1153 	detect	 car 	 3 	times
+Frame	 1154 	detect	 car 	 4 	times
+Frame	 1155 	detect	 car 	 4 	times
+Frame	 1156 	detect	 car 	 4 	times
+Frame	 1157 	detect	 car 	 3 	times
+Frame	 1158 	detect	 car 	 4 	times
+Frame	 1159 	detect	 car 	 4 	times
+Frame	 1160 	detect	 car 	 5 	times
+Frame	 1161 	detect	 car 	 4 	times
+Frame	 1162 	detect	 car 	 4 	times
+Frame	 1163 	detect	 car 	 4 	times
+Frame	 1164 	detect	 car 	 4 	times
+Frame	 1165 	detect	 car 	 4 	times
+Frame	 1166 	detect	 car 	 3 	times
+Frame	 1167 	detect	 car 	 3 	times
+Frame	 1168 	detect	 car 	 3 	times
+Frame	 1169 	detect	 car 	 3 	times
+Frame	 1170 	detect	 car 	 3 	times
+Frame	 1171 	detect	 car 	 3 	times
+Frame	 1172 	detect	 car 	 3 	times
+Frame	 1173 	detect	 car 	 3 	times
+Frame	 1174 	detect	 car 	 3 	times
+Frame	 1175 	detect	 car 	 3 	times
+Frame	 1176 	detect	 car 	 3 	times
+Frame	 1177 	detect	 car 	 3 	times
+Frame	 1178 	detect	 car 	 3 	times
+Frame	 1179 	detect	 car 	 3 	times
+Frame	 1180 	detect	 car 	 3 	times
+Frame	 1181 	detect	 car 	 4 	times
+Frame	 1182 	detect	 car 	 4 	times
+Frame	 1183 	detect	 car 	 3 	times
+Frame	 1184 	detect	 car 	 4 	times
+Frame	 1185 	detect	 car 	 3 	times
+Frame	 1186 	detect	 car 	 3 	times
+Frame	 1187 	detect	 car 	 5 	times
+Frame	 1188 	detect	 car 	 4 	times
+Frame	 1189 	detect	 car 	 4 	times
+Frame	 1190 	detect	 car 	 5 	times
+Frame	 1191 	detect	 car 	 4 	times
+Frame	 1192 	detect	 car 	 3 	times
+Frame	 1193 	detect	 car 	 4 	times
+Frame	 1194 	detect	 car 	 4 	times
+Frame	 1195 	detect	 car 	 5 	times
+Frame	 1196 	detect	 car 	 4 	times
+Frame	 1197 	detect	 car 	 4 	times
+Frame	 980 	detect	 motorbike 	 1 	times
+Frame	 981 	detect	 motorbike 	 1 	times
+Frame	 997 	detect	 motorbike 	 1 	times
+Frame	 999 	detect	 motorbike 	 1 	times
+Frame	 1000 	detect	 motorbike 	 1 	times
+Frame	 1001 	detect	 motorbike 	 1 	times
+Frame	 1007 	detect	 motorbike 	 1 	times
+Frame	 1039 	detect	 motorbike 	 1 	times
+Frame	 1041 	detect	 motorbike 	 1 	times
+Frame	 10 	detect	 train 	 1 	times
+Frame	 11 	detect	 train 	 1 	times
+Frame	 12 	detect	 train 	 1 	times
+Frame	 13 	detect	 train 	 1 	times
+Frame	 14 	detect	 train 	 1 	times
+Frame	 15 	detect	 train 	 1 	times
+Frame	 16 	detect	 train 	 1 	times
+Frame	 17 	detect	 train 	 1 	times
+Frame	 18 	detect	 train 	 1 	times
+Frame	 61 	detect	 train 	 1 	times
+Frame	 62 	detect	 train 	 1 	times
+Frame	 65 	detect	 train 	 1 	times
+Frame	 76 	detect	 train 	 1 	times
+Frame	 78 	detect	 train 	 1 	times
+Frame	 79 	detect	 train 	 1 	times
+Frame	 80 	detect	 train 	 1 	times
+Frame	 86 	detect	 train 	 1 	times
+Frame	 87 	detect	 train 	 1 	times
+Frame	 88 	detect	 train 	 1 	times
+Frame	 89 	detect	 train 	 1 	times
+Frame	 93 	detect	 train 	 1 	times
+Frame	 101 	detect	 train 	 1 	times
+Frame	 102 	detect	 train 	 1 	times
+Frame	 103 	detect	 train 	 1 	times
+Frame	 132 	detect	 train 	 1 	times
+Frame	 136 	detect	 train 	 1 	times
+Frame	 137 	detect	 train 	 1 	times
+Frame	 138 	detect	 train 	 1 	times
+Frame	 152 	detect	 train 	 1 	times
+Frame	 155 	detect	 train 	 1 	times
+Frame	 161 	detect	 train 	 1 	times
+Frame	 163 	detect	 train 	 1 	times
+Frame	 164 	detect	 train 	 1 	times
+Frame	 165 	detect	 train 	 1 	times
+Frame	 166 	detect	 train 	 1 	times
+Frame	 167 	detect	 train 	 1 	times
+Frame	 211 	detect	 train 	 1 	times
+Frame	 213 	detect	 train 	 1 	times
+Frame	 214 	detect	 train 	 1 	times
+Frame	 216 	detect	 train 	 1 	times
+Frame	 217 	detect	 train 	 1 	times
+Frame	 218 	detect	 train 	 1 	times
+Frame	 219 	detect	 train 	 1 	times
+Frame	 220 	detect	 train 	 1 	times
+Frame	 221 	detect	 train 	 1 	times
+Frame	 222 	detect	 train 	 1 	times
+Frame	 223 	detect	 train 	 1 	times
+Frame	 225 	detect	 train 	 1 	times
+Frame	 226 	detect	 train 	 1 	times
+Frame	 227 	detect	 train 	 1 	times
+Frame	 228 	detect	 train 	 1 	times
+Frame	 229 	detect	 train 	 1 	times
+Frame	 230 	detect	 train 	 1 	times
+Frame	 231 	detect	 train 	 1 	times
+Frame	 232 	detect	 train 	 1 	times
+Frame	 233 	detect	 train 	 1 	times
+Frame	 234 	detect	 train 	 1 	times
+Frame	 236 	detect	 train 	 1 	times
+Frame	 237 	detect	 train 	 1 	times
+Frame	 239 	detect	 train 	 1 	times
+Frame	 243 	detect	 train 	 1 	times
+Frame	 245 	detect	 train 	 1 	times
+Frame	 250 	detect	 train 	 1 	times
+Frame	 251 	detect	 train 	 1 	times
+Frame	 252 	detect	 train 	 1 	times
+Frame	 254 	detect	 train 	 1 	times
+Frame	 255 	detect	 train 	 1 	times
+Frame	 259 	detect	 train 	 1 	times
+Frame	 272 	detect	 train 	 1 	times
+Frame	 274 	detect	 train 	 1 	times
+Frame	 275 	detect	 train 	 1 	times
+Frame	 276 	detect	 train 	 1 	times
+Frame	 278 	detect	 train 	 1 	times
+Frame	 280 	detect	 train 	 1 	times
+Frame	 281 	detect	 train 	 1 	times
+Frame	 282 	detect	 train 	 1 	times
+Frame	 285 	detect	 train 	 1 	times
+Frame	 286 	detect	 train 	 1 	times
+Frame	 289 	detect	 train 	 1 	times
+Frame	 290 	detect	 train 	 1 	times
+Frame	 291 	detect	 train 	 1 	times
+Frame	 293 	detect	 train 	 1 	times
+Frame	 294 	detect	 train 	 1 	times
+Frame	 295 	detect	 train 	 1 	times
+Frame	 296 	detect	 train 	 1 	times
+Frame	 297 	detect	 train 	 1 	times
+Frame	 298 	detect	 train 	 1 	times
+Frame	 299 	detect	 train 	 1 	times
+Frame	 300 	detect	 train 	 1 	times
+Frame	 301 	detect	 train 	 1 	times
+Frame	 302 	detect	 train 	 1 	times
+Frame	 303 	detect	 train 	 1 	times
+Frame	 304 	detect	 train 	 1 	times
+Frame	 305 	detect	 train 	 1 	times
+Frame	 306 	detect	 train 	 1 	times
+Frame	 307 	detect	 train 	 1 	times
+Frame	 308 	detect	 train 	 1 	times
+Frame	 309 	detect	 train 	 1 	times
+Frame	 310 	detect	 train 	 1 	times
+Frame	 311 	detect	 train 	 1 	times
+Frame	 312 	detect	 train 	 1 	times
+Frame	 313 	detect	 train 	 1 	times
+Frame	 314 	detect	 train 	 1 	times
+Frame	 315 	detect	 train 	 1 	times
+Frame	 316 	detect	 train 	 1 	times
+Frame	 317 	detect	 train 	 1 	times
+Frame	 318 	detect	 train 	 1 	times
+Frame	 319 	detect	 train 	 1 	times
+Frame	 320 	detect	 train 	 1 	times
+Frame	 321 	detect	 train 	 1 	times
+Frame	 322 	detect	 train 	 1 	times
+Frame	 323 	detect	 train 	 1 	times
+Frame	 324 	detect	 train 	 1 	times
+Frame	 325 	detect	 train 	 1 	times
+Frame	 326 	detect	 train 	 1 	times
+Frame	 327 	detect	 train 	 1 	times
+Frame	 328 	detect	 train 	 1 	times
+Frame	 334 	detect	 train 	 1 	times
+Frame	 335 	detect	 train 	 1 	times
+Frame	 336 	detect	 train 	 1 	times
+Frame	 337 	detect	 train 	 1 	times
+Frame	 340 	detect	 train 	 1 	times
+Frame	 354 	detect	 train 	 1 	times
+Frame	 355 	detect	 train 	 1 	times
+Frame	 361 	detect	 train 	 1 	times
+Frame	 362 	detect	 train 	 1 	times
+Frame	 365 	detect	 train 	 1 	times
+Frame	 367 	detect	 train 	 1 	times
+Frame	 368 	detect	 train 	 1 	times
+Frame	 369 	detect	 train 	 1 	times
+Frame	 370 	detect	 train 	 1 	times
+Frame	 371 	detect	 train 	 1 	times
+Frame	 372 	detect	 train 	 1 	times
+Frame	 377 	detect	 train 	 1 	times
+Frame	 381 	detect	 train 	 1 	times
+Frame	 383 	detect	 train 	 1 	times
+Frame	 384 	detect	 train 	 1 	times
+Frame	 385 	detect	 train 	 1 	times
+Frame	 388 	detect	 train 	 1 	times
+Frame	 389 	detect	 train 	 1 	times
+Frame	 390 	detect	 train 	 1 	times
+Frame	 391 	detect	 train 	 1 	times
+Frame	 397 	detect	 train 	 1 	times
+Frame	 399 	detect	 train 	 1 	times
+Frame	 411 	detect	 train 	 1 	times
+Frame	 419 	detect	 train 	 1 	times
+Frame	 420 	detect	 train 	 1 	times
+Frame	 421 	detect	 train 	 1 	times
+Frame	 422 	detect	 train 	 1 	times
+Frame	 423 	detect	 train 	 1 	times
+Frame	 425 	detect	 train 	 1 	times
+Frame	 427 	detect	 train 	 1 	times
+Frame	 431 	detect	 train 	 1 	times
+Frame	 450 	detect	 train 	 1 	times
+Frame	 451 	detect	 train 	 1 	times
+Frame	 452 	detect	 train 	 1 	times
+Frame	 453 	detect	 train 	 1 	times
+Frame	 454 	detect	 train 	 1 	times
+Frame	 455 	detect	 train 	 1 	times
+Frame	 459 	detect	 train 	 1 	times
+Frame	 460 	detect	 train 	 1 	times
+Frame	 467 	detect	 train 	 1 	times
+Frame	 468 	detect	 train 	 1 	times
+Frame	 469 	detect	 train 	 1 	times
+Frame	 471 	detect	 train 	 1 	times
+Frame	 472 	detect	 train 	 1 	times
+Frame	 473 	detect	 train 	 1 	times
+Frame	 474 	detect	 train 	 1 	times
+Frame	 475 	detect	 train 	 1 	times
+Frame	 476 	detect	 train 	 1 	times
+Frame	 477 	detect	 train 	 1 	times
+Frame	 478 	detect	 train 	 1 	times
+Frame	 479 	detect	 train 	 1 	times
+Frame	 480 	detect	 train 	 1 	times
+Frame	 481 	detect	 train 	 1 	times
+Frame	 482 	detect	 train 	 1 	times
+Frame	 483 	detect	 train 	 1 	times
+Frame	 485 	detect	 train 	 1 	times
+Frame	 486 	detect	 train 	 1 	times
+Frame	 487 	detect	 train 	 1 	times
+Frame	 488 	detect	 train 	 1 	times
+Frame	 489 	detect	 train 	 1 	times
+Frame	 490 	detect	 train 	 1 	times
+Frame	 491 	detect	 train 	 1 	times
+Frame	 492 	detect	 train 	 1 	times
+Frame	 493 	detect	 train 	 1 	times
+Frame	 494 	detect	 train 	 1 	times
+Frame	 495 	detect	 train 	 1 	times
+Frame	 496 	detect	 train 	 1 	times
+Frame	 497 	detect	 train 	 1 	times
+Frame	 498 	detect	 train 	 1 	times
+Frame	 499 	detect	 train 	 1 	times
+Frame	 500 	detect	 train 	 1 	times
+Frame	 501 	detect	 train 	 1 	times
+Frame	 502 	detect	 train 	 1 	times
+Frame	 503 	detect	 train 	 1 	times
+Frame	 504 	detect	 train 	 1 	times
+Frame	 505 	detect	 train 	 1 	times
+Frame	 506 	detect	 train 	 1 	times
+Frame	 507 	detect	 train 	 1 	times
+Frame	 508 	detect	 train 	 1 	times
+Frame	 509 	detect	 train 	 1 	times
+Frame	 510 	detect	 train 	 1 	times
+Frame	 511 	detect	 train 	 1 	times
+Frame	 512 	detect	 train 	 1 	times
+Frame	 513 	detect	 train 	 1 	times
+Frame	 514 	detect	 train 	 1 	times
+Frame	 515 	detect	 train 	 1 	times
+Frame	 516 	detect	 train 	 1 	times
+Frame	 517 	detect	 train 	 1 	times
+Frame	 519 	detect	 train 	 1 	times
+Frame	 520 	detect	 train 	 1 	times
+Frame	 521 	detect	 train 	 1 	times
+Frame	 522 	detect	 train 	 1 	times
+Frame	 524 	detect	 train 	 1 	times
+Frame	 526 	detect	 train 	 1 	times
+Frame	 528 	detect	 train 	 1 	times
+Frame	 532 	detect	 train 	 1 	times
+Frame	 533 	detect	 train 	 1 	times
+Frame	 534 	detect	 train 	 1 	times
+Frame	 535 	detect	 train 	 1 	times
+Frame	 539 	detect	 train 	 1 	times
+Frame	 543 	detect	 train 	 1 	times
+Frame	 544 	detect	 train 	 1 	times
+Frame	 548 	detect	 train 	 1 	times
+Frame	 549 	detect	 train 	 1 	times
+Frame	 550 	detect	 train 	 1 	times
+Frame	 553 	detect	 train 	 1 	times
+Frame	 554 	detect	 train 	 1 	times
+Frame	 562 	detect	 train 	 1 	times
+Frame	 563 	detect	 train 	 1 	times
+Frame	 564 	detect	 train 	 1 	times
+Frame	 565 	detect	 train 	 1 	times
+Frame	 566 	detect	 train 	 1 	times
+Frame	 567 	detect	 train 	 1 	times
+Frame	 568 	detect	 train 	 1 	times
+Frame	 569 	detect	 train 	 1 	times
+Frame	 570 	detect	 train 	 1 	times
+Frame	 571 	detect	 train 	 1 	times
+Frame	 572 	detect	 train 	 1 	times
+Frame	 574 	detect	 train 	 1 	times
+Frame	 575 	detect	 train 	 1 	times
+Frame	 576 	detect	 train 	 1 	times
+Frame	 577 	detect	 train 	 1 	times
+Frame	 578 	detect	 train 	 1 	times
+Frame	 579 	detect	 train 	 1 	times
+Frame	 580 	detect	 train 	 1 	times
+Frame	 581 	detect	 train 	 1 	times
+Frame	 586 	detect	 train 	 1 	times
+Frame	 587 	detect	 train 	 1 	times
+Frame	 588 	detect	 train 	 1 	times
+Frame	 589 	detect	 train 	 1 	times
+Frame	 592 	detect	 train 	 1 	times
+Frame	 593 	detect	 train 	 1 	times
+Frame	 594 	detect	 train 	 1 	times
+Frame	 605 	detect	 train 	 1 	times
+Frame	 606 	detect	 train 	 1 	times
+Frame	 607 	detect	 train 	 1 	times
+Frame	 613 	detect	 train 	 1 	times
+Frame	 619 	detect	 train 	 1 	times
+Frame	 620 	detect	 train 	 1 	times
+Frame	 621 	detect	 train 	 1 	times
+Frame	 626 	detect	 train 	 1 	times
+Frame	 633 	detect	 train 	 1 	times
+Frame	 639 	detect	 train 	 1 	times
+Frame	 648 	detect	 train 	 1 	times
+Frame	 649 	detect	 train 	 1 	times
+Frame	 650 	detect	 train 	 1 	times
+Frame	 651 	detect	 train 	 1 	times
+Frame	 652 	detect	 train 	 1 	times
+Frame	 653 	detect	 train 	 1 	times
+Frame	 654 	detect	 train 	 1 	times
+Frame	 655 	detect	 train 	 1 	times
+Frame	 656 	detect	 train 	 1 	times
+Frame	 657 	detect	 train 	 1 	times
+Frame	 658 	detect	 train 	 1 	times
+Frame	 659 	detect	 train 	 1 	times
+Frame	 660 	detect	 train 	 1 	times
+Frame	 661 	detect	 train 	 1 	times
+Frame	 662 	detect	 train 	 1 	times
+Frame	 663 	detect	 train 	 1 	times
+Frame	 664 	detect	 train 	 1 	times
+Frame	 665 	detect	 train 	 1 	times
+Frame	 666 	detect	 train 	 1 	times
+Frame	 667 	detect	 train 	 1 	times
+Frame	 668 	detect	 train 	 1 	times
+Frame	 672 	detect	 train 	 1 	times
+Frame	 675 	detect	 train 	 1 	times
+Frame	 676 	detect	 train 	 1 	times
+Frame	 677 	detect	 train 	 1 	times
+Frame	 689 	detect	 train 	 1 	times
+Frame	 693 	detect	 train 	 1 	times
+Frame	 694 	detect	 train 	 1 	times
+Frame	 695 	detect	 train 	 1 	times
+Frame	 696 	detect	 train 	 1 	times
+Frame	 697 	detect	 train 	 1 	times
+Frame	 700 	detect	 train 	 1 	times
+Frame	 702 	detect	 train 	 1 	times
+Frame	 708 	detect	 train 	 1 	times
+Frame	 709 	detect	 train 	 1 	times
+Frame	 711 	detect	 train 	 1 	times
+Frame	 712 	detect	 train 	 1 	times
+Frame	 713 	detect	 train 	 1 	times
+Frame	 714 	detect	 train 	 1 	times
+Frame	 715 	detect	 train 	 1 	times
+Frame	 717 	detect	 train 	 1 	times
+Frame	 718 	detect	 train 	 1 	times
+Frame	 719 	detect	 train 	 1 	times
+Frame	 720 	detect	 train 	 1 	times
+Frame	 721 	detect	 train 	 1 	times
+Frame	 722 	detect	 train 	 1 	times
+Frame	 723 	detect	 train 	 1 	times
+Frame	 724 	detect	 train 	 1 	times
+Frame	 726 	detect	 train 	 1 	times
+Frame	 727 	detect	 train 	 1 	times
+Frame	 728 	detect	 train 	 1 	times
+Frame	 731 	detect	 train 	 1 	times
+Frame	 732 	detect	 train 	 1 	times
+Frame	 734 	detect	 train 	 1 	times
+Frame	 735 	detect	 train 	 1 	times
+Frame	 737 	detect	 train 	 1 	times
+Frame	 738 	detect	 train 	 1 	times
+Frame	 739 	detect	 train 	 1 	times
+Frame	 740 	detect	 train 	 1 	times
+Frame	 741 	detect	 train 	 1 	times
+Frame	 742 	detect	 train 	 1 	times
+Frame	 743 	detect	 train 	 1 	times
+Frame	 744 	detect	 train 	 1 	times
+Frame	 745 	detect	 train 	 1 	times
+Frame	 746 	detect	 train 	 1 	times
+Frame	 748 	detect	 train 	 1 	times
+Frame	 754 	detect	 train 	 1 	times
+Frame	 757 	detect	 train 	 1 	times
+Frame	 758 	detect	 train 	 1 	times
+Frame	 759 	detect	 train 	 1 	times
+Frame	 760 	detect	 train 	 1 	times
+Frame	 761 	detect	 train 	 1 	times
+Frame	 762 	detect	 train 	 1 	times
+Frame	 763 	detect	 train 	 1 	times
+Frame	 796 	detect	 train 	 1 	times
+Frame	 798 	detect	 train 	 1 	times
+Frame	 806 	detect	 train 	 1 	times
+Frame	 810 	detect	 train 	 1 	times
+Frame	 811 	detect	 train 	 1 	times
+Frame	 812 	detect	 train 	 1 	times
+Frame	 849 	detect	 train 	 1 	times
+Frame	 863 	detect	 train 	 1 	times
+Frame	 864 	detect	 train 	 1 	times
+Frame	 899 	detect	 train 	 1 	times
+Frame	 901 	detect	 train 	 1 	times
+Frame	 902 	detect	 train 	 1 	times
+Frame	 903 	detect	 train 	 1 	times
+Frame	 904 	detect	 train 	 1 	times
+Frame	 907 	detect	 train 	 1 	times
+Frame	 914 	detect	 train 	 1 	times
+Frame	 919 	detect	 train 	 1 	times
+Frame	 920 	detect	 train 	 1 	times
+Frame	 921 	detect	 train 	 1 	times
+Frame	 922 	detect	 train 	 1 	times
+Frame	 923 	detect	 train 	 1 	times
+Frame	 924 	detect	 train 	 1 	times
+Frame	 925 	detect	 train 	 1 	times
+Frame	 948 	detect	 train 	 1 	times
+Frame	 949 	detect	 train 	 1 	times
+Frame	 950 	detect	 train 	 1 	times
+Frame	 951 	detect	 train 	 1 	times
+Frame	 952 	detect	 train 	 1 	times
+Frame	 953 	detect	 train 	 1 	times
+Frame	 954 	detect	 train 	 1 	times
+Frame	 955 	detect	 train 	 1 	times
+Frame	 956 	detect	 train 	 1 	times
+Frame	 957 	detect	 train 	 1 	times
+Frame	 958 	detect	 train 	 1 	times
+Frame	 959 	detect	 train 	 1 	times
+Frame	 960 	detect	 train 	 1 	times
+Frame	 961 	detect	 train 	 1 	times
+Frame	 962 	detect	 train 	 1 	times
+Frame	 963 	detect	 train 	 1 	times
+Frame	 964 	detect	 train 	 1 	times
+Frame	 965 	detect	 train 	 1 	times
+Frame	 966 	detect	 train 	 1 	times
+Frame	 967 	detect	 train 	 1 	times
+Frame	 968 	detect	 train 	 1 	times
+Frame	 969 	detect	 train 	 1 	times
+Frame	 970 	detect	 train 	 1 	times
+Frame	 971 	detect	 train 	 1 	times
+Frame	 972 	detect	 train 	 1 	times
+Frame	 973 	detect	 train 	 1 	times
+Frame	 974 	detect	 train 	 1 	times
+Frame	 976 	detect	 train 	 1 	times
+Frame	 977 	detect	 train 	 1 	times
+Frame	 978 	detect	 train 	 1 	times
+Frame	 979 	detect	 train 	 1 	times
+Frame	 980 	detect	 train 	 1 	times
+Frame	 981 	detect	 train 	 1 	times
+Frame	 982 	detect	 train 	 1 	times
+Frame	 984 	detect	 train 	 1 	times
+Frame	 986 	detect	 train 	 1 	times
+Frame	 987 	detect	 train 	 1 	times
+Frame	 988 	detect	 train 	 1 	times
+Frame	 990 	detect	 train 	 1 	times
+Frame	 992 	detect	 train 	 1 	times
+Frame	 994 	detect	 train 	 1 	times
+Frame	 995 	detect	 train 	 1 	times
+Frame	 996 	detect	 train 	 1 	times
+Frame	 997 	detect	 train 	 1 	times
+Frame	 998 	detect	 train 	 1 	times
+Frame	 999 	detect	 train 	 1 	times
+Frame	 1000 	detect	 train 	 1 	times
+Frame	 1001 	detect	 train 	 1 	times
+Frame	 1002 	detect	 train 	 1 	times
+Frame	 1003 	detect	 train 	 1 	times
+Frame	 1004 	detect	 train 	 1 	times
+Frame	 1005 	detect	 train 	 1 	times
+Frame	 1006 	detect	 train 	 1 	times
+Frame	 1007 	detect	 train 	 1 	times
+Frame	 1008 	detect	 train 	 1 	times
+Frame	 1009 	detect	 train 	 1 	times
+Frame	 1010 	detect	 train 	 1 	times
+Frame	 1011 	detect	 train 	 1 	times
+Frame	 1012 	detect	 train 	 1 	times
+Frame	 1013 	detect	 train 	 1 	times
+Frame	 1014 	detect	 train 	 1 	times
+Frame	 1015 	detect	 train 	 1 	times
+Frame	 1016 	detect	 train 	 1 	times
+Frame	 1017 	detect	 train 	 1 	times
+Frame	 1018 	detect	 train 	 1 	times
+Frame	 1019 	detect	 train 	 1 	times
+Frame	 1020 	detect	 train 	 1 	times
+Frame	 1021 	detect	 train 	 1 	times
+Frame	 1022 	detect	 train 	 1 	times
+Frame	 1023 	detect	 train 	 1 	times
+Frame	 1024 	detect	 train 	 1 	times
+Frame	 1025 	detect	 train 	 1 	times
+Frame	 1026 	detect	 train 	 1 	times
+Frame	 1027 	detect	 train 	 1 	times
+Frame	 1028 	detect	 train 	 1 	times
+Frame	 1029 	detect	 train 	 1 	times
+Frame	 1030 	detect	 train 	 1 	times
+Frame	 1031 	detect	 train 	 1 	times
+Frame	 1032 	detect	 train 	 1 	times
+Frame	 1033 	detect	 train 	 1 	times
+Frame	 1034 	detect	 train 	 1 	times
+Frame	 1035 	detect	 train 	 1 	times
+Frame	 1036 	detect	 train 	 1 	times
+Frame	 1037 	detect	 train 	 1 	times
+Frame	 1038 	detect	 train 	 1 	times
+Frame	 1039 	detect	 train 	 1 	times
+Frame	 1040 	detect	 train 	 1 	times
+Frame	 1041 	detect	 train 	 1 	times
+Frame	 1042 	detect	 train 	 1 	times
+Frame	 1043 	detect	 train 	 1 	times
+Frame	 1044 	detect	 train 	 1 	times
+Frame	 1045 	detect	 train 	 1 	times
+Frame	 1047 	detect	 train 	 1 	times
+Frame	 1048 	detect	 train 	 1 	times
+Frame	 1050 	detect	 train 	 1 	times
+Frame	 1051 	detect	 train 	 1 	times
+Frame	 1052 	detect	 train 	 1 	times
+Frame	 1053 	detect	 train 	 1 	times
+Frame	 1054 	detect	 train 	 1 	times
+Frame	 1059 	detect	 train 	 1 	times
+Frame	 1061 	detect	 train 	 1 	times
+Frame	 1062 	detect	 train 	 1 	times
+Frame	 1063 	detect	 train 	 1 	times
+Frame	 1064 	detect	 train 	 1 	times
+Frame	 1065 	detect	 train 	 1 	times
+Frame	 1066 	detect	 train 	 1 	times
+Frame	 1067 	detect	 train 	 1 	times
+Frame	 1069 	detect	 train 	 1 	times
+Frame	 1070 	detect	 train 	 1 	times
+Frame	 1071 	detect	 train 	 1 	times
+Frame	 1072 	detect	 train 	 1 	times
+Frame	 1073 	detect	 train 	 1 	times
+Frame	 1074 	detect	 train 	 1 	times
+Frame	 1075 	detect	 train 	 1 	times
+Frame	 1076 	detect	 train 	 1 	times
+Frame	 1077 	detect	 train 	 1 	times
+Frame	 1078 	detect	 train 	 1 	times
+Frame	 1079 	detect	 train 	 1 	times
+Frame	 1081 	detect	 train 	 1 	times
+Frame	 1082 	detect	 train 	 1 	times
+Frame	 1083 	detect	 train 	 1 	times
+Frame	 1115 	detect	 train 	 1 	times
+Frame	 1121 	detect	 train 	 1 	times
+Frame	 1149 	detect	 train 	 1 	times
+Frame	 1151 	detect	 train 	 1 	times
+Frame	 1152 	detect	 train 	 1 	times
+Frame	 1153 	detect	 train 	 1 	times
+Frame	 1154 	detect	 train 	 1 	times
+Frame	 1155 	detect	 train 	 1 	times
+Frame	 1156 	detect	 train 	 1 	times
+Frame	 1157 	detect	 train 	 1 	times
+Frame	 1158 	detect	 train 	 1 	times
+Frame	 1159 	detect	 train 	 1 	times
+Frame	 1160 	detect	 train 	 1 	times
+Frame	 1161 	detect	 train 	 1 	times
+Frame	 1162 	detect	 train 	 1 	times
+Frame	 1163 	detect	 train 	 1 	times
+Frame	 1164 	detect	 train 	 1 	times
+Frame	 1165 	detect	 train 	 1 	times
+Frame	 1166 	detect	 train 	 1 	times
+Frame	 1167 	detect	 train 	 1 	times
+Frame	 1168 	detect	 train 	 1 	times
+Frame	 1169 	detect	 train 	 1 	times
+Frame	 1170 	detect	 train 	 1 	times
+Frame	 1171 	detect	 train 	 1 	times
+Frame	 1172 	detect	 train 	 1 	times
+Frame	 1173 	detect	 train 	 1 	times
+Frame	 1174 	detect	 train 	 1 	times
+Frame	 1175 	detect	 train 	 1 	times
+Frame	 1176 	detect	 train 	 1 	times
+Frame	 1177 	detect	 train 	 1 	times
+Frame	 1178 	detect	 train 	 1 	times
+Frame	 1179 	detect	 train 	 1 	times
+Frame	 1180 	detect	 train 	 1 	times
+Frame	 1181 	detect	 train 	 1 	times
+Frame	 1182 	detect	 train 	 1 	times
+Frame	 1183 	detect	 train 	 1 	times
+Frame	 1184 	detect	 train 	 1 	times
+Frame	 1185 	detect	 train 	 1 	times
+Frame	 1186 	detect	 train 	 1 	times
+Frame	 1187 	detect	 train 	 1 	times
+Frame	 1188 	detect	 train 	 1 	times
+Frame	 1189 	detect	 train 	 1 	times
+Frame	 1190 	detect	 train 	 1 	times
+Frame	 1191 	detect	 train 	 1 	times
+Frame	 1192 	detect	 train 	 1 	times
+Frame	 1193 	detect	 train 	 1 	times
+Frame	 1194 	detect	 train 	 1 	times
+Frame	 1195 	detect	 train 	 1 	times
+Frame	 1196 	detect	 train 	 1 	times
+Frame	 1197 	detect	 train 	 1 	times
+Frame	 23 	detect	 truck 	 1 	times
+Frame	 24 	detect	 truck 	 1 	times
+Frame	 25 	detect	 truck 	 1 	times
+Frame	 26 	detect	 truck 	 1 	times
+Frame	 27 	detect	 truck 	 1 	times
+Frame	 1 	detect	 traffic light 	 1 	times
+Frame	 2 	detect	 traffic light 	 1 	times
+Frame	 3 	detect	 traffic light 	 1 	times
+Frame	 4 	detect	 traffic light 	 1 	times
+Frame	 5 	detect	 traffic light 	 1 	times
+Frame	 6 	detect	 traffic light 	 1 	times
+Frame	 7 	detect	 traffic light 	 1 	times
+Frame	 8 	detect	 traffic light 	 1 	times
+Frame	 9 	detect	 traffic light 	 2 	times
+Frame	 10 	detect	 traffic light 	 2 	times
+Frame	 11 	detect	 traffic light 	 2 	times
+Frame	 12 	detect	 traffic light 	 2 	times
+Frame	 13 	detect	 traffic light 	 2 	times
+Frame	 14 	detect	 traffic light 	 2 	times
+Frame	 15 	detect	 traffic light 	 2 	times
+Frame	 16 	detect	 traffic light 	 2 	times
+Frame	 17 	detect	 traffic light 	 1 	times
+Frame	 18 	detect	 traffic light 	 2 	times
+Frame	 19 	detect	 traffic light 	 2 	times
+Frame	 20 	detect	 traffic light 	 2 	times
+Frame	 21 	detect	 traffic light 	 2 	times
+Frame	 22 	detect	 traffic light 	 1 	times
+Frame	 23 	detect	 traffic light 	 2 	times
+Frame	 24 	detect	 traffic light 	 1 	times
+Frame	 25 	detect	 traffic light 	 2 	times
+Frame	 26 	detect	 traffic light 	 1 	times
+Frame	 27 	detect	 traffic light 	 1 	times
+Frame	 28 	detect	 traffic light 	 1 	times
+Frame	 29 	detect	 traffic light 	 1 	times
+Frame	 30 	detect	 traffic light 	 1 	times
+Frame	 32 	detect	 traffic light 	 1 	times
+Frame	 33 	detect	 traffic light 	 1 	times
+Frame	 34 	detect	 traffic light 	 1 	times
+Frame	 35 	detect	 traffic light 	 1 	times
+Frame	 36 	detect	 traffic light 	 1 	times
+Frame	 37 	detect	 traffic light 	 1 	times
+Frame	 38 	detect	 traffic light 	 1 	times
+Frame	 39 	detect	 traffic light 	 1 	times
+Frame	 40 	detect	 traffic light 	 1 	times
+Frame	 41 	detect	 traffic light 	 1 	times
+Frame	 42 	detect	 traffic light 	 1 	times
+Frame	 43 	detect	 traffic light 	 1 	times
+Frame	 44 	detect	 traffic light 	 1 	times
+Frame	 45 	detect	 traffic light 	 1 	times
+Frame	 47 	detect	 traffic light 	 1 	times
+Frame	 49 	detect	 traffic light 	 1 	times
+Frame	 50 	detect	 traffic light 	 2 	times
+Frame	 51 	detect	 traffic light 	 1 	times
+Frame	 52 	detect	 traffic light 	 1 	times
+Frame	 53 	detect	 traffic light 	 1 	times
+Frame	 54 	detect	 traffic light 	 1 	times
+Frame	 55 	detect	 traffic light 	 1 	times
+Frame	 57 	detect	 traffic light 	 1 	times
+Frame	 58 	detect	 traffic light 	 1 	times
+Frame	 59 	detect	 traffic light 	 1 	times
+Frame	 60 	detect	 traffic light 	 1 	times
+Frame	 61 	detect	 traffic light 	 1 	times
+Frame	 62 	detect	 traffic light 	 1 	times
+Frame	 63 	detect	 traffic light 	 1 	times
+Frame	 64 	detect	 traffic light 	 1 	times
+Frame	 65 	detect	 traffic light 	 1 	times
+Frame	 66 	detect	 traffic light 	 1 	times
+Frame	 67 	detect	 traffic light 	 1 	times
+Frame	 68 	detect	 traffic light 	 1 	times
+Frame	 69 	detect	 traffic light 	 1 	times
+Frame	 70 	detect	 traffic light 	 1 	times
+Frame	 71 	detect	 traffic light 	 1 	times
+Frame	 72 	detect	 traffic light 	 1 	times
+Frame	 73 	detect	 traffic light 	 1 	times
+Frame	 74 	detect	 traffic light 	 1 	times
+Frame	 75 	detect	 traffic light 	 1 	times
+Frame	 76 	detect	 traffic light 	 1 	times
+Frame	 77 	detect	 traffic light 	 1 	times
+Frame	 78 	detect	 traffic light 	 1 	times
+Frame	 79 	detect	 traffic light 	 1 	times
+Frame	 80 	detect	 traffic light 	 1 	times
+Frame	 81 	detect	 traffic light 	 1 	times
+Frame	 82 	detect	 traffic light 	 1 	times
+Frame	 83 	detect	 traffic light 	 1 	times
+Frame	 84 	detect	 traffic light 	 1 	times
+Frame	 85 	detect	 traffic light 	 2 	times
+Frame	 86 	detect	 traffic light 	 2 	times
+Frame	 87 	detect	 traffic light 	 1 	times
+Frame	 88 	detect	 traffic light 	 2 	times
+Frame	 89 	detect	 traffic light 	 2 	times
+Frame	 90 	detect	 traffic light 	 1 	times
+Frame	 91 	detect	 traffic light 	 1 	times
+Frame	 92 	detect	 traffic light 	 2 	times
+Frame	 93 	detect	 traffic light 	 1 	times
+Frame	 94 	detect	 traffic light 	 1 	times
+Frame	 95 	detect	 traffic light 	 1 	times
+Frame	 97 	detect	 traffic light 	 1 	times
+Frame	 98 	detect	 traffic light 	 1 	times
+Frame	 99 	detect	 traffic light 	 1 	times
+Frame	 100 	detect	 traffic light 	 1 	times
+Frame	 101 	detect	 traffic light 	 1 	times
+Frame	 102 	detect	 traffic light 	 1 	times
+Frame	 103 	detect	 traffic light 	 2 	times
+Frame	 104 	detect	 traffic light 	 1 	times
+Frame	 105 	detect	 traffic light 	 1 	times
+Frame	 106 	detect	 traffic light 	 1 	times
+Frame	 107 	detect	 traffic light 	 2 	times
+Frame	 108 	detect	 traffic light 	 2 	times
+Frame	 109 	detect	 traffic light 	 2 	times
+Frame	 110 	detect	 traffic light 	 2 	times
+Frame	 111 	detect	 traffic light 	 2 	times
+Frame	 112 	detect	 traffic light 	 2 	times
+Frame	 113 	detect	 traffic light 	 2 	times
+Frame	 114 	detect	 traffic light 	 2 	times
+Frame	 115 	detect	 traffic light 	 2 	times
+Frame	 116 	detect	 traffic light 	 2 	times
+Frame	 117 	detect	 traffic light 	 1 	times
+Frame	 118 	detect	 traffic light 	 2 	times
+Frame	 119 	detect	 traffic light 	 2 	times
+Frame	 120 	detect	 traffic light 	 2 	times
+Frame	 121 	detect	 traffic light 	 2 	times
+Frame	 122 	detect	 traffic light 	 2 	times
+Frame	 123 	detect	 traffic light 	 2 	times
+Frame	 124 	detect	 traffic light 	 2 	times
+Frame	 125 	detect	 traffic light 	 2 	times
+Frame	 126 	detect	 traffic light 	 2 	times
+Frame	 127 	detect	 traffic light 	 2 	times
+Frame	 128 	detect	 traffic light 	 1 	times
+Frame	 129 	detect	 traffic light 	 2 	times
+Frame	 130 	detect	 traffic light 	 2 	times
+Frame	 131 	detect	 traffic light 	 2 	times
+Frame	 132 	detect	 traffic light 	 2 	times
+Frame	 133 	detect	 traffic light 	 2 	times
+Frame	 134 	detect	 traffic light 	 2 	times
+Frame	 135 	detect	 traffic light 	 2 	times
+Frame	 136 	detect	 traffic light 	 2 	times
+Frame	 137 	detect	 traffic light 	 1 	times
+Frame	 138 	detect	 traffic light 	 2 	times
+Frame	 139 	detect	 traffic light 	 2 	times
+Frame	 140 	detect	 traffic light 	 1 	times
+Frame	 141 	detect	 traffic light 	 2 	times
+Frame	 142 	detect	 traffic light 	 2 	times
+Frame	 143 	detect	 traffic light 	 2 	times
+Frame	 144 	detect	 traffic light 	 1 	times
+Frame	 145 	detect	 traffic light 	 2 	times
+Frame	 146 	detect	 traffic light 	 1 	times
+Frame	 147 	detect	 traffic light 	 2 	times
+Frame	 148 	detect	 traffic light 	 2 	times
+Frame	 149 	detect	 traffic light 	 2 	times
+Frame	 150 	detect	 traffic light 	 2 	times
+Frame	 151 	detect	 traffic light 	 2 	times
+Frame	 152 	detect	 traffic light 	 2 	times
+Frame	 153 	detect	 traffic light 	 2 	times
+Frame	 154 	detect	 traffic light 	 2 	times
+Frame	 155 	detect	 traffic light 	 2 	times
+Frame	 156 	detect	 traffic light 	 2 	times
+Frame	 157 	detect	 traffic light 	 2 	times
+Frame	 158 	detect	 traffic light 	 2 	times
+Frame	 159 	detect	 traffic light 	 1 	times
+Frame	 160 	detect	 traffic light 	 2 	times
+Frame	 161 	detect	 traffic light 	 2 	times
+Frame	 162 	detect	 traffic light 	 2 	times
+Frame	 163 	detect	 traffic light 	 2 	times
+Frame	 164 	detect	 traffic light 	 2 	times
+Frame	 165 	detect	 traffic light 	 2 	times
+Frame	 166 	detect	 traffic light 	 2 	times
+Frame	 167 	detect	 traffic light 	 2 	times
+Frame	 168 	detect	 traffic light 	 2 	times
+Frame	 169 	detect	 traffic light 	 2 	times
+Frame	 170 	detect	 traffic light 	 2 	times
+Frame	 171 	detect	 traffic light 	 2 	times
+Frame	 172 	detect	 traffic light 	 2 	times
+Frame	 173 	detect	 traffic light 	 2 	times
+Frame	 174 	detect	 traffic light 	 2 	times
+Frame	 175 	detect	 traffic light 	 2 	times
+Frame	 176 	detect	 traffic light 	 2 	times
+Frame	 177 	detect	 traffic light 	 2 	times
+Frame	 178 	detect	 traffic light 	 2 	times
+Frame	 179 	detect	 traffic light 	 1 	times
+Frame	 180 	detect	 traffic light 	 2 	times
+Frame	 181 	detect	 traffic light 	 1 	times
+Frame	 182 	detect	 traffic light 	 2 	times
+Frame	 183 	detect	 traffic light 	 2 	times
+Frame	 184 	detect	 traffic light 	 2 	times
+Frame	 185 	detect	 traffic light 	 2 	times
+Frame	 186 	detect	 traffic light 	 2 	times
+Frame	 187 	detect	 traffic light 	 2 	times
+Frame	 188 	detect	 traffic light 	 2 	times
+Frame	 189 	detect	 traffic light 	 2 	times
+Frame	 190 	detect	 traffic light 	 2 	times
+Frame	 191 	detect	 traffic light 	 2 	times
+Frame	 192 	detect	 traffic light 	 2 	times
+Frame	 193 	detect	 traffic light 	 2 	times
+Frame	 194 	detect	 traffic light 	 2 	times
+Frame	 195 	detect	 traffic light 	 1 	times
+Frame	 196 	detect	 traffic light 	 2 	times
+Frame	 197 	detect	 traffic light 	 1 	times
+Frame	 198 	detect	 traffic light 	 2 	times
+Frame	 199 	detect	 traffic light 	 1 	times
+Frame	 200 	detect	 traffic light 	 1 	times
+Frame	 201 	detect	 traffic light 	 1 	times
+Frame	 202 	detect	 traffic light 	 2 	times
+Frame	 203 	detect	 traffic light 	 1 	times
+Frame	 204 	detect	 traffic light 	 2 	times
+Frame	 205 	detect	 traffic light 	 2 	times
+Frame	 206 	detect	 traffic light 	 1 	times
+Frame	 207 	detect	 traffic light 	 1 	times
+Frame	 208 	detect	 traffic light 	 2 	times
+Frame	 209 	detect	 traffic light 	 2 	times
+Frame	 210 	detect	 traffic light 	 2 	times
+Frame	 211 	detect	 traffic light 	 2 	times
+Frame	 212 	detect	 traffic light 	 2 	times
+Frame	 213 	detect	 traffic light 	 2 	times
+Frame	 214 	detect	 traffic light 	 2 	times
+Frame	 215 	detect	 traffic light 	 1 	times
+Frame	 216 	detect	 traffic light 	 2 	times
+Frame	 217 	detect	 traffic light 	 2 	times
+Frame	 218 	detect	 traffic light 	 2 	times
+Frame	 219 	detect	 traffic light 	 2 	times
+Frame	 220 	detect	 traffic light 	 2 	times
+Frame	 221 	detect	 traffic light 	 2 	times
+Frame	 222 	detect	 traffic light 	 2 	times
+Frame	 223 	detect	 traffic light 	 2 	times
+Frame	 224 	detect	 traffic light 	 2 	times
+Frame	 225 	detect	 traffic light 	 2 	times
+Frame	 226 	detect	 traffic light 	 1 	times
+Frame	 227 	detect	 traffic light 	 1 	times
+Frame	 229 	detect	 traffic light 	 1 	times
+Frame	 230 	detect	 traffic light 	 1 	times
+Frame	 231 	detect	 traffic light 	 2 	times
+Frame	 232 	detect	 traffic light 	 2 	times
+Frame	 233 	detect	 traffic light 	 2 	times
+Frame	 234 	detect	 traffic light 	 2 	times
+Frame	 235 	detect	 traffic light 	 2 	times
+Frame	 236 	detect	 traffic light 	 2 	times
+Frame	 237 	detect	 traffic light 	 2 	times
+Frame	 238 	detect	 traffic light 	 2 	times
+Frame	 239 	detect	 traffic light 	 1 	times
+Frame	 240 	detect	 traffic light 	 2 	times
+Frame	 241 	detect	 traffic light 	 2 	times
+Frame	 242 	detect	 traffic light 	 2 	times
+Frame	 243 	detect	 traffic light 	 1 	times
+Frame	 244 	detect	 traffic light 	 1 	times
+Frame	 245 	detect	 traffic light 	 2 	times
+Frame	 246 	detect	 traffic light 	 2 	times
+Frame	 247 	detect	 traffic light 	 2 	times
+Frame	 248 	detect	 traffic light 	 2 	times
+Frame	 249 	detect	 traffic light 	 2 	times
+Frame	 250 	detect	 traffic light 	 1 	times
+Frame	 251 	detect	 traffic light 	 2 	times
+Frame	 252 	detect	 traffic light 	 1 	times
+Frame	 253 	detect	 traffic light 	 1 	times
+Frame	 254 	detect	 traffic light 	 1 	times
+Frame	 255 	detect	 traffic light 	 1 	times
+Frame	 256 	detect	 traffic light 	 2 	times
+Frame	 257 	detect	 traffic light 	 1 	times
+Frame	 258 	detect	 traffic light 	 2 	times
+Frame	 260 	detect	 traffic light 	 2 	times
+Frame	 261 	detect	 traffic light 	 1 	times
+Frame	 262 	detect	 traffic light 	 1 	times
+Frame	 263 	detect	 traffic light 	 1 	times
+Frame	 264 	detect	 traffic light 	 1 	times
+Frame	 265 	detect	 traffic light 	 2 	times
+Frame	 266 	detect	 traffic light 	 2 	times
+Frame	 267 	detect	 traffic light 	 2 	times
+Frame	 268 	detect	 traffic light 	 2 	times
+Frame	 269 	detect	 traffic light 	 2 	times
+Frame	 270 	detect	 traffic light 	 2 	times
+Frame	 271 	detect	 traffic light 	 2 	times
+Frame	 272 	detect	 traffic light 	 2 	times
+Frame	 273 	detect	 traffic light 	 2 	times
+Frame	 274 	detect	 traffic light 	 2 	times
+Frame	 275 	detect	 traffic light 	 2 	times
+Frame	 276 	detect	 traffic light 	 2 	times
+Frame	 277 	detect	 traffic light 	 2 	times
+Frame	 278 	detect	 traffic light 	 2 	times
+Frame	 279 	detect	 traffic light 	 2 	times
+Frame	 280 	detect	 traffic light 	 2 	times
+Frame	 281 	detect	 traffic light 	 2 	times
+Frame	 282 	detect	 traffic light 	 2 	times
+Frame	 283 	detect	 traffic light 	 2 	times
+Frame	 284 	detect	 traffic light 	 2 	times
+Frame	 285 	detect	 traffic light 	 2 	times
+Frame	 286 	detect	 traffic light 	 2 	times
+Frame	 287 	detect	 traffic light 	 2 	times
+Frame	 288 	detect	 traffic light 	 2 	times
+Frame	 289 	detect	 traffic light 	 2 	times
+Frame	 290 	detect	 traffic light 	 2 	times
+Frame	 291 	detect	 traffic light 	 2 	times
+Frame	 292 	detect	 traffic light 	 2 	times
+Frame	 293 	detect	 traffic light 	 2 	times
+Frame	 294 	detect	 traffic light 	 2 	times
+Frame	 295 	detect	 traffic light 	 2 	times
+Frame	 296 	detect	 traffic light 	 2 	times
+Frame	 297 	detect	 traffic light 	 2 	times
+Frame	 298 	detect	 traffic light 	 2 	times
+Frame	 299 	detect	 traffic light 	 2 	times
+Frame	 300 	detect	 traffic light 	 1 	times
+Frame	 301 	detect	 traffic light 	 2 	times
+Frame	 302 	detect	 traffic light 	 2 	times
+Frame	 303 	detect	 traffic light 	 2 	times
+Frame	 304 	detect	 traffic light 	 2 	times
+Frame	 305 	detect	 traffic light 	 2 	times
+Frame	 306 	detect	 traffic light 	 2 	times
+Frame	 307 	detect	 traffic light 	 1 	times
+Frame	 308 	detect	 traffic light 	 2 	times
+Frame	 309 	detect	 traffic light 	 1 	times
+Frame	 310 	detect	 traffic light 	 2 	times
+Frame	 311 	detect	 traffic light 	 2 	times
+Frame	 312 	detect	 traffic light 	 1 	times
+Frame	 313 	detect	 traffic light 	 1 	times
+Frame	 314 	detect	 traffic light 	 2 	times
+Frame	 315 	detect	 traffic light 	 2 	times
+Frame	 316 	detect	 traffic light 	 1 	times
+Frame	 317 	detect	 traffic light 	 2 	times
+Frame	 318 	detect	 traffic light 	 2 	times
+Frame	 319 	detect	 traffic light 	 2 	times
+Frame	 320 	detect	 traffic light 	 2 	times
+Frame	 321 	detect	 traffic light 	 2 	times
+Frame	 322 	detect	 traffic light 	 2 	times
+Frame	 323 	detect	 traffic light 	 2 	times
+Frame	 324 	detect	 traffic light 	 2 	times
+Frame	 325 	detect	 traffic light 	 2 	times
+Frame	 326 	detect	 traffic light 	 2 	times
+Frame	 327 	detect	 traffic light 	 2 	times
+Frame	 328 	detect	 traffic light 	 1 	times
+Frame	 329 	detect	 traffic light 	 2 	times
+Frame	 330 	detect	 traffic light 	 2 	times
+Frame	 331 	detect	 traffic light 	 1 	times
+Frame	 332 	detect	 traffic light 	 2 	times
+Frame	 333 	detect	 traffic light 	 2 	times
+Frame	 334 	detect	 traffic light 	 2 	times
+Frame	 335 	detect	 traffic light 	 1 	times
+Frame	 336 	detect	 traffic light 	 1 	times
+Frame	 337 	detect	 traffic light 	 2 	times
+Frame	 338 	detect	 traffic light 	 2 	times
+Frame	 339 	detect	 traffic light 	 1 	times
+Frame	 340 	detect	 traffic light 	 2 	times
+Frame	 341 	detect	 traffic light 	 2 	times
+Frame	 342 	detect	 traffic light 	 2 	times
+Frame	 343 	detect	 traffic light 	 2 	times
+Frame	 344 	detect	 traffic light 	 2 	times
+Frame	 345 	detect	 traffic light 	 2 	times
+Frame	 346 	detect	 traffic light 	 2 	times
+Frame	 347 	detect	 traffic light 	 2 	times
+Frame	 348 	detect	 traffic light 	 2 	times
+Frame	 349 	detect	 traffic light 	 2 	times
+Frame	 350 	detect	 traffic light 	 2 	times
+Frame	 351 	detect	 traffic light 	 2 	times
+Frame	 352 	detect	 traffic light 	 2 	times
+Frame	 353 	detect	 traffic light 	 2 	times
+Frame	 354 	detect	 traffic light 	 2 	times
+Frame	 355 	detect	 traffic light 	 2 	times
+Frame	 356 	detect	 traffic light 	 2 	times
+Frame	 357 	detect	 traffic light 	 1 	times
+Frame	 358 	detect	 traffic light 	 1 	times
+Frame	 359 	detect	 traffic light 	 2 	times
+Frame	 360 	detect	 traffic light 	 1 	times
+Frame	 361 	detect	 traffic light 	 1 	times
+Frame	 362 	detect	 traffic light 	 2 	times
+Frame	 363 	detect	 traffic light 	 2 	times
+Frame	 364 	detect	 traffic light 	 2 	times
+Frame	 365 	detect	 traffic light 	 1 	times
+Frame	 366 	detect	 traffic light 	 1 	times
+Frame	 367 	detect	 traffic light 	 2 	times
+Frame	 368 	detect	 traffic light 	 2 	times
+Frame	 369 	detect	 traffic light 	 1 	times
+Frame	 370 	detect	 traffic light 	 1 	times
+Frame	 371 	detect	 traffic light 	 2 	times
+Frame	 372 	detect	 traffic light 	 2 	times
+Frame	 373 	detect	 traffic light 	 2 	times
+Frame	 374 	detect	 traffic light 	 2 	times
+Frame	 375 	detect	 traffic light 	 2 	times
+Frame	 376 	detect	 traffic light 	 2 	times
+Frame	 377 	detect	 traffic light 	 1 	times
+Frame	 378 	detect	 traffic light 	 1 	times
+Frame	 379 	detect	 traffic light 	 1 	times
+Frame	 380 	detect	 traffic light 	 2 	times
+Frame	 381 	detect	 traffic light 	 2 	times
+Frame	 382 	detect	 traffic light 	 1 	times
+Frame	 383 	detect	 traffic light 	 1 	times
+Frame	 384 	detect	 traffic light 	 1 	times
+Frame	 385 	detect	 traffic light 	 1 	times
+Frame	 386 	detect	 traffic light 	 1 	times
+Frame	 387 	detect	 traffic light 	 2 	times
+Frame	 388 	detect	 traffic light 	 2 	times
+Frame	 389 	detect	 traffic light 	 2 	times
+Frame	 390 	detect	 traffic light 	 2 	times
+Frame	 391 	detect	 traffic light 	 2 	times
+Frame	 392 	detect	 traffic light 	 2 	times
+Frame	 393 	detect	 traffic light 	 2 	times
+Frame	 394 	detect	 traffic light 	 1 	times
+Frame	 395 	detect	 traffic light 	 2 	times
+Frame	 396 	detect	 traffic light 	 2 	times
+Frame	 397 	detect	 traffic light 	 1 	times
+Frame	 398 	detect	 traffic light 	 1 	times
+Frame	 399 	detect	 traffic light 	 2 	times
+Frame	 400 	detect	 traffic light 	 2 	times
+Frame	 401 	detect	 traffic light 	 1 	times
+Frame	 402 	detect	 traffic light 	 2 	times
+Frame	 403 	detect	 traffic light 	 1 	times
+Frame	 404 	detect	 traffic light 	 1 	times
+Frame	 405 	detect	 traffic light 	 1 	times
+Frame	 406 	detect	 traffic light 	 1 	times
+Frame	 407 	detect	 traffic light 	 1 	times
+Frame	 408 	detect	 traffic light 	 1 	times
+Frame	 409 	detect	 traffic light 	 2 	times
+Frame	 410 	detect	 traffic light 	 2 	times
+Frame	 411 	detect	 traffic light 	 1 	times
+Frame	 412 	detect	 traffic light 	 1 	times
+Frame	 413 	detect	 traffic light 	 2 	times
+Frame	 414 	detect	 traffic light 	 1 	times
+Frame	 415 	detect	 traffic light 	 2 	times
+Frame	 416 	detect	 traffic light 	 1 	times
+Frame	 417 	detect	 traffic light 	 1 	times
+Frame	 418 	detect	 traffic light 	 2 	times
+Frame	 419 	detect	 traffic light 	 1 	times
+Frame	 420 	detect	 traffic light 	 1 	times
+Frame	 421 	detect	 traffic light 	 1 	times
+Frame	 422 	detect	 traffic light 	 1 	times
+Frame	 423 	detect	 traffic light 	 1 	times
+Frame	 424 	detect	 traffic light 	 1 	times
+Frame	 425 	detect	 traffic light 	 1 	times
+Frame	 426 	detect	 traffic light 	 1 	times
+Frame	 427 	detect	 traffic light 	 1 	times
+Frame	 428 	detect	 traffic light 	 1 	times
+Frame	 429 	detect	 traffic light 	 1 	times
+Frame	 430 	detect	 traffic light 	 1 	times
+Frame	 431 	detect	 traffic light 	 1 	times
+Frame	 432 	detect	 traffic light 	 1 	times
+Frame	 433 	detect	 traffic light 	 1 	times
+Frame	 434 	detect	 traffic light 	 1 	times
+Frame	 435 	detect	 traffic light 	 1 	times
+Frame	 436 	detect	 traffic light 	 2 	times
+Frame	 437 	detect	 traffic light 	 1 	times
+Frame	 438 	detect	 traffic light 	 1 	times
+Frame	 439 	detect	 traffic light 	 1 	times
+Frame	 440 	detect	 traffic light 	 1 	times
+Frame	 441 	detect	 traffic light 	 1 	times
+Frame	 442 	detect	 traffic light 	 2 	times
+Frame	 443 	detect	 traffic light 	 1 	times
+Frame	 444 	detect	 traffic light 	 1 	times
+Frame	 445 	detect	 traffic light 	 1 	times
+Frame	 446 	detect	 traffic light 	 1 	times
+Frame	 447 	detect	 traffic light 	 1 	times
+Frame	 448 	detect	 traffic light 	 1 	times
+Frame	 449 	detect	 traffic light 	 1 	times
+Frame	 450 	detect	 traffic light 	 1 	times
+Frame	 451 	detect	 traffic light 	 1 	times
+Frame	 452 	detect	 traffic light 	 1 	times
+Frame	 453 	detect	 traffic light 	 2 	times
+Frame	 454 	detect	 traffic light 	 2 	times
+Frame	 455 	detect	 traffic light 	 1 	times
+Frame	 456 	detect	 traffic light 	 1 	times
+Frame	 457 	detect	 traffic light 	 1 	times
+Frame	 458 	detect	 traffic light 	 1 	times
+Frame	 459 	detect	 traffic light 	 1 	times
+Frame	 460 	detect	 traffic light 	 1 	times
+Frame	 461 	detect	 traffic light 	 1 	times
+Frame	 462 	detect	 traffic light 	 1 	times
+Frame	 463 	detect	 traffic light 	 1 	times
+Frame	 464 	detect	 traffic light 	 1 	times
+Frame	 465 	detect	 traffic light 	 1 	times
+Frame	 466 	detect	 traffic light 	 1 	times
+Frame	 467 	detect	 traffic light 	 1 	times
+Frame	 468 	detect	 traffic light 	 1 	times
+Frame	 469 	detect	 traffic light 	 1 	times
+Frame	 470 	detect	 traffic light 	 1 	times
+Frame	 471 	detect	 traffic light 	 1 	times
+Frame	 472 	detect	 traffic light 	 1 	times
+Frame	 473 	detect	 traffic light 	 1 	times
+Frame	 474 	detect	 traffic light 	 1 	times
+Frame	 475 	detect	 traffic light 	 1 	times
+Frame	 476 	detect	 traffic light 	 1 	times
+Frame	 477 	detect	 traffic light 	 1 	times
+Frame	 478 	detect	 traffic light 	 1 	times
+Frame	 479 	detect	 traffic light 	 1 	times
+Frame	 480 	detect	 traffic light 	 1 	times
+Frame	 481 	detect	 traffic light 	 1 	times
+Frame	 482 	detect	 traffic light 	 1 	times
+Frame	 483 	detect	 traffic light 	 1 	times
+Frame	 484 	detect	 traffic light 	 1 	times
+Frame	 485 	detect	 traffic light 	 1 	times
+Frame	 486 	detect	 traffic light 	 1 	times
+Frame	 487 	detect	 traffic light 	 1 	times
+Frame	 488 	detect	 traffic light 	 1 	times
+Frame	 489 	detect	 traffic light 	 2 	times
+Frame	 490 	detect	 traffic light 	 1 	times
+Frame	 491 	detect	 traffic light 	 1 	times
+Frame	 492 	detect	 traffic light 	 1 	times
+Frame	 493 	detect	 traffic light 	 1 	times
+Frame	 494 	detect	 traffic light 	 1 	times
+Frame	 495 	detect	 traffic light 	 1 	times
+Frame	 496 	detect	 traffic light 	 1 	times
+Frame	 497 	detect	 traffic light 	 2 	times
+Frame	 498 	detect	 traffic light 	 1 	times
+Frame	 499 	detect	 traffic light 	 1 	times
+Frame	 500 	detect	 traffic light 	 2 	times
+Frame	 501 	detect	 traffic light 	 1 	times
+Frame	 502 	detect	 traffic light 	 1 	times
+Frame	 503 	detect	 traffic light 	 1 	times
+Frame	 504 	detect	 traffic light 	 1 	times
+Frame	 505 	detect	 traffic light 	 1 	times
+Frame	 506 	detect	 traffic light 	 2 	times
+Frame	 507 	detect	 traffic light 	 1 	times
+Frame	 508 	detect	 traffic light 	 1 	times
+Frame	 509 	detect	 traffic light 	 1 	times
+Frame	 510 	detect	 traffic light 	 1 	times
+Frame	 511 	detect	 traffic light 	 1 	times
+Frame	 512 	detect	 traffic light 	 2 	times
+Frame	 513 	detect	 traffic light 	 2 	times
+Frame	 514 	detect	 traffic light 	 1 	times
+Frame	 515 	detect	 traffic light 	 1 	times
+Frame	 516 	detect	 traffic light 	 1 	times
+Frame	 517 	detect	 traffic light 	 1 	times
+Frame	 518 	detect	 traffic light 	 1 	times
+Frame	 519 	detect	 traffic light 	 2 	times
+Frame	 520 	detect	 traffic light 	 2 	times
+Frame	 521 	detect	 traffic light 	 2 	times
+Frame	 522 	detect	 traffic light 	 1 	times
+Frame	 523 	detect	 traffic light 	 1 	times
+Frame	 524 	detect	 traffic light 	 1 	times
+Frame	 525 	detect	 traffic light 	 1 	times
+Frame	 526 	detect	 traffic light 	 1 	times
+Frame	 527 	detect	 traffic light 	 1 	times
+Frame	 528 	detect	 traffic light 	 1 	times
+Frame	 529 	detect	 traffic light 	 1 	times
+Frame	 530 	detect	 traffic light 	 1 	times
+Frame	 531 	detect	 traffic light 	 1 	times
+Frame	 532 	detect	 traffic light 	 1 	times
+Frame	 533 	detect	 traffic light 	 1 	times
+Frame	 534 	detect	 traffic light 	 1 	times
+Frame	 535 	detect	 traffic light 	 1 	times
+Frame	 536 	detect	 traffic light 	 1 	times
+Frame	 537 	detect	 traffic light 	 1 	times
+Frame	 538 	detect	 traffic light 	 1 	times
+Frame	 539 	detect	 traffic light 	 1 	times
+Frame	 540 	detect	 traffic light 	 1 	times
+Frame	 541 	detect	 traffic light 	 1 	times
+Frame	 542 	detect	 traffic light 	 1 	times
+Frame	 543 	detect	 traffic light 	 2 	times
+Frame	 544 	detect	 traffic light 	 1 	times
+Frame	 545 	detect	 traffic light 	 1 	times
+Frame	 546 	detect	 traffic light 	 1 	times
+Frame	 547 	detect	 traffic light 	 1 	times
+Frame	 548 	detect	 traffic light 	 1 	times
+Frame	 549 	detect	 traffic light 	 1 	times
+Frame	 550 	detect	 traffic light 	 2 	times
+Frame	 551 	detect	 traffic light 	 1 	times
+Frame	 552 	detect	 traffic light 	 1 	times
+Frame	 553 	detect	 traffic light 	 1 	times
+Frame	 554 	detect	 traffic light 	 1 	times
+Frame	 555 	detect	 traffic light 	 2 	times
+Frame	 556 	detect	 traffic light 	 1 	times
+Frame	 557 	detect	 traffic light 	 1 	times
+Frame	 558 	detect	 traffic light 	 2 	times
+Frame	 559 	detect	 traffic light 	 1 	times
+Frame	 560 	detect	 traffic light 	 1 	times
+Frame	 561 	detect	 traffic light 	 1 	times
+Frame	 562 	detect	 traffic light 	 1 	times
+Frame	 563 	detect	 traffic light 	 1 	times
+Frame	 564 	detect	 traffic light 	 1 	times
+Frame	 565 	detect	 traffic light 	 2 	times
+Frame	 566 	detect	 traffic light 	 1 	times
+Frame	 567 	detect	 traffic light 	 1 	times
+Frame	 568 	detect	 traffic light 	 1 	times
+Frame	 569 	detect	 traffic light 	 1 	times
+Frame	 570 	detect	 traffic light 	 1 	times
+Frame	 571 	detect	 traffic light 	 1 	times
+Frame	 572 	detect	 traffic light 	 1 	times
+Frame	 573 	detect	 traffic light 	 1 	times
+Frame	 574 	detect	 traffic light 	 1 	times
+Frame	 575 	detect	 traffic light 	 1 	times
+Frame	 576 	detect	 traffic light 	 1 	times
+Frame	 577 	detect	 traffic light 	 1 	times
+Frame	 578 	detect	 traffic light 	 1 	times
+Frame	 579 	detect	 traffic light 	 1 	times
+Frame	 580 	detect	 traffic light 	 1 	times
+Frame	 581 	detect	 traffic light 	 1 	times
+Frame	 582 	detect	 traffic light 	 2 	times
+Frame	 583 	detect	 traffic light 	 2 	times
+Frame	 584 	detect	 traffic light 	 1 	times
+Frame	 585 	detect	 traffic light 	 1 	times
+Frame	 586 	detect	 traffic light 	 1 	times
+Frame	 587 	detect	 traffic light 	 1 	times
+Frame	 588 	detect	 traffic light 	 2 	times
+Frame	 589 	detect	 traffic light 	 1 	times
+Frame	 590 	detect	 traffic light 	 1 	times
+Frame	 591 	detect	 traffic light 	 1 	times
+Frame	 592 	detect	 traffic light 	 1 	times
+Frame	 593 	detect	 traffic light 	 1 	times
+Frame	 594 	detect	 traffic light 	 2 	times
+Frame	 595 	detect	 traffic light 	 1 	times
+Frame	 596 	detect	 traffic light 	 1 	times
+Frame	 597 	detect	 traffic light 	 1 	times
+Frame	 598 	detect	 traffic light 	 2 	times
+Frame	 599 	detect	 traffic light 	 2 	times
+Frame	 600 	detect	 traffic light 	 1 	times
+Frame	 601 	detect	 traffic light 	 1 	times
+Frame	 602 	detect	 traffic light 	 1 	times
+Frame	 603 	detect	 traffic light 	 1 	times
+Frame	 604 	detect	 traffic light 	 1 	times
+Frame	 605 	detect	 traffic light 	 1 	times
+Frame	 606 	detect	 traffic light 	 1 	times
+Frame	 607 	detect	 traffic light 	 1 	times
+Frame	 608 	detect	 traffic light 	 1 	times
+Frame	 609 	detect	 traffic light 	 2 	times
+Frame	 610 	detect	 traffic light 	 1 	times
+Frame	 611 	detect	 traffic light 	 1 	times
+Frame	 612 	detect	 traffic light 	 1 	times
+Frame	 613 	detect	 traffic light 	 1 	times
+Frame	 614 	detect	 traffic light 	 1 	times
+Frame	 615 	detect	 traffic light 	 1 	times
+Frame	 616 	detect	 traffic light 	 1 	times
+Frame	 617 	detect	 traffic light 	 1 	times
+Frame	 618 	detect	 traffic light 	 1 	times
+Frame	 619 	detect	 traffic light 	 1 	times
+Frame	 620 	detect	 traffic light 	 1 	times
+Frame	 621 	detect	 traffic light 	 1 	times
+Frame	 622 	detect	 traffic light 	 2 	times
+Frame	 623 	detect	 traffic light 	 1 	times
+Frame	 624 	detect	 traffic light 	 2 	times
+Frame	 625 	detect	 traffic light 	 1 	times
+Frame	 626 	detect	 traffic light 	 1 	times
+Frame	 627 	detect	 traffic light 	 1 	times
+Frame	 628 	detect	 traffic light 	 2 	times
+Frame	 629 	detect	 traffic light 	 1 	times
+Frame	 630 	detect	 traffic light 	 2 	times
+Frame	 631 	detect	 traffic light 	 2 	times
+Frame	 632 	detect	 traffic light 	 1 	times
+Frame	 633 	detect	 traffic light 	 1 	times
+Frame	 634 	detect	 traffic light 	 2 	times
+Frame	 635 	detect	 traffic light 	 1 	times
+Frame	 636 	detect	 traffic light 	 2 	times
+Frame	 637 	detect	 traffic light 	 1 	times
+Frame	 638 	detect	 traffic light 	 1 	times
+Frame	 639 	detect	 traffic light 	 1 	times
+Frame	 640 	detect	 traffic light 	 2 	times
+Frame	 641 	detect	 traffic light 	 1 	times
+Frame	 642 	detect	 traffic light 	 1 	times
+Frame	 643 	detect	 traffic light 	 2 	times
+Frame	 644 	detect	 traffic light 	 2 	times
+Frame	 645 	detect	 traffic light 	 2 	times
+Frame	 646 	detect	 traffic light 	 2 	times
+Frame	 647 	detect	 traffic light 	 2 	times
+Frame	 648 	detect	 traffic light 	 1 	times
+Frame	 649 	detect	 traffic light 	 1 	times
+Frame	 650 	detect	 traffic light 	 1 	times
+Frame	 651 	detect	 traffic light 	 2 	times
+Frame	 652 	detect	 traffic light 	 2 	times
+Frame	 653 	detect	 traffic light 	 1 	times
+Frame	 654 	detect	 traffic light 	 1 	times
+Frame	 655 	detect	 traffic light 	 2 	times
+Frame	 656 	detect	 traffic light 	 1 	times
+Frame	 657 	detect	 traffic light 	 1 	times
+Frame	 658 	detect	 traffic light 	 1 	times
+Frame	 659 	detect	 traffic light 	 1 	times
+Frame	 660 	detect	 traffic light 	 1 	times
+Frame	 661 	detect	 traffic light 	 1 	times
+Frame	 662 	detect	 traffic light 	 1 	times
+Frame	 663 	detect	 traffic light 	 1 	times
+Frame	 664 	detect	 traffic light 	 1 	times
+Frame	 665 	detect	 traffic light 	 1 	times
+Frame	 666 	detect	 traffic light 	 1 	times
+Frame	 667 	detect	 traffic light 	 1 	times
+Frame	 668 	detect	 traffic light 	 1 	times
+Frame	 669 	detect	 traffic light 	 1 	times
+Frame	 670 	detect	 traffic light 	 1 	times
+Frame	 671 	detect	 traffic light 	 1 	times
+Frame	 672 	detect	 traffic light 	 1 	times
+Frame	 673 	detect	 traffic light 	 1 	times
+Frame	 674 	detect	 traffic light 	 1 	times
+Frame	 675 	detect	 traffic light 	 1 	times
+Frame	 676 	detect	 traffic light 	 1 	times
+Frame	 677 	detect	 traffic light 	 1 	times
+Frame	 678 	detect	 traffic light 	 1 	times
+Frame	 679 	detect	 traffic light 	 1 	times
+Frame	 680 	detect	 traffic light 	 1 	times
+Frame	 681 	detect	 traffic light 	 1 	times
+Frame	 682 	detect	 traffic light 	 1 	times
+Frame	 683 	detect	 traffic light 	 1 	times
+Frame	 684 	detect	 traffic light 	 1 	times
+Frame	 685 	detect	 traffic light 	 1 	times
+Frame	 686 	detect	 traffic light 	 1 	times
+Frame	 687 	detect	 traffic light 	 1 	times
+Frame	 688 	detect	 traffic light 	 1 	times
+Frame	 691 	detect	 traffic light 	 1 	times
+Frame	 692 	detect	 traffic light 	 1 	times
+Frame	 693 	detect	 traffic light 	 1 	times
+Frame	 694 	detect	 traffic light 	 1 	times
+Frame	 695 	detect	 traffic light 	 1 	times
+Frame	 696 	detect	 traffic light 	 1 	times
+Frame	 697 	detect	 traffic light 	 1 	times
+Frame	 698 	detect	 traffic light 	 1 	times
+Frame	 699 	detect	 traffic light 	 1 	times
+Frame	 700 	detect	 traffic light 	 1 	times
+Frame	 701 	detect	 traffic light 	 1 	times
+Frame	 702 	detect	 traffic light 	 1 	times
+Frame	 703 	detect	 traffic light 	 1 	times
+Frame	 704 	detect	 traffic light 	 1 	times
+Frame	 705 	detect	 traffic light 	 1 	times
+Frame	 706 	detect	 traffic light 	 1 	times
+Frame	 707 	detect	 traffic light 	 1 	times
+Frame	 708 	detect	 traffic light 	 1 	times
+Frame	 709 	detect	 traffic light 	 1 	times
+Frame	 710 	detect	 traffic light 	 1 	times
+Frame	 711 	detect	 traffic light 	 1 	times
+Frame	 712 	detect	 traffic light 	 1 	times
+Frame	 713 	detect	 traffic light 	 1 	times
+Frame	 714 	detect	 traffic light 	 1 	times
+Frame	 715 	detect	 traffic light 	 1 	times
+Frame	 716 	detect	 traffic light 	 1 	times
+Frame	 717 	detect	 traffic light 	 1 	times
+Frame	 718 	detect	 traffic light 	 1 	times
+Frame	 719 	detect	 traffic light 	 1 	times
+Frame	 720 	detect	 traffic light 	 1 	times
+Frame	 721 	detect	 traffic light 	 1 	times
+Frame	 722 	detect	 traffic light 	 1 	times
+Frame	 723 	detect	 traffic light 	 1 	times
+Frame	 724 	detect	 traffic light 	 1 	times
+Frame	 725 	detect	 traffic light 	 1 	times
+Frame	 726 	detect	 traffic light 	 1 	times
+Frame	 727 	detect	 traffic light 	 1 	times
+Frame	 728 	detect	 traffic light 	 1 	times
+Frame	 729 	detect	 traffic light 	 1 	times
+Frame	 730 	detect	 traffic light 	 1 	times
+Frame	 731 	detect	 traffic light 	 1 	times
+Frame	 732 	detect	 traffic light 	 1 	times
+Frame	 733 	detect	 traffic light 	 1 	times
+Frame	 734 	detect	 traffic light 	 1 	times
+Frame	 735 	detect	 traffic light 	 1 	times
+Frame	 736 	detect	 traffic light 	 1 	times
+Frame	 738 	detect	 traffic light 	 1 	times
+Frame	 739 	detect	 traffic light 	 2 	times
+Frame	 740 	detect	 traffic light 	 1 	times
+Frame	 741 	detect	 traffic light 	 1 	times
+Frame	 742 	detect	 traffic light 	 1 	times
+Frame	 744 	detect	 traffic light 	 1 	times
+Frame	 745 	detect	 traffic light 	 1 	times
+Frame	 746 	detect	 traffic light 	 1 	times
+Frame	 747 	detect	 traffic light 	 1 	times
+Frame	 748 	detect	 traffic light 	 1 	times
+Frame	 749 	detect	 traffic light 	 2 	times
+Frame	 750 	detect	 traffic light 	 2 	times
+Frame	 751 	detect	 traffic light 	 2 	times
+Frame	 752 	detect	 traffic light 	 3 	times
+Frame	 753 	detect	 traffic light 	 2 	times
+Frame	 754 	detect	 traffic light 	 1 	times
+Frame	 755 	detect	 traffic light 	 1 	times
+Frame	 756 	detect	 traffic light 	 1 	times
+Frame	 757 	detect	 traffic light 	 1 	times
+Frame	 758 	detect	 traffic light 	 1 	times
+Frame	 759 	detect	 traffic light 	 1 	times
+Frame	 760 	detect	 traffic light 	 1 	times
+Frame	 761 	detect	 traffic light 	 1 	times
+Frame	 762 	detect	 traffic light 	 1 	times
+Frame	 763 	detect	 traffic light 	 1 	times
+Frame	 764 	detect	 traffic light 	 1 	times
+Frame	 765 	detect	 traffic light 	 1 	times
+Frame	 766 	detect	 traffic light 	 1 	times
+Frame	 767 	detect	 traffic light 	 1 	times
+Frame	 768 	detect	 traffic light 	 1 	times
+Frame	 769 	detect	 traffic light 	 1 	times
+Frame	 770 	detect	 traffic light 	 1 	times
+Frame	 771 	detect	 traffic light 	 1 	times
+Frame	 772 	detect	 traffic light 	 1 	times
+Frame	 773 	detect	 traffic light 	 1 	times
+Frame	 774 	detect	 traffic light 	 1 	times
+Frame	 775 	detect	 traffic light 	 1 	times
+Frame	 776 	detect	 traffic light 	 1 	times
+Frame	 777 	detect	 traffic light 	 1 	times
+Frame	 778 	detect	 traffic light 	 1 	times
+Frame	 779 	detect	 traffic light 	 1 	times
+Frame	 780 	detect	 traffic light 	 1 	times
+Frame	 781 	detect	 traffic light 	 1 	times
+Frame	 782 	detect	 traffic light 	 1 	times
+Frame	 783 	detect	 traffic light 	 1 	times
+Frame	 784 	detect	 traffic light 	 1 	times
+Frame	 785 	detect	 traffic light 	 1 	times
+Frame	 786 	detect	 traffic light 	 1 	times
+Frame	 787 	detect	 traffic light 	 1 	times
+Frame	 788 	detect	 traffic light 	 1 	times
+Frame	 789 	detect	 traffic light 	 1 	times
+Frame	 790 	detect	 traffic light 	 1 	times
+Frame	 791 	detect	 traffic light 	 1 	times
+Frame	 792 	detect	 traffic light 	 1 	times
+Frame	 793 	detect	 traffic light 	 1 	times
+Frame	 794 	detect	 traffic light 	 1 	times
+Frame	 795 	detect	 traffic light 	 1 	times
+Frame	 796 	detect	 traffic light 	 1 	times
+Frame	 797 	detect	 traffic light 	 1 	times
+Frame	 798 	detect	 traffic light 	 1 	times
+Frame	 799 	detect	 traffic light 	 1 	times
+Frame	 800 	detect	 traffic light 	 1 	times
+Frame	 801 	detect	 traffic light 	 1 	times
+Frame	 802 	detect	 traffic light 	 1 	times
+Frame	 803 	detect	 traffic light 	 1 	times
+Frame	 804 	detect	 traffic light 	 1 	times
+Frame	 805 	detect	 traffic light 	 1 	times
+Frame	 806 	detect	 traffic light 	 1 	times
+Frame	 807 	detect	 traffic light 	 1 	times
+Frame	 808 	detect	 traffic light 	 1 	times
+Frame	 809 	detect	 traffic light 	 1 	times
+Frame	 810 	detect	 traffic light 	 1 	times
+Frame	 811 	detect	 traffic light 	 1 	times
+Frame	 812 	detect	 traffic light 	 1 	times
+Frame	 813 	detect	 traffic light 	 1 	times
+Frame	 814 	detect	 traffic light 	 1 	times
+Frame	 815 	detect	 traffic light 	 1 	times
+Frame	 816 	detect	 traffic light 	 1 	times
+Frame	 817 	detect	 traffic light 	 1 	times
+Frame	 818 	detect	 traffic light 	 1 	times
+Frame	 819 	detect	 traffic light 	 1 	times
+Frame	 820 	detect	 traffic light 	 1 	times
+Frame	 821 	detect	 traffic light 	 1 	times
+Frame	 822 	detect	 traffic light 	 1 	times
+Frame	 823 	detect	 traffic light 	 1 	times
+Frame	 824 	detect	 traffic light 	 1 	times
+Frame	 825 	detect	 traffic light 	 1 	times
+Frame	 826 	detect	 traffic light 	 1 	times
+Frame	 827 	detect	 traffic light 	 1 	times
+Frame	 828 	detect	 traffic light 	 1 	times
+Frame	 829 	detect	 traffic light 	 1 	times
+Frame	 830 	detect	 traffic light 	 1 	times
+Frame	 831 	detect	 traffic light 	 1 	times
+Frame	 832 	detect	 traffic light 	 1 	times
+Frame	 833 	detect	 traffic light 	 1 	times
+Frame	 834 	detect	 traffic light 	 1 	times
+Frame	 835 	detect	 traffic light 	 1 	times
+Frame	 836 	detect	 traffic light 	 1 	times
+Frame	 837 	detect	 traffic light 	 1 	times
+Frame	 838 	detect	 traffic light 	 1 	times
+Frame	 839 	detect	 traffic light 	 1 	times
+Frame	 840 	detect	 traffic light 	 1 	times
+Frame	 841 	detect	 traffic light 	 1 	times
+Frame	 842 	detect	 traffic light 	 1 	times
+Frame	 843 	detect	 traffic light 	 1 	times
+Frame	 844 	detect	 traffic light 	 1 	times
+Frame	 845 	detect	 traffic light 	 1 	times
+Frame	 846 	detect	 traffic light 	 1 	times
+Frame	 847 	detect	 traffic light 	 1 	times
+Frame	 848 	detect	 traffic light 	 1 	times
+Frame	 849 	detect	 traffic light 	 1 	times
+Frame	 850 	detect	 traffic light 	 1 	times
+Frame	 851 	detect	 traffic light 	 1 	times
+Frame	 855 	detect	 traffic light 	 1 	times
+Frame	 856 	detect	 traffic light 	 1 	times
+Frame	 857 	detect	 traffic light 	 1 	times
+Frame	 858 	detect	 traffic light 	 1 	times
+Frame	 860 	detect	 traffic light 	 1 	times
+Frame	 861 	detect	 traffic light 	 1 	times
+Frame	 862 	detect	 traffic light 	 1 	times
+Frame	 864 	detect	 traffic light 	 1 	times
+Frame	 865 	detect	 traffic light 	 1 	times
+Frame	 866 	detect	 traffic light 	 1 	times
+Frame	 867 	detect	 traffic light 	 1 	times
+Frame	 872 	detect	 traffic light 	 1 	times
+Frame	 873 	detect	 traffic light 	 1 	times
+Frame	 874 	detect	 traffic light 	 1 	times
+Frame	 875 	detect	 traffic light 	 1 	times
+Frame	 876 	detect	 traffic light 	 1 	times
+Frame	 877 	detect	 traffic light 	 1 	times
+Frame	 878 	detect	 traffic light 	 1 	times
+Frame	 879 	detect	 traffic light 	 1 	times
+Frame	 880 	detect	 traffic light 	 1 	times
+Frame	 881 	detect	 traffic light 	 1 	times
+Frame	 882 	detect	 traffic light 	 1 	times
+Frame	 883 	detect	 traffic light 	 1 	times
+Frame	 884 	detect	 traffic light 	 1 	times
+Frame	 885 	detect	 traffic light 	 2 	times
+Frame	 886 	detect	 traffic light 	 2 	times
+Frame	 887 	detect	 traffic light 	 3 	times
+Frame	 888 	detect	 traffic light 	 2 	times
+Frame	 889 	detect	 traffic light 	 2 	times
+Frame	 890 	detect	 traffic light 	 1 	times
+Frame	 891 	detect	 traffic light 	 1 	times
+Frame	 892 	detect	 traffic light 	 1 	times
+Frame	 893 	detect	 traffic light 	 1 	times
+Frame	 894 	detect	 traffic light 	 1 	times
+Frame	 895 	detect	 traffic light 	 2 	times
+Frame	 896 	detect	 traffic light 	 2 	times
+Frame	 897 	detect	 traffic light 	 2 	times
+Frame	 898 	detect	 traffic light 	 1 	times
+Frame	 899 	detect	 traffic light 	 2 	times
+Frame	 900 	detect	 traffic light 	 1 	times
+Frame	 901 	detect	 traffic light 	 1 	times
+Frame	 902 	detect	 traffic light 	 1 	times
+Frame	 903 	detect	 traffic light 	 1 	times
+Frame	 904 	detect	 traffic light 	 1 	times
+Frame	 905 	detect	 traffic light 	 1 	times
+Frame	 906 	detect	 traffic light 	 1 	times
+Frame	 907 	detect	 traffic light 	 1 	times
+Frame	 908 	detect	 traffic light 	 1 	times
+Frame	 909 	detect	 traffic light 	 1 	times
+Frame	 910 	detect	 traffic light 	 1 	times
+Frame	 911 	detect	 traffic light 	 1 	times
+Frame	 912 	detect	 traffic light 	 2 	times
+Frame	 913 	detect	 traffic light 	 1 	times
+Frame	 914 	detect	 traffic light 	 1 	times
+Frame	 915 	detect	 traffic light 	 1 	times
+Frame	 916 	detect	 traffic light 	 1 	times
+Frame	 917 	detect	 traffic light 	 1 	times
+Frame	 918 	detect	 traffic light 	 1 	times
+Frame	 919 	detect	 traffic light 	 1 	times
+Frame	 920 	detect	 traffic light 	 1 	times
+Frame	 921 	detect	 traffic light 	 1 	times
+Frame	 922 	detect	 traffic light 	 1 	times
+Frame	 923 	detect	 traffic light 	 1 	times
+Frame	 924 	detect	 traffic light 	 1 	times
+Frame	 925 	detect	 traffic light 	 1 	times
+Frame	 926 	detect	 traffic light 	 1 	times
+Frame	 927 	detect	 traffic light 	 1 	times
+Frame	 928 	detect	 traffic light 	 1 	times
+Frame	 929 	detect	 traffic light 	 1 	times
+Frame	 930 	detect	 traffic light 	 1 	times
+Frame	 931 	detect	 traffic light 	 1 	times
+Frame	 932 	detect	 traffic light 	 1 	times
+Frame	 933 	detect	 traffic light 	 1 	times
+Frame	 934 	detect	 traffic light 	 1 	times
+Frame	 935 	detect	 traffic light 	 1 	times
+Frame	 936 	detect	 traffic light 	 1 	times
+Frame	 937 	detect	 traffic light 	 1 	times
+Frame	 938 	detect	 traffic light 	 1 	times
+Frame	 939 	detect	 traffic light 	 1 	times
+Frame	 940 	detect	 traffic light 	 1 	times
+Frame	 941 	detect	 traffic light 	 2 	times
+Frame	 942 	detect	 traffic light 	 1 	times
+Frame	 943 	detect	 traffic light 	 1 	times
+Frame	 944 	detect	 traffic light 	 1 	times
+Frame	 945 	detect	 traffic light 	 1 	times
+Frame	 946 	detect	 traffic light 	 1 	times
+Frame	 947 	detect	 traffic light 	 2 	times
+Frame	 948 	detect	 traffic light 	 2 	times
+Frame	 949 	detect	 traffic light 	 2 	times
+Frame	 950 	detect	 traffic light 	 1 	times
+Frame	 951 	detect	 traffic light 	 1 	times
+Frame	 952 	detect	 traffic light 	 2 	times
+Frame	 953 	detect	 traffic light 	 1 	times
+Frame	 954 	detect	 traffic light 	 1 	times
+Frame	 955 	detect	 traffic light 	 1 	times
+Frame	 956 	detect	 traffic light 	 1 	times
+Frame	 957 	detect	 traffic light 	 1 	times
+Frame	 958 	detect	 traffic light 	 1 	times
+Frame	 959 	detect	 traffic light 	 1 	times
+Frame	 960 	detect	 traffic light 	 1 	times
+Frame	 961 	detect	 traffic light 	 2 	times
+Frame	 962 	detect	 traffic light 	 1 	times
+Frame	 963 	detect	 traffic light 	 1 	times
+Frame	 964 	detect	 traffic light 	 1 	times
+Frame	 965 	detect	 traffic light 	 1 	times
+Frame	 966 	detect	 traffic light 	 1 	times
+Frame	 967 	detect	 traffic light 	 1 	times
+Frame	 968 	detect	 traffic light 	 1 	times
+Frame	 969 	detect	 traffic light 	 1 	times
+Frame	 970 	detect	 traffic light 	 1 	times
+Frame	 971 	detect	 traffic light 	 1 	times
+Frame	 972 	detect	 traffic light 	 1 	times
+Frame	 973 	detect	 traffic light 	 1 	times
+Frame	 974 	detect	 traffic light 	 1 	times
+Frame	 975 	detect	 traffic light 	 1 	times
+Frame	 976 	detect	 traffic light 	 1 	times
+Frame	 977 	detect	 traffic light 	 1 	times
+Frame	 978 	detect	 traffic light 	 1 	times
+Frame	 979 	detect	 traffic light 	 1 	times
+Frame	 980 	detect	 traffic light 	 1 	times
+Frame	 981 	detect	 traffic light 	 1 	times
+Frame	 982 	detect	 traffic light 	 1 	times
+Frame	 983 	detect	 traffic light 	 1 	times
+Frame	 984 	detect	 traffic light 	 1 	times
+Frame	 985 	detect	 traffic light 	 1 	times
+Frame	 986 	detect	 traffic light 	 1 	times
+Frame	 987 	detect	 traffic light 	 1 	times
+Frame	 988 	detect	 traffic light 	 1 	times
+Frame	 989 	detect	 traffic light 	 1 	times
+Frame	 990 	detect	 traffic light 	 1 	times
+Frame	 991 	detect	 traffic light 	 1 	times
+Frame	 992 	detect	 traffic light 	 1 	times
+Frame	 993 	detect	 traffic light 	 2 	times
+Frame	 994 	detect	 traffic light 	 2 	times
+Frame	 995 	detect	 traffic light 	 1 	times
+Frame	 996 	detect	 traffic light 	 1 	times
+Frame	 997 	detect	 traffic light 	 1 	times
+Frame	 998 	detect	 traffic light 	 1 	times
+Frame	 999 	detect	 traffic light 	 1 	times
+Frame	 1000 	detect	 traffic light 	 1 	times
+Frame	 1001 	detect	 traffic light 	 1 	times
+Frame	 1002 	detect	 traffic light 	 1 	times
+Frame	 1003 	detect	 traffic light 	 1 	times
+Frame	 1004 	detect	 traffic light 	 1 	times
+Frame	 1005 	detect	 traffic light 	 1 	times
+Frame	 1006 	detect	 traffic light 	 2 	times
+Frame	 1007 	detect	 traffic light 	 2 	times
+Frame	 1008 	detect	 traffic light 	 1 	times
+Frame	 1009 	detect	 traffic light 	 1 	times
+Frame	 1010 	detect	 traffic light 	 1 	times
+Frame	 1011 	detect	 traffic light 	 2 	times
+Frame	 1012 	detect	 traffic light 	 1 	times
+Frame	 1013 	detect	 traffic light 	 1 	times
+Frame	 1014 	detect	 traffic light 	 1 	times
+Frame	 1015 	detect	 traffic light 	 1 	times
+Frame	 1016 	detect	 traffic light 	 1 	times
+Frame	 1017 	detect	 traffic light 	 1 	times
+Frame	 1018 	detect	 traffic light 	 2 	times
+Frame	 1019 	detect	 traffic light 	 1 	times
+Frame	 1020 	detect	 traffic light 	 1 	times
+Frame	 1021 	detect	 traffic light 	 1 	times
+Frame	 1022 	detect	 traffic light 	 1 	times
+Frame	 1023 	detect	 traffic light 	 1 	times
+Frame	 1024 	detect	 traffic light 	 2 	times
+Frame	 1025 	detect	 traffic light 	 1 	times
+Frame	 1026 	detect	 traffic light 	 1 	times
+Frame	 1027 	detect	 traffic light 	 2 	times
+Frame	 1028 	detect	 traffic light 	 1 	times
+Frame	 1029 	detect	 traffic light 	 1 	times
+Frame	 1030 	detect	 traffic light 	 2 	times
+Frame	 1031 	detect	 traffic light 	 1 	times
+Frame	 1032 	detect	 traffic light 	 2 	times
+Frame	 1033 	detect	 traffic light 	 1 	times
+Frame	 1034 	detect	 traffic light 	 1 	times
+Frame	 1035 	detect	 traffic light 	 1 	times
+Frame	 1036 	detect	 traffic light 	 1 	times
+Frame	 1037 	detect	 traffic light 	 1 	times
+Frame	 1038 	detect	 traffic light 	 1 	times
+Frame	 1039 	detect	 traffic light 	 1 	times
+Frame	 1040 	detect	 traffic light 	 1 	times
+Frame	 1041 	detect	 traffic light 	 1 	times
+Frame	 1042 	detect	 traffic light 	 1 	times
+Frame	 1043 	detect	 traffic light 	 1 	times
+Frame	 1044 	detect	 traffic light 	 1 	times
+Frame	 1045 	detect	 traffic light 	 1 	times
+Frame	 1046 	detect	 traffic light 	 1 	times
+Frame	 1047 	detect	 traffic light 	 1 	times
+Frame	 1048 	detect	 traffic light 	 1 	times
+Frame	 1049 	detect	 traffic light 	 1 	times
+Frame	 1050 	detect	 traffic light 	 1 	times
+Frame	 1051 	detect	 traffic light 	 1 	times
+Frame	 1052 	detect	 traffic light 	 1 	times
+Frame	 1053 	detect	 traffic light 	 1 	times
+Frame	 1054 	detect	 traffic light 	 1 	times
+Frame	 1055 	detect	 traffic light 	 1 	times
+Frame	 1056 	detect	 traffic light 	 1 	times
+Frame	 1057 	detect	 traffic light 	 1 	times
+Frame	 1058 	detect	 traffic light 	 1 	times
+Frame	 1059 	detect	 traffic light 	 1 	times
+Frame	 1060 	detect	 traffic light 	 1 	times
+Frame	 1061 	detect	 traffic light 	 2 	times
+Frame	 1062 	detect	 traffic light 	 1 	times
+Frame	 1063 	detect	 traffic light 	 1 	times
+Frame	 1064 	detect	 traffic light 	 1 	times
+Frame	 1065 	detect	 traffic light 	 1 	times
+Frame	 1066 	detect	 traffic light 	 2 	times
+Frame	 1067 	detect	 traffic light 	 1 	times
+Frame	 1068 	detect	 traffic light 	 2 	times
+Frame	 1069 	detect	 traffic light 	 1 	times
+Frame	 1070 	detect	 traffic light 	 1 	times
+Frame	 1071 	detect	 traffic light 	 1 	times
+Frame	 1072 	detect	 traffic light 	 1 	times
+Frame	 1073 	detect	 traffic light 	 2 	times
+Frame	 1074 	detect	 traffic light 	 1 	times
+Frame	 1075 	detect	 traffic light 	 1 	times
+Frame	 1076 	detect	 traffic light 	 1 	times
+Frame	 1077 	detect	 traffic light 	 1 	times
+Frame	 1078 	detect	 traffic light 	 1 	times
+Frame	 1079 	detect	 traffic light 	 1 	times
+Frame	 1080 	detect	 traffic light 	 1 	times
+Frame	 1081 	detect	 traffic light 	 1 	times
+Frame	 1082 	detect	 traffic light 	 1 	times
+Frame	 1083 	detect	 traffic light 	 1 	times
+Frame	 1084 	detect	 traffic light 	 1 	times
+Frame	 1085 	detect	 traffic light 	 1 	times
+Frame	 1086 	detect	 traffic light 	 2 	times
+Frame	 1087 	detect	 traffic light 	 1 	times
+Frame	 1088 	detect	 traffic light 	 1 	times
+Frame	 1089 	detect	 traffic light 	 1 	times
+Frame	 1090 	detect	 traffic light 	 1 	times
+Frame	 1091 	detect	 traffic light 	 2 	times
+Frame	 1092 	detect	 traffic light 	 2 	times
+Frame	 1093 	detect	 traffic light 	 1 	times
+Frame	 1094 	detect	 traffic light 	 1 	times
+Frame	 1095 	detect	 traffic light 	 1 	times
+Frame	 1096 	detect	 traffic light 	 1 	times
+Frame	 1097 	detect	 traffic light 	 2 	times
+Frame	 1098 	detect	 traffic light 	 1 	times
+Frame	 1099 	detect	 traffic light 	 2 	times
+Frame	 1100 	detect	 traffic light 	 2 	times
+Frame	 1101 	detect	 traffic light 	 1 	times
+Frame	 1102 	detect	 traffic light 	 1 	times
+Frame	 1103 	detect	 traffic light 	 2 	times
+Frame	 1104 	detect	 traffic light 	 1 	times
+Frame	 1105 	detect	 traffic light 	 2 	times
+Frame	 1106 	detect	 traffic light 	 1 	times
+Frame	 1107 	detect	 traffic light 	 2 	times
+Frame	 1108 	detect	 traffic light 	 1 	times
+Frame	 1109 	detect	 traffic light 	 2 	times
+Frame	 1110 	detect	 traffic light 	 2 	times
+Frame	 1111 	detect	 traffic light 	 1 	times
+Frame	 1112 	detect	 traffic light 	 2 	times
+Frame	 1113 	detect	 traffic light 	 1 	times
+Frame	 1114 	detect	 traffic light 	 2 	times
+Frame	 1115 	detect	 traffic light 	 2 	times
+Frame	 1116 	detect	 traffic light 	 1 	times
+Frame	 1117 	detect	 traffic light 	 1 	times
+Frame	 1118 	detect	 traffic light 	 1 	times
+Frame	 1119 	detect	 traffic light 	 1 	times
+Frame	 1120 	detect	 traffic light 	 1 	times
+Frame	 1121 	detect	 traffic light 	 1 	times
+Frame	 1122 	detect	 traffic light 	 1 	times
+Frame	 1123 	detect	 traffic light 	 1 	times
+Frame	 1124 	detect	 traffic light 	 1 	times
+Frame	 1125 	detect	 traffic light 	 1 	times
+Frame	 1126 	detect	 traffic light 	 1 	times
+Frame	 1127 	detect	 traffic light 	 1 	times
+Frame	 1128 	detect	 traffic light 	 1 	times
+Frame	 1129 	detect	 traffic light 	 1 	times
+Frame	 1130 	detect	 traffic light 	 1 	times
+Frame	 1131 	detect	 traffic light 	 1 	times
+Frame	 1132 	detect	 traffic light 	 1 	times
+Frame	 1133 	detect	 traffic light 	 1 	times
+Frame	 1134 	detect	 traffic light 	 1 	times
+Frame	 1135 	detect	 traffic light 	 1 	times
+Frame	 1136 	detect	 traffic light 	 1 	times
+Frame	 1137 	detect	 traffic light 	 1 	times
+Frame	 1138 	detect	 traffic light 	 1 	times
+Frame	 1139 	detect	 traffic light 	 1 	times
+Frame	 1140 	detect	 traffic light 	 1 	times
+Frame	 1141 	detect	 traffic light 	 1 	times
+Frame	 1142 	detect	 traffic light 	 1 	times
+Frame	 1143 	detect	 traffic light 	 1 	times
+Frame	 1144 	detect	 traffic light 	 1 	times
+Frame	 1145 	detect	 traffic light 	 1 	times
+Frame	 1146 	detect	 traffic light 	 1 	times
+Frame	 1147 	detect	 traffic light 	 1 	times
+Frame	 1148 	detect	 traffic light 	 1 	times
+Frame	 1149 	detect	 traffic light 	 1 	times
+Frame	 1150 	detect	 traffic light 	 1 	times
+Frame	 1151 	detect	 traffic light 	 1 	times
+Frame	 1152 	detect	 traffic light 	 1 	times
+Frame	 1153 	detect	 traffic light 	 1 	times
+Frame	 1154 	detect	 traffic light 	 1 	times
+Frame	 1155 	detect	 traffic light 	 1 	times
+Frame	 1156 	detect	 traffic light 	 1 	times
+Frame	 1157 	detect	 traffic light 	 1 	times
+Frame	 1158 	detect	 traffic light 	 1 	times
+Frame	 1159 	detect	 traffic light 	 1 	times
+Frame	 1160 	detect	 traffic light 	 1 	times
+Frame	 1161 	detect	 traffic light 	 1 	times
+Frame	 1162 	detect	 traffic light 	 1 	times
+Frame	 1163 	detect	 traffic light 	 1 	times
+Frame	 1164 	detect	 traffic light 	 1 	times
+Frame	 1165 	detect	 traffic light 	 1 	times
+Frame	 1166 	detect	 traffic light 	 1 	times
+Frame	 1167 	detect	 traffic light 	 1 	times
+Frame	 1168 	detect	 traffic light 	 1 	times
+Frame	 1169 	detect	 traffic light 	 1 	times
+Frame	 1170 	detect	 traffic light 	 1 	times
+Frame	 1171 	detect	 traffic light 	 1 	times
+Frame	 1172 	detect	 traffic light 	 1 	times
+Frame	 1173 	detect	 traffic light 	 1 	times
+Frame	 1174 	detect	 traffic light 	 1 	times
+Frame	 1175 	detect	 traffic light 	 1 	times
+Frame	 1176 	detect	 traffic light 	 1 	times
+Frame	 1177 	detect	 traffic light 	 1 	times
+Frame	 1178 	detect	 traffic light 	 1 	times
+Frame	 1179 	detect	 traffic light 	 1 	times
+Frame	 1180 	detect	 traffic light 	 1 	times
+Frame	 1181 	detect	 traffic light 	 1 	times
+Frame	 1182 	detect	 traffic light 	 1 	times
+Frame	 1183 	detect	 traffic light 	 1 	times
+Frame	 1184 	detect	 traffic light 	 1 	times
+Frame	 1185 	detect	 traffic light 	 1 	times
+Frame	 1186 	detect	 traffic light 	 1 	times
+Frame	 1187 	detect	 traffic light 	 1 	times
+Frame	 1188 	detect	 traffic light 	 1 	times
+Frame	 1189 	detect	 traffic light 	 1 	times
+Frame	 1190 	detect	 traffic light 	 1 	times
+Frame	 1191 	detect	 traffic light 	 1 	times
+Frame	 1192 	detect	 traffic light 	 1 	times
+Frame	 1193 	detect	 traffic light 	 1 	times
+Frame	 1194 	detect	 traffic light 	 1 	times
+Frame	 1195 	detect	 traffic light 	 1 	times
+Frame	 1196 	detect	 traffic light 	 1 	times
+Frame	 1197 	detect	 traffic light 	 1 	times

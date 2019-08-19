@@ -1,0 +1,4564 @@
+RAW 1 person  Left=778, Top=267, Right=806, Bottom=339
+
+RAW 2 person  Left=779, Top=263, Right=814, Bottom=348
+
+RAW 3 person  Left=781, Top=265, Right=816, Bottom=348
+
+RAW 4 person  Left=788, Top=266, Right=815, Bottom=341
+
+RAW 4 person  Left=896, Top=336, Right=925, Bottom=383
+
+RAW 5 person  Left=790, Top=266, Right=818, Bottom=342
+
+RAW 6 person  Left=907, Top=342, Right=932, Bottom=384
+
+RAW 6 person  Left=792, Top=268, Right=829, Bottom=348
+
+RAW 7 person  Left=796, Top=267, Right=830, Bottom=351
+
+RAW 8 person  Left=797, Top=262, Right=832, Bottom=350
+
+RAW 9 person  Left=800, Top=262, Right=837, Bottom=351
+
+RAW 10 person  Left=804, Top=269, Right=840, Bottom=350
+
+RAW 11 person  Left=807, Top=264, Right=841, Bottom=351
+
+RAW 12 person  Left=813, Top=270, Right=839, Bottom=347
+
+RAW 13 person  Left=813, Top=267, Right=846, Bottom=352
+
+RAW 14 person  Left=818, Top=270, Right=855, Bottom=349
+
+RAW 15 person  Left=821, Top=269, Right=854, Bottom=352
+
+RAW 17 person  Left=827, Top=267, Right=861, Bottom=355
+
+RAW 19 person  Left=834, Top=271, Right=869, Bottom=356
+
+RAW 20 person  Left=838, Top=274, Right=867, Bottom=350
+
+RAW 21 person  Left=838, Top=265, Right=874, Bottom=356
+
+RAW 22 person  Left=841, Top=271, Right=884, Bottom=359
+
+RAW 23 person  Left=846, Top=262, Right=885, Bottom=363
+
+RAW 24 person  Left=852, Top=269, Right=891, Bottom=360
+
+RAW 25 person  Left=857, Top=277, Right=896, Bottom=365
+
+RAW 26 person  Left=859, Top=273, Right=899, Bottom=370
+
+RAW 27 person  Left=861, Top=275, Right=902, Bottom=368
+
+RAW 28 person  Left=869, Top=268, Right=909, Bottom=363
+
+RAW 29 person  Left=874, Top=273, Right=913, Bottom=371
+
+RAW 30 person  Left=877, Top=280, Right=917, Bottom=365
+
+RAW 31 person  Left=883, Top=281, Right=920, Bottom=368
+
+RAW 34 person  Left=894, Top=276, Right=935, Bottom=378
+
+RAW 35 person  Left=900, Top=282, Right=943, Bottom=379
+
+RAW 36 person  Left=904, Top=280, Right=946, Bottom=381
+
+RAW 37 person  Left=911, Top=283, Right=946, Bottom=382
+
+RAW 38 person  Left=913, Top=280, Right=950, Bottom=384
+
+RAW 96 person  Left=200, Top=264, Right=222, Bottom=314
+
+RAW 97 person  Left=198, Top=264, Right=220, Bottom=317
+
+RAW 98 person  Left=191, Top=262, Right=216, Bottom=319
+
+RAW 99 person  Left=187, Top=261, Right=213, Bottom=320
+
+RAW 100 person  Left=183, Top=260, Right=210, Bottom=318
+
+RAW 107 person  Left=150, Top=263, Right=185, Bottom=319
+
+RAW 112 person  Left=124, Top=262, Right=167, Bottom=334
+
+RAW 113 person  Left=126, Top=267, Right=161, Bottom=329
+
+RAW 115 person  Left=112, Top=260, Right=155, Bottom=338
+
+RAW 116 person  Left=109, Top=259, Right=153, Bottom=339
+
+RAW 118 person  Left=97, Top=262, Right=141, Bottom=355
+
+RAW 119 person  Left=94, Top=263, Right=139, Bottom=356
+
+RAW 121 person  Left=82, Top=255, Right=123, Bottom=395
+
+RAW 122 person  Left=75, Top=260, Right=115, Bottom=359
+
+RAW 125 person  Left=70, Top=265, Right=112, Bottom=381
+
+RAW 126 person  Left=65, Top=267, Right=110, Bottom=383
+
+RAW 127 person  Left=58, Top=265, Right=105, Bottom=384
+
+RAW 128 person  Left=40, Top=264, Right=94, Bottom=385
+
+RAW 128 person  Left=65, Top=270, Right=101, Bottom=381
+
+RAW 129 person  Left=43, Top=266, Right=90, Bottom=384
+
+RAW 130 person  Left=21, Top=265, Right=72, Bottom=386
+
+RAW 130 person  Left=46, Top=270, Right=88, Bottom=383
+
+RAW 131 person  Left=14, Top=269, Right=70, Bottom=391
+
+RAW 132 person  Left=46, Top=271, Right=79, Bottom=393
+
+RAW 132 person  Left=9, Top=268, Right=64, Bottom=393
+
+RAW 133 person  Left=39, Top=274, Right=74, Bottom=394
+
+RAW 133 person  Left=8, Top=270, Right=62, Bottom=399
+
+RAW 134 person  Left=39, Top=275, Right=70, Bottom=400
+
+RAW 134 person  Left=12, Top=271, Right=63, Bottom=398
+
+RAW 135 person  Left=22, Top=276, Right=62, Bottom=400
+
+RAW 136 person  Left=19, Top=278, Right=58, Bottom=400
+
+RAW 136 person  Left=2, Top=272, Right=34, Bottom=395
+
+RAW 137 person  Left=15, Top=292, Right=53, Bottom=408
+
+RAW 137 person  Left=0, Top=277, Right=29, Bottom=400
+
+RAW 138 person  Left=8, Top=289, Right=47, Bottom=411
+
+RAW 139 person  Left=2, Top=292, Right=36, Bottom=407
+
+RAW 140 person  Left=0, Top=293, Right=32, Bottom=407
+
+RAW 141 person  Left=1, Top=296, Right=27, Bottom=412
+
+RAW 170 person  Left=348, Top=302, Right=367, Bottom=355
+
+RAW 174 person  Left=341, Top=289, Right=361, Bottom=337
+
+RAW 181 person  Left=333, Top=261, Right=358, Bottom=309
+
+RAW 183 person  Left=334, Top=253, Right=356, Bottom=304
+
+RAW 193 person  Left=323, Top=257, Right=349, Bottom=313
+
+RAW 194 person  Left=323, Top=259, Right=348, Bottom=317
+
+RAW 196 person  Left=319, Top=265, Right=349, Bottom=318
+
+RAW 200 person  Left=313, Top=267, Right=339, Bottom=326
+
+RAW 202 person  Left=905, Top=279, Right=922, Bottom=327
+
+RAW 202 person  Left=313, Top=271, Right=337, Bottom=330
+
+RAW 203 person  Left=905, Top=282, Right=923, Bottom=325
+
+RAW 205 person  Left=764, Top=269, Right=788, Bottom=310
+
+RAW 205 person  Left=908, Top=287, Right=932, Bottom=333
+
+RAW 206 person  Left=766, Top=271, Right=790, Bottom=311
+
+RAW 206 person  Left=309, Top=270, Right=332, Bottom=329
+
+RAW 206 person  Left=914, Top=286, Right=937, Bottom=333
+
+RAW 207 person  Left=916, Top=286, Right=940, Bottom=333
+
+RAW 208 person  Left=919, Top=287, Right=943, Bottom=333
+
+RAW 208 person  Left=768, Top=268, Right=790, Bottom=312
+
+RAW 210 person  Left=925, Top=274, Right=953, Bottom=332
+
+RAW 210 person  Left=294, Top=234, Right=334, Bottom=334
+
+RAW 210 person  Left=770, Top=271, Right=799, Bottom=306
+
+RAW 211 person  Left=774, Top=273, Right=799, Bottom=311
+
+RAW 211 person  Left=928, Top=271, Right=954, Bottom=331
+
+RAW 212 person  Left=774, Top=270, Right=800, Bottom=308
+
+RAW 212 person  Left=297, Top=273, Right=322, Bottom=328
+
+RAW 213 person  Left=290, Top=232, Right=328, Bottom=328
+
+RAW 213 person  Left=777, Top=269, Right=800, Bottom=309
+
+RAW 214 person  Left=779, Top=270, Right=802, Bottom=308
+
+RAW 214 person  Left=290, Top=230, Right=327, Bottom=325
+
+RAW 216 person  Left=287, Top=227, Right=327, Bottom=331
+
+RAW 222 person  Left=789, Top=268, Right=815, Bottom=309
+
+RAW 227 person  Left=801, Top=270, Right=826, Bottom=310
+
+RAW 228 person  Left=804, Top=272, Right=826, Bottom=309
+
+RAW 230 person  Left=267, Top=262, Right=292, Bottom=336
+
+RAW 232 person  Left=813, Top=270, Right=835, Bottom=312
+
+RAW 232 person  Left=262, Top=261, Right=285, Bottom=340
+
+RAW 233 person  Left=815, Top=267, Right=836, Bottom=312
+
+RAW 234 person  Left=817, Top=267, Right=839, Bottom=309
+
+RAW 235 person  Left=817, Top=265, Right=839, Bottom=310
+
+RAW 236 person  Left=816, Top=270, Right=844, Bottom=310
+
+RAW 237 person  Left=824, Top=267, Right=847, Bottom=308
+
+RAW 238 person  Left=824, Top=268, Right=847, Bottom=310
+
+RAW 240 person  Left=829, Top=269, Right=851, Bottom=312
+
+RAW 247 person  Left=842, Top=273, Right=865, Bottom=322
+
+RAW 248 person  Left=845, Top=274, Right=868, Bottom=321
+
+RAW 262 person  Left=170, Top=271, Right=202, Bottom=374
+
+RAW 264 person  Left=158, Top=266, Right=190, Bottom=379
+
+RAW 265 person  Left=154, Top=272, Right=187, Bottom=379
+
+RAW 266 person  Left=147, Top=268, Right=184, Bottom=378
+
+RAW 267 person  Left=140, Top=269, Right=180, Bottom=383
+
+RAW 268 person  Left=136, Top=272, Right=176, Bottom=382
+
+RAW 269 person  Left=134, Top=268, Right=173, Bottom=386
+
+RAW 270 person  Left=128, Top=277, Right=167, Bottom=385
+
+RAW 271 person  Left=121, Top=274, Right=163, Bottom=387
+
+RAW 272 person  Left=113, Top=267, Right=160, Bottom=395
+
+RAW 273 person  Left=109, Top=267, Right=155, Bottom=388
+
+RAW 274 person  Left=107, Top=272, Right=151, Bottom=384
+
+RAW 275 person  Left=97, Top=270, Right=146, Bottom=395
+
+RAW 276 person  Left=93, Top=270, Right=139, Bottom=400
+
+RAW 277 person  Left=82, Top=271, Right=137, Bottom=398
+
+RAW 278 person  Left=76, Top=274, Right=131, Bottom=405
+
+RAW 279 person  Left=70, Top=272, Right=121, Bottom=408
+
+RAW 280 person  Left=63, Top=273, Right=116, Bottom=401
+
+RAW 281 person  Left=55, Top=274, Right=109, Bottom=401
+
+RAW 282 person  Left=52, Top=281, Right=106, Bottom=392
+
+RAW 283 person  Left=42, Top=278, Right=91, Bottom=399
+
+RAW 284 person  Left=31, Top=274, Right=85, Bottom=423
+
+RAW 285 person  Left=23, Top=270, Right=74, Bottom=430
+
+RAW 286 person  Left=16, Top=278, Right=69, Bottom=423
+
+RAW 287 person  Left=8, Top=275, Right=63, Bottom=424
+
+RAW 288 person  Left=3, Top=277, Right=54, Bottom=429
+
+RAW 312 person  Left=463, Top=263, Right=477, Bottom=289
+
+RAW 335 person  Left=309, Top=249, Right=327, Bottom=294
+
+RAW 339 person  Left=473, Top=254, Right=495, Bottom=296
+
+RAW 340 person  Left=480, Top=263, Right=493, Bottom=290
+
+RAW 342 person  Left=41, Top=331, Right=87, Bottom=476
+
+RAW 355 person  Left=492, Top=264, Right=505, Bottom=290
+
+RAW 357 person  Left=494, Top=265, Right=507, Bottom=291
+
+RAW 358 person  Left=494, Top=265, Right=506, Bottom=292
+
+RAW 361 person  Left=496, Top=273, Right=508, Bottom=297
+
+RAW 365 person  Left=500, Top=274, Right=514, Bottom=295
+
+RAW 381 person  Left=514, Top=276, Right=527, Bottom=294
+
+RAW 396 person  Left=526, Top=270, Right=537, Bottom=303
+
+RAW 406 person  Left=538, Top=272, Right=551, Bottom=300
+
+RAW 407 person  Left=536, Top=272, Right=554, Bottom=302
+
+RAW 408 person  Left=536, Top=268, Right=560, Bottom=303
+
+RAW 409 person  Left=537, Top=272, Right=554, Bottom=300
+
+RAW 413 person  Left=383, Top=262, Right=405, Bottom=320
+
+RAW 413 person  Left=541, Top=267, Right=566, Bottom=304
+
+RAW 414 person  Left=541, Top=267, Right=565, Bottom=305
+
+RAW 415 person  Left=541, Top=266, Right=565, Bottom=305
+
+RAW 416 person  Left=547, Top=264, Right=568, Bottom=306
+
+RAW 417 person  Left=547, Top=265, Right=568, Bottom=304
+
+RAW 420 person  Left=551, Top=266, Right=573, Bottom=305
+
+RAW 421 person  Left=550, Top=267, Right=573, Bottom=305
+
+RAW 423 person  Left=552, Top=265, Right=573, Bottom=308
+
+RAW 424 person  Left=550, Top=274, Right=573, Bottom=310
+
+RAW 424 person  Left=492, Top=265, Right=503, Bottom=285
+
+RAW 425 person  Left=549, Top=273, Right=573, Bottom=306
+
+RAW 426 person  Left=553, Top=275, Right=572, Bottom=305
+
+RAW 428 person  Left=552, Top=271, Right=578, Bottom=310
+
+RAW 429 person  Left=553, Top=271, Right=577, Bottom=310
+
+RAW 430 person  Left=559, Top=272, Right=583, Bottom=311
+
+RAW 431 person  Left=557, Top=266, Right=584, Bottom=314
+
+RAW 432 person  Left=560, Top=268, Right=584, Bottom=311
+
+RAW 433 person  Left=561, Top=267, Right=582, Bottom=311
+
+RAW 434 person  Left=562, Top=268, Right=583, Bottom=311
+
+RAW 440 person  Left=702, Top=278, Right=720, Bottom=329
+
+RAW 447 person  Left=589, Top=253, Right=610, Bottom=320
+
+RAW 450 person  Left=362, Top=265, Right=385, Bottom=337
+
+RAW 451 person  Left=599, Top=270, Right=618, Bottom=313
+
+RAW 452 person  Left=600, Top=278, Right=620, Bottom=315
+
+RAW 454 person  Left=360, Top=260, Right=383, Bottom=339
+
+RAW 455 person  Left=605, Top=279, Right=625, Bottom=319
+
+RAW 456 person  Left=605, Top=278, Right=627, Bottom=320
+
+RAW 458 person  Left=607, Top=282, Right=633, Bottom=320
+
+RAW 459 person  Left=608, Top=279, Right=633, Bottom=321
+
+RAW 460 person  Left=612, Top=281, Right=637, Bottom=321
+
+RAW 461 person  Left=614, Top=281, Right=638, Bottom=319
+
+RAW 463 person  Left=622, Top=273, Right=644, Bottom=319
+
+RAW 467 person  Left=632, Top=268, Right=651, Bottom=326
+
+RAW 469 person  Left=637, Top=272, Right=656, Bottom=326
+
+RAW 470 person  Left=335, Top=262, Right=381, Bottom=353
+
+RAW 471 person  Left=641, Top=276, Right=658, Bottom=328
+
+RAW 472 person  Left=645, Top=267, Right=660, Bottom=331
+
+RAW 474 person  Left=649, Top=273, Right=670, Bottom=326
+
+RAW 475 person  Left=650, Top=272, Right=674, Bottom=329
+
+RAW 476 person  Left=652, Top=276, Right=676, Bottom=329
+
+RAW 477 person  Left=651, Top=272, Right=675, Bottom=332
+
+RAW 480 person  Left=659, Top=268, Right=686, Bottom=332
+
+RAW 481 person  Left=661, Top=266, Right=689, Bottom=332
+
+RAW 482 person  Left=664, Top=265, Right=690, Bottom=335
+
+RAW 483 person  Left=348, Top=255, Right=371, Bottom=324
+
+RAW 494 person  Left=57, Top=224, Right=87, Bottom=333
+
+RAW 506 person  Left=748, Top=262, Right=795, Bottom=361
+
+RAW 507 person  Left=749, Top=262, Right=794, Bottom=362
+
+RAW 509 person  Left=812, Top=257, Right=834, Bottom=323
+
+RAW 543 person  Left=351, Top=259, Right=371, Bottom=313
+
+RAW 548 person  Left=349, Top=253, Right=370, Bottom=316
+
+RAW 550 person  Left=348, Top=245, Right=369, Bottom=312
+
+RAW 551 person  Left=348, Top=245, Right=367, Bottom=311
+
+RAW 564 person  Left=326, Top=247, Right=367, Bottom=325
+
+RAW 567 person  Left=334, Top=252, Right=357, Bottom=316
+
+RAW 568 person  Left=332, Top=251, Right=357, Bottom=317
+
+RAW 602 person  Left=930, Top=290, Right=956, Bottom=357
+
+RAW 604 person  Left=931, Top=284, Right=957, Bottom=362
+
+RAW 605 person  Left=930, Top=282, Right=956, Bottom=363
+
+RAW 618 person  Left=906, Top=283, Right=941, Bottom=371
+
+RAW 634 person  Left=823, Top=309, Right=849, Bottom=375
+
+RAW 842 person  Left=444, Top=261, Right=457, Bottom=286
+
+RAW 947 person  Left=386, Top=286, Right=402, Bottom=317
+
+RAW 1033 person  Left=0, Top=310, Right=32, Bottom=393
+
+RAW 1035 person  Left=0, Top=281, Right=35, Bottom=394
+
+RAW 1038 person  Left=0, Top=276, Right=37, Bottom=403
+
+RAW 1039 person  Left=0, Top=276, Right=36, Bottom=401
+
+RAW 1043 person  Left=1, Top=298, Right=38, Bottom=413
+
+RAW 1044 person  Left=1, Top=296, Right=39, Bottom=416
+
+RAW 1046 person  Left=3, Top=287, Right=55, Bottom=419
+
+RAW 1047 person  Left=4, Top=292, Right=57, Bottom=418
+
+RAW 1048 person  Left=4, Top=286, Right=59, Bottom=417
+
+RAW 1049 person  Left=6, Top=289, Right=60, Bottom=418
+
+RAW 1050 person  Left=7, Top=292, Right=65, Bottom=419
+
+RAW 1051 person  Left=9, Top=293, Right=65, Bottom=418
+
+RAW 1052 person  Left=12, Top=284, Right=67, Bottom=420
+
+RAW 1053 person  Left=12, Top=282, Right=67, Bottom=421
+
+RAW 1054 person  Left=14, Top=279, Right=69, Bottom=423
+
+RAW 1055 person  Left=5, Top=279, Right=76, Bottom=427
+
+RAW 1056 person  Left=7, Top=275, Right=78, Bottom=427
+
+RAW 1057 person  Left=10, Top=268, Right=79, Bottom=429
+
+RAW 1058 person  Left=10, Top=271, Right=80, Bottom=427
+
+RAW 1059 person  Left=15, Top=268, Right=78, Bottom=429
+
+RAW 1060 person  Left=22, Top=272, Right=72, Bottom=428
+
+RAW 1061 person  Left=18, Top=264, Right=76, Bottom=432
+
+RAW 1062 person  Left=24, Top=262, Right=83, Bottom=436
+
+RAW 1064 person  Left=26, Top=284, Right=80, Bottom=427
+
+RAW 1066 person  Left=24, Top=268, Right=87, Bottom=440
+
+RAW 1067 person  Left=34, Top=281, Right=83, Bottom=437
+
+RAW 1068 person  Left=23, Top=270, Right=94, Bottom=443
+
+RAW 1069 person  Left=24, Top=271, Right=94, Bottom=444
+
+RAW 1070 person  Left=27, Top=276, Right=96, Bottom=445
+
+RAW 1071 person  Left=30, Top=271, Right=95, Bottom=452
+
+RAW 1072 person  Left=24, Top=276, Right=93, Bottom=453
+
+RAW 1073 person  Left=26, Top=274, Right=95, Bottom=454
+
+RAW 1074 person  Left=23, Top=274, Right=97, Bottom=455
+
+RAW 1075 person  Left=22, Top=269, Right=99, Bottom=459
+
+RAW 1076 person  Left=13, Top=275, Right=100, Bottom=457
+
+RAW 1077 person  Left=16, Top=274, Right=101, Bottom=457
+
+RAW 1078 person  Left=11, Top=272, Right=104, Bottom=460
+
+RAW 1079 person  Left=15, Top=273, Right=105, Bottom=459
+
+RAW 1080 person  Left=16, Top=286, Right=107, Bottom=462
+
+RAW 1081 person  Left=14, Top=261, Right=110, Bottom=468
+
+RAW 1082 person  Left=14, Top=264, Right=114, Bottom=464
+
+RAW 1083 person  Left=17, Top=268, Right=110, Bottom=465
+
+RAW 1084 person  Left=18, Top=261, Right=109, Bottom=469
+
+RAW 1085 person  Left=17, Top=254, Right=111, Bottom=474
+
+RAW 1086 person  Left=17, Top=266, Right=110, Bottom=466
+
+RAW 1087 person  Left=18, Top=261, Right=104, Bottom=469
+
+RAW 1088 person  Left=17, Top=277, Right=101, Bottom=472
+
+RAW 1089 person  Left=12, Top=259, Right=102, Bottom=474
+
+RAW 1090 person  Left=13, Top=260, Right=98, Bottom=471
+
+RAW 1091 person  Left=8, Top=273, Right=84, Bottom=474
+
+RAW 1092 person  Left=8, Top=275, Right=81, Bottom=473
+
+RAW 1093 person  Left=7, Top=268, Right=77, Bottom=481
+
+RAW 1094 person  Left=4, Top=270, Right=70, Bottom=479
+
+RAW 1095 person  Left=3, Top=272, Right=66, Bottom=478
+
+RAW 1106 person  Left=0, Top=267, Right=43, Bottom=506
+
+RAW 1620 person  Left=334, Top=281, Right=353, Bottom=325
+
+RAW 1623 person  Left=331, Top=283, Right=354, Bottom=324
+
+RAW 1 car  Left=512, Top=263, Right=566, Bottom=302
+
+RAW 1 car  Left=499, Top=265, Right=520, Bottom=287
+
+RAW 1 car  Left=482, Top=267, Right=493, Bottom=278
+
+RAW 1 car  Left=490, Top=266, Right=503, Bottom=283
+
+RAW 1 car  Left=618, Top=271, Right=684, Bottom=301
+
+RAW 2 car  Left=512, Top=262, Right=566, Bottom=303
+
+RAW 2 car  Left=500, Top=264, Right=519, Bottom=288
+
+RAW 2 car  Left=482, Top=267, Right=493, Bottom=278
+
+RAW 2 car  Left=491, Top=266, Right=503, Bottom=283
+
+RAW 3 car  Left=514, Top=263, Right=566, Bottom=302
+
+RAW 3 car  Left=500, Top=265, Right=519, Bottom=288
+
+RAW 3 car  Left=491, Top=266, Right=503, Bottom=283
+
+RAW 3 car  Left=482, Top=267, Right=493, Bottom=279
+
+RAW 4 car  Left=512, Top=262, Right=568, Bottom=303
+
+RAW 4 car  Left=501, Top=265, Right=519, Bottom=288
+
+RAW 4 car  Left=482, Top=267, Right=493, Bottom=278
+
+RAW 4 car  Left=492, Top=266, Right=503, Bottom=283
+
+RAW 5 car  Left=513, Top=262, Right=568, Bottom=303
+
+RAW 5 car  Left=500, Top=265, Right=520, Bottom=289
+
+RAW 5 car  Left=482, Top=268, Right=493, Bottom=278
+
+RAW 5 car  Left=490, Top=266, Right=504, Bottom=283
+
+RAW 6 car  Left=511, Top=262, Right=570, Bottom=304
+
+RAW 6 car  Left=499, Top=266, Right=521, Bottom=289
+
+RAW 6 car  Left=482, Top=268, Right=494, Bottom=278
+
+RAW 7 car  Left=517, Top=266, Right=572, Bottom=303
+
+RAW 7 car  Left=501, Top=266, Right=521, Bottom=289
+
+RAW 7 car  Left=481, Top=267, Right=494, Bottom=278
+
+RAW 8 car  Left=509, Top=263, Right=571, Bottom=304
+
+RAW 8 car  Left=500, Top=266, Right=522, Bottom=289
+
+RAW 8 car  Left=490, Top=266, Right=506, Bottom=283
+
+RAW 9 car  Left=516, Top=266, Right=573, Bottom=305
+
+RAW 9 car  Left=502, Top=268, Right=522, Bottom=289
+
+RAW 9 car  Left=489, Top=267, Right=504, Bottom=282
+
+RAW 10 car  Left=517, Top=270, Right=574, Bottom=305
+
+RAW 10 car  Left=502, Top=269, Right=523, Bottom=289
+
+RAW 11 car  Left=515, Top=269, Right=578, Bottom=306
+
+RAW 11 car  Left=501, Top=270, Right=524, Bottom=288
+
+RAW 12 car  Left=505, Top=264, Right=574, Bottom=305
+
+RAW 12 car  Left=490, Top=267, Right=509, Bottom=283
+
+RAW 12 car  Left=501, Top=269, Right=523, Bottom=287
+
+RAW 13 car  Left=514, Top=265, Right=577, Bottom=306
+
+RAW 13 car  Left=659, Top=285, Right=773, Bottom=345
+
+RAW 13 car  Left=502, Top=268, Right=523, Bottom=288
+
+RAW 13 car  Left=491, Top=267, Right=508, Bottom=283
+
+RAW 14 car  Left=514, Top=266, Right=578, Bottom=307
+
+RAW 14 car  Left=663, Top=285, Right=774, Bottom=344
+
+RAW 14 car  Left=490, Top=267, Right=507, Bottom=284
+
+RAW 14 car  Left=502, Top=267, Right=523, Bottom=289
+
+RAW 15 car  Left=514, Top=268, Right=580, Bottom=308
+
+RAW 15 car  Left=663, Top=285, Right=773, Bottom=344
+
+RAW 15 car  Left=490, Top=268, Right=506, Bottom=283
+
+RAW 15 car  Left=502, Top=267, Right=523, Bottom=289
+
+RAW 16 car  Left=518, Top=267, Right=577, Bottom=307
+
+RAW 16 car  Left=502, Top=267, Right=522, Bottom=288
+
+RAW 16 car  Left=490, Top=268, Right=506, Bottom=283
+
+RAW 17 car  Left=520, Top=267, Right=577, Bottom=309
+
+RAW 17 car  Left=491, Top=268, Right=506, Bottom=283
+
+RAW 17 car  Left=503, Top=267, Right=522, Bottom=288
+
+RAW 18 car  Left=519, Top=267, Right=579, Bottom=309
+
+RAW 18 car  Left=490, Top=267, Right=507, Bottom=283
+
+RAW 18 car  Left=502, Top=266, Right=523, Bottom=288
+
+RAW 19 car  Left=519, Top=266, Right=579, Bottom=308
+
+RAW 19 car  Left=491, Top=267, Right=507, Bottom=284
+
+RAW 19 car  Left=502, Top=267, Right=523, Bottom=288
+
+RAW 20 car  Left=518, Top=266, Right=580, Bottom=309
+
+RAW 20 car  Left=501, Top=263, Right=529, Bottom=292
+
+RAW 20 car  Left=490, Top=267, Right=507, Bottom=283
+
+RAW 21 car  Left=518, Top=266, Right=584, Bottom=309
+
+RAW 21 car  Left=500, Top=263, Right=529, Bottom=293
+
+RAW 22 car  Left=519, Top=268, Right=584, Bottom=312
+
+RAW 22 car  Left=501, Top=263, Right=529, Bottom=292
+
+RAW 23 car  Left=518, Top=268, Right=583, Bottom=313
+
+RAW 23 car  Left=450, Top=306, Right=494, Bottom=334
+
+RAW 24 car  Left=520, Top=264, Right=585, Bottom=314
+
+RAW 24 car  Left=500, Top=263, Right=530, Bottom=293
+
+RAW 24 car  Left=490, Top=267, Right=506, Bottom=283
+
+RAW 25 car  Left=517, Top=268, Right=585, Bottom=313
+
+RAW 25 car  Left=444, Top=307, Right=496, Bottom=336
+
+RAW 26 car  Left=518, Top=268, Right=585, Bottom=314
+
+RAW 27 car  Left=518, Top=266, Right=584, Bottom=314
+
+RAW 27 car  Left=490, Top=267, Right=510, Bottom=286
+
+RAW 28 car  Left=522, Top=277, Right=580, Bottom=316
+
+RAW 28 car  Left=502, Top=269, Right=530, Bottom=299
+
+RAW 29 car  Left=527, Top=277, Right=592, Bottom=318
+
+RAW 29 car  Left=506, Top=269, Right=533, Bottom=298
+
+RAW 29 car  Left=482, Top=270, Right=495, Bottom=281
+
+RAW 30 car  Left=529, Top=280, Right=591, Bottom=318
+
+RAW 30 car  Left=480, Top=270, Right=494, Bottom=281
+
+RAW 30 car  Left=505, Top=269, Right=534, Bottom=299
+
+RAW 31 car  Left=524, Top=271, Right=594, Bottom=320
+
+RAW 31 car  Left=506, Top=267, Right=534, Bottom=301
+
+RAW 31 car  Left=481, Top=270, Right=493, Bottom=280
+
+RAW 32 car  Left=523, Top=271, Right=594, Bottom=321
+
+RAW 32 car  Left=506, Top=266, Right=535, Bottom=302
+
+RAW 32 car  Left=492, Top=268, Right=510, Bottom=286
+
+RAW 33 car  Left=521, Top=270, Right=596, Bottom=323
+
+RAW 33 car  Left=505, Top=269, Right=535, Bottom=301
+
+RAW 33 car  Left=490, Top=269, Right=510, Bottom=287
+
+RAW 34 car  Left=522, Top=271, Right=596, Bottom=323
+
+RAW 34 car  Left=507, Top=269, Right=535, Bottom=301
+
+RAW 34 car  Left=489, Top=268, Right=509, Bottom=287
+
+RAW 35 car  Left=507, Top=269, Right=535, Bottom=301
+
+RAW 35 car  Left=525, Top=271, Right=598, Bottom=325
+
+RAW 35 car  Left=490, Top=269, Right=509, Bottom=288
+
+RAW 36 car  Left=525, Top=276, Right=599, Bottom=323
+
+RAW 36 car  Left=508, Top=269, Right=535, Bottom=302
+
+RAW 36 car  Left=490, Top=270, Right=509, Bottom=289
+
+RAW 36 car  Left=436, Top=313, Right=492, Bottom=345
+
+RAW 37 car  Left=507, Top=270, Right=536, Bottom=303
+
+RAW 37 car  Left=524, Top=272, Right=600, Bottom=325
+
+RAW 37 car  Left=706, Top=299, Right=841, Bottom=371
+
+RAW 37 car  Left=437, Top=315, Right=488, Bottom=345
+
+RAW 38 car  Left=527, Top=275, Right=601, Bottom=323
+
+RAW 38 car  Left=506, Top=270, Right=538, Bottom=302
+
+RAW 38 car  Left=491, Top=270, Right=511, Bottom=289
+
+RAW 39 car  Left=506, Top=269, Right=538, Bottom=302
+
+RAW 39 car  Left=527, Top=275, Right=600, Bottom=327
+
+RAW 39 car  Left=491, Top=269, Right=510, Bottom=290
+
+RAW 40 car  Left=506, Top=267, Right=539, Bottom=305
+
+RAW 40 car  Left=527, Top=273, Right=601, Bottom=328
+
+RAW 40 car  Left=491, Top=269, Right=511, Bottom=290
+
+RAW 41 car  Left=506, Top=268, Right=540, Bottom=306
+
+RAW 41 car  Left=490, Top=268, Right=512, Bottom=289
+
+RAW 41 car  Left=526, Top=272, Right=602, Bottom=327
+
+RAW 42 car  Left=507, Top=268, Right=539, Bottom=304
+
+RAW 42 car  Left=491, Top=268, Right=511, Bottom=291
+
+RAW 42 car  Left=530, Top=270, Right=603, Bottom=330
+
+RAW 43 car  Left=507, Top=269, Right=539, Bottom=306
+
+RAW 43 car  Left=492, Top=269, Right=512, Bottom=290
+
+RAW 43 car  Left=531, Top=267, Right=603, Bottom=330
+
+RAW 43 car  Left=602, Top=280, Right=649, Bottom=317
+
+RAW 44 car  Left=508, Top=268, Right=539, Bottom=306
+
+RAW 44 car  Left=531, Top=269, Right=607, Bottom=331
+
+RAW 44 car  Left=492, Top=269, Right=511, Bottom=290
+
+RAW 44 car  Left=603, Top=279, Right=651, Bottom=317
+
+RAW 45 car  Left=508, Top=267, Right=540, Bottom=305
+
+RAW 45 car  Left=492, Top=269, Right=510, Bottom=289
+
+RAW 45 car  Left=532, Top=269, Right=608, Bottom=331
+
+RAW 46 car  Left=533, Top=269, Right=608, Bottom=331
+
+RAW 46 car  Left=508, Top=266, Right=541, Bottom=306
+
+RAW 46 car  Left=492, Top=268, Right=510, Bottom=289
+
+RAW 47 car  Left=509, Top=266, Right=540, Bottom=306
+
+RAW 47 car  Left=492, Top=268, Right=510, Bottom=289
+
+RAW 47 car  Left=535, Top=268, Right=611, Bottom=332
+
+RAW 48 car  Left=508, Top=265, Right=541, Bottom=308
+
+RAW 48 car  Left=493, Top=268, Right=511, Bottom=290
+
+RAW 48 car  Left=539, Top=268, Right=613, Bottom=329
+
+RAW 48 car  Left=608, Top=282, Right=663, Bottom=318
+
+RAW 49 car  Left=504, Top=266, Right=544, Bottom=304
+
+RAW 49 car  Left=538, Top=267, Right=613, Bottom=332
+
+RAW 49 car  Left=493, Top=269, Right=510, Bottom=289
+
+RAW 50 car  Left=538, Top=267, Right=616, Bottom=333
+
+RAW 50 car  Left=508, Top=265, Right=541, Bottom=305
+
+RAW 50 car  Left=492, Top=269, Right=510, Bottom=288
+
+RAW 51 car  Left=509, Top=264, Right=543, Bottom=305
+
+RAW 51 car  Left=492, Top=268, Right=510, Bottom=289
+
+RAW 51 car  Left=538, Top=266, Right=618, Bottom=333
+
+RAW 51 car  Left=482, Top=270, Right=493, Bottom=281
+
+RAW 52 car  Left=509, Top=265, Right=543, Bottom=304
+
+RAW 52 car  Left=481, Top=272, Right=494, Bottom=282
+
+RAW 52 car  Left=538, Top=265, Right=619, Bottom=331
+
+RAW 53 car  Left=536, Top=265, Right=621, Bottom=333
+
+RAW 53 car  Left=505, Top=266, Right=547, Bottom=302
+
+RAW 53 car  Left=482, Top=270, Right=495, Bottom=281
+
+RAW 54 car  Left=511, Top=264, Right=546, Bottom=304
+
+RAW 54 car  Left=537, Top=265, Right=621, Bottom=333
+
+RAW 54 car  Left=494, Top=267, Right=511, Bottom=288
+
+RAW 55 car  Left=512, Top=264, Right=550, Bottom=303
+
+RAW 55 car  Left=495, Top=265, Right=517, Bottom=288
+
+RAW 55 car  Left=534, Top=266, Right=625, Bottom=333
+
+RAW 56 car  Left=511, Top=266, Right=546, Bottom=302
+
+RAW 56 car  Left=497, Top=266, Right=518, Bottom=287
+
+RAW 56 car  Left=533, Top=264, Right=625, Bottom=334
+
+RAW 57 car  Left=540, Top=260, Right=633, Bottom=342
+
+RAW 57 car  Left=511, Top=265, Right=552, Bottom=304
+
+RAW 57 car  Left=496, Top=265, Right=518, Bottom=288
+
+RAW 58 car  Left=540, Top=261, Right=638, Bottom=341
+
+RAW 58 car  Left=511, Top=264, Right=553, Bottom=304
+
+RAW 58 car  Left=496, Top=265, Right=518, Bottom=289
+
+RAW 59 car  Left=511, Top=262, Right=554, Bottom=306
+
+RAW 59 car  Left=496, Top=265, Right=518, Bottom=289
+
+RAW 59 car  Left=630, Top=285, Right=672, Bottom=316
+
+RAW 60 car  Left=510, Top=263, Right=556, Bottom=306
+
+RAW 60 car  Left=497, Top=265, Right=520, Bottom=289
+
+RAW 61 car  Left=510, Top=261, Right=558, Bottom=307
+
+RAW 61 car  Left=498, Top=265, Right=520, Bottom=289
+
+RAW 61 car  Left=482, Top=270, Right=494, Bottom=279
+
+RAW 62 car  Left=509, Top=264, Right=557, Bottom=306
+
+RAW 62 car  Left=498, Top=265, Right=520, Bottom=288
+
+RAW 62 car  Left=480, Top=269, Right=493, Bottom=279
+
+RAW 63 car  Left=512, Top=261, Right=559, Bottom=306
+
+RAW 63 car  Left=500, Top=265, Right=519, Bottom=288
+
+RAW 64 car  Left=513, Top=263, Right=561, Bottom=306
+
+RAW 64 car  Left=501, Top=268, Right=522, Bottom=288
+
+RAW 65 car  Left=514, Top=264, Right=560, Bottom=307
+
+RAW 65 car  Left=501, Top=266, Right=521, Bottom=288
+
+RAW 66 car  Left=556, Top=263, Right=661, Bottom=354
+
+RAW 66 car  Left=511, Top=266, Right=563, Bottom=308
+
+RAW 66 car  Left=500, Top=267, Right=522, Bottom=289
+
+RAW 66 car  Left=366, Top=276, Right=427, Bottom=322
+
+RAW 67 car  Left=513, Top=266, Right=560, Bottom=308
+
+RAW 67 car  Left=502, Top=268, Right=522, Bottom=288
+
+RAW 67 car  Left=548, Top=264, Right=659, Bottom=354
+
+RAW 68 car  Left=512, Top=267, Right=562, Bottom=308
+
+RAW 68 car  Left=501, Top=270, Right=521, Bottom=295
+
+RAW 69 car  Left=511, Top=267, Right=563, Bottom=308
+
+RAW 69 car  Left=501, Top=267, Right=522, Bottom=290
+
+RAW 70 car  Left=514, Top=267, Right=563, Bottom=310
+
+RAW 70 car  Left=501, Top=268, Right=522, Bottom=291
+
+RAW 71 car  Left=560, Top=266, Right=674, Bottom=360
+
+RAW 71 car  Left=515, Top=267, Right=564, Bottom=310
+
+RAW 71 car  Left=503, Top=271, Right=521, Bottom=295
+
+RAW 72 car  Left=560, Top=267, Right=676, Bottom=362
+
+RAW 72 car  Left=514, Top=268, Right=567, Bottom=308
+
+RAW 72 car  Left=502, Top=270, Right=523, Bottom=296
+
+RAW 73 car  Left=518, Top=266, Right=565, Bottom=309
+
+RAW 73 car  Left=501, Top=270, Right=526, Bottom=296
+
+RAW 73 car  Left=555, Top=258, Right=678, Bottom=366
+
+RAW 74 car  Left=517, Top=268, Right=564, Bottom=310
+
+RAW 74 car  Left=502, Top=269, Right=525, Bottom=298
+
+RAW 74 car  Left=556, Top=260, Right=682, Bottom=370
+
+RAW 75 car  Left=518, Top=267, Right=572, Bottom=311
+
+RAW 75 car  Left=502, Top=269, Right=525, Bottom=297
+
+RAW 75 car  Left=559, Top=263, Right=685, Bottom=374
+
+RAW 76 car  Left=517, Top=267, Right=573, Bottom=312
+
+RAW 76 car  Left=502, Top=270, Right=525, Bottom=298
+
+RAW 76 car  Left=564, Top=265, Right=695, Bottom=377
+
+RAW 77 car  Left=517, Top=267, Right=575, Bottom=312
+
+RAW 77 car  Left=503, Top=270, Right=525, Bottom=298
+
+RAW 77 car  Left=573, Top=266, Right=698, Bottom=368
+
+RAW 78 car  Left=517, Top=267, Right=577, Bottom=312
+
+RAW 78 car  Left=572, Top=264, Right=702, Bottom=383
+
+RAW 78 car  Left=503, Top=271, Right=526, Bottom=298
+
+RAW 79 car  Left=517, Top=266, Right=577, Bottom=311
+
+RAW 79 car  Left=572, Top=266, Right=705, Bottom=385
+
+RAW 80 car  Left=519, Top=273, Right=579, Bottom=318
+
+RAW 80 car  Left=574, Top=265, Right=711, Bottom=386
+
+RAW 81 car  Left=521, Top=268, Right=578, Bottom=312
+
+RAW 81 car  Left=578, Top=262, Right=719, Bottom=391
+
+RAW 81 car  Left=508, Top=269, Right=533, Bottom=299
+
+RAW 82 car  Left=519, Top=272, Right=581, Bottom=318
+
+RAW 82 car  Left=508, Top=270, Right=534, Bottom=297
+
+RAW 82 car  Left=584, Top=262, Right=732, Bottom=387
+
+RAW 83 car  Left=521, Top=272, Right=584, Bottom=319
+
+RAW 83 car  Left=509, Top=269, Right=534, Bottom=298
+
+RAW 83 car  Left=584, Top=262, Right=733, Bottom=391
+
+RAW 84 car  Left=521, Top=272, Right=585, Bottom=318
+
+RAW 84 car  Left=508, Top=268, Right=535, Bottom=298
+
+RAW 84 car  Left=586, Top=261, Right=733, Bottom=397
+
+RAW 85 car  Left=522, Top=272, Right=585, Bottom=319
+
+RAW 85 car  Left=583, Top=264, Right=739, Bottom=399
+
+RAW 85 car  Left=509, Top=270, Right=535, Bottom=297
+
+RAW 86 car  Left=582, Top=264, Right=745, Bottom=399
+
+RAW 86 car  Left=526, Top=267, Right=589, Bottom=316
+
+RAW 86 car  Left=509, Top=268, Right=536, Bottom=298
+
+RAW 87 car  Left=523, Top=270, Right=593, Bottom=321
+
+RAW 87 car  Left=508, Top=269, Right=537, Bottom=297
+
+RAW 87 car  Left=587, Top=266, Right=749, Bottom=403
+
+RAW 88 car  Left=589, Top=268, Right=755, Bottom=403
+
+RAW 88 car  Left=524, Top=270, Right=594, Bottom=321
+
+RAW 88 car  Left=509, Top=270, Right=537, Bottom=296
+
+RAW 89 car  Left=525, Top=271, Right=595, Bottom=320
+
+RAW 89 car  Left=508, Top=269, Right=537, Bottom=297
+
+RAW 89 car  Left=589, Top=267, Right=769, Bottom=405
+
+RAW 89 car  Left=491, Top=272, Right=501, Bottom=281
+
+RAW 90 car  Left=525, Top=271, Right=597, Bottom=320
+
+RAW 90 car  Left=508, Top=269, Right=538, Bottom=298
+
+RAW 90 car  Left=591, Top=267, Right=774, Bottom=407
+
+RAW 90 car  Left=491, Top=270, Right=502, Bottom=280
+
+RAW 91 car  Left=525, Top=270, Right=597, Bottom=321
+
+RAW 91 car  Left=510, Top=269, Right=538, Bottom=297
+
+RAW 91 car  Left=594, Top=266, Right=780, Bottom=411
+
+RAW 91 car  Left=491, Top=270, Right=502, Bottom=280
+
+RAW 92 car  Left=528, Top=270, Right=599, Bottom=321
+
+RAW 92 car  Left=509, Top=269, Right=538, Bottom=298
+
+RAW 92 car  Left=596, Top=275, Right=794, Bottom=421
+
+RAW 92 car  Left=493, Top=270, Right=504, Bottom=281
+
+RAW 93 car  Left=529, Top=270, Right=600, Bottom=321
+
+RAW 93 car  Left=510, Top=269, Right=539, Bottom=297
+
+RAW 93 car  Left=607, Top=274, Right=813, Bottom=423
+
+RAW 93 car  Left=493, Top=270, Right=504, Bottom=281
+
+RAW 94 car  Left=530, Top=270, Right=600, Bottom=322
+
+RAW 94 car  Left=511, Top=268, Right=540, Bottom=298
+
+RAW 94 car  Left=603, Top=271, Right=816, Bottom=425
+
+RAW 95 car  Left=530, Top=271, Right=599, Bottom=321
+
+RAW 95 car  Left=511, Top=268, Right=539, Bottom=298
+
+RAW 95 car  Left=599, Top=267, Right=822, Bottom=432
+
+RAW 96 car  Left=531, Top=269, Right=600, Bottom=322
+
+RAW 96 car  Left=511, Top=268, Right=541, Bottom=299
+
+RAW 96 car  Left=602, Top=265, Right=829, Bottom=437
+
+RAW 97 car  Left=512, Top=269, Right=542, Bottom=300
+
+RAW 97 car  Left=530, Top=269, Right=601, Bottom=323
+
+RAW 97 car  Left=612, Top=265, Right=837, Bottom=441
+
+RAW 98 car  Left=616, Top=273, Right=850, Bottom=444
+
+RAW 98 car  Left=512, Top=268, Right=543, Bottom=300
+
+RAW 98 car  Left=533, Top=269, Right=608, Bottom=324
+
+RAW 99 car  Left=535, Top=272, Right=609, Bottom=322
+
+RAW 99 car  Left=511, Top=269, Right=543, Bottom=301
+
+RAW 99 car  Left=654, Top=281, Right=870, Bottom=447
+
+RAW 100 car  Left=534, Top=273, Right=609, Bottom=322
+
+RAW 100 car  Left=512, Top=270, Right=545, Bottom=301
+
+RAW 100 car  Left=643, Top=275, Right=878, Bottom=451
+
+RAW 101 car  Left=533, Top=272, Right=610, Bottom=323
+
+RAW 101 car  Left=513, Top=268, Right=545, Bottom=301
+
+RAW 101 car  Left=644, Top=277, Right=878, Bottom=458
+
+RAW 102 car  Left=533, Top=271, Right=613, Bottom=322
+
+RAW 102 car  Left=517, Top=267, Right=547, Bottom=301
+
+RAW 102 car  Left=642, Top=281, Right=894, Bottom=455
+
+RAW 103 car  Left=538, Top=273, Right=614, Bottom=323
+
+RAW 103 car  Left=516, Top=267, Right=548, Bottom=301
+
+RAW 103 car  Left=637, Top=273, Right=913, Bottom=477
+
+RAW 104 car  Left=540, Top=269, Right=612, Bottom=324
+
+RAW 104 car  Left=518, Top=266, Right=549, Bottom=300
+
+RAW 104 car  Left=641, Top=269, Right=928, Bottom=486
+
+RAW 105 car  Left=540, Top=271, Right=613, Bottom=326
+
+RAW 105 car  Left=515, Top=267, Right=549, Bottom=300
+
+RAW 105 car  Left=643, Top=272, Right=945, Bottom=500
+
+RAW 106 car  Left=543, Top=270, Right=614, Bottom=326
+
+RAW 106 car  Left=516, Top=267, Right=550, Bottom=301
+
+RAW 107 car  Left=661, Top=271, Right=959, Bottom=529
+
+RAW 107 car  Left=519, Top=267, Right=551, Bottom=300
+
+RAW 107 car  Left=544, Top=269, Right=613, Bottom=324
+
+RAW 108 car  Left=516, Top=266, Right=552, Bottom=302
+
+RAW 108 car  Left=545, Top=267, Right=614, Bottom=325
+
+RAW 108 car  Left=668, Top=273, Right=959, Bottom=536
+
+RAW 109 car  Left=519, Top=268, Right=553, Bottom=301
+
+RAW 109 car  Left=544, Top=267, Right=615, Bottom=326
+
+RAW 109 car  Left=662, Top=266, Right=959, Bottom=512
+
+RAW 110 car  Left=518, Top=267, Right=555, Bottom=303
+
+RAW 110 car  Left=542, Top=268, Right=617, Bottom=326
+
+RAW 110 car  Left=670, Top=263, Right=959, Bottom=518
+
+RAW 110 car  Left=137, Top=272, Right=173, Bottom=321
+
+RAW 111 car  Left=520, Top=267, Right=553, Bottom=302
+
+RAW 111 car  Left=544, Top=267, Right=616, Bottom=326
+
+RAW 111 car  Left=680, Top=263, Right=959, Bottom=516
+
+RAW 112 car  Left=518, Top=266, Right=556, Bottom=303
+
+RAW 112 car  Left=541, Top=266, Right=618, Bottom=327
+
+RAW 112 car  Left=694, Top=276, Right=959, Bottom=537
+
+RAW 113 car  Left=701, Top=276, Right=953, Bottom=537
+
+RAW 113 car  Left=518, Top=266, Right=556, Bottom=303
+
+RAW 113 car  Left=541, Top=266, Right=618, Bottom=328
+
+RAW 114 car  Left=521, Top=266, Right=557, Bottom=303
+
+RAW 114 car  Left=710, Top=277, Right=957, Bottom=537
+
+RAW 114 car  Left=541, Top=267, Right=617, Bottom=328
+
+RAW 115 car  Left=521, Top=266, Right=556, Bottom=303
+
+RAW 115 car  Left=715, Top=276, Right=957, Bottom=537
+
+RAW 115 car  Left=547, Top=266, Right=625, Bottom=329
+
+RAW 116 car  Left=522, Top=266, Right=557, Bottom=303
+
+RAW 116 car  Left=549, Top=268, Right=628, Bottom=330
+
+RAW 116 car  Left=719, Top=278, Right=959, Bottom=537
+
+RAW 117 car  Left=522, Top=268, Right=558, Bottom=305
+
+RAW 117 car  Left=550, Top=269, Right=630, Bottom=333
+
+RAW 117 car  Left=727, Top=278, Right=959, Bottom=537
+
+RAW 118 car  Left=522, Top=267, Right=559, Bottom=304
+
+RAW 118 car  Left=550, Top=268, Right=634, Bottom=332
+
+RAW 118 car  Left=734, Top=283, Right=957, Bottom=536
+
+RAW 119 car  Left=522, Top=269, Right=560, Bottom=306
+
+RAW 119 car  Left=551, Top=269, Right=633, Bottom=334
+
+RAW 119 car  Left=747, Top=282, Right=959, Bottom=536
+
+RAW 119 car  Left=502, Top=272, Right=514, Bottom=284
+
+RAW 120 car  Left=521, Top=270, Right=561, Bottom=305
+
+RAW 120 car  Left=550, Top=268, Right=638, Bottom=337
+
+RAW 121 car  Left=523, Top=268, Right=560, Bottom=305
+
+RAW 121 car  Left=551, Top=267, Right=639, Bottom=338
+
+RAW 122 car  Left=523, Top=270, Right=560, Bottom=305
+
+RAW 122 car  Left=549, Top=267, Right=640, Bottom=338
+
+RAW 122 car  Left=499, Top=273, Right=514, Bottom=284
+
+RAW 123 car  Left=523, Top=269, Right=565, Bottom=306
+
+RAW 123 car  Left=548, Top=268, Right=644, Bottom=340
+
+RAW 124 car  Left=552, Top=268, Right=645, Bottom=339
+
+RAW 124 car  Left=525, Top=269, Right=564, Bottom=306
+
+RAW 125 car  Left=522, Top=269, Right=561, Bottom=308
+
+RAW 125 car  Left=554, Top=268, Right=645, Bottom=341
+
+RAW 126 car  Left=524, Top=269, Right=563, Bottom=307
+
+RAW 126 car  Left=551, Top=267, Right=646, Bottom=342
+
+RAW 127 car  Left=525, Top=271, Right=564, Bottom=306
+
+RAW 127 car  Left=558, Top=268, Right=657, Bottom=344
+
+RAW 128 car  Left=523, Top=271, Right=566, Bottom=307
+
+RAW 128 car  Left=561, Top=271, Right=655, Bottom=346
+
+RAW 129 car  Left=523, Top=272, Right=568, Bottom=307
+
+RAW 129 car  Left=558, Top=271, Right=658, Bottom=346
+
+RAW 130 car  Left=526, Top=272, Right=569, Bottom=307
+
+RAW 130 car  Left=558, Top=271, Right=658, Bottom=349
+
+RAW 131 car  Left=526, Top=272, Right=567, Bottom=307
+
+RAW 131 car  Left=559, Top=271, Right=662, Bottom=349
+
+RAW 132 car  Left=527, Top=270, Right=565, Bottom=309
+
+RAW 132 car  Left=560, Top=269, Right=662, Bottom=351
+
+RAW 133 car  Left=526, Top=270, Right=568, Bottom=310
+
+RAW 133 car  Left=557, Top=268, Right=667, Bottom=350
+
+RAW 134 car  Left=527, Top=270, Right=570, Bottom=310
+
+RAW 134 car  Left=560, Top=269, Right=668, Bottom=352
+
+RAW 135 car  Left=527, Top=270, Right=570, Bottom=312
+
+RAW 135 car  Left=561, Top=269, Right=670, Bottom=352
+
+RAW 136 car  Left=528, Top=270, Right=570, Bottom=310
+
+RAW 136 car  Left=562, Top=269, Right=671, Bottom=355
+
+RAW 137 car  Left=528, Top=270, Right=571, Bottom=311
+
+RAW 137 car  Left=562, Top=268, Right=673, Bottom=358
+
+RAW 138 car  Left=528, Top=269, Right=572, Bottom=310
+
+RAW 138 car  Left=562, Top=275, Right=681, Bottom=365
+
+RAW 139 car  Left=527, Top=270, Right=575, Bottom=312
+
+RAW 139 car  Left=557, Top=263, Right=690, Bottom=365
+
+RAW 140 car  Left=526, Top=270, Right=574, Bottom=312
+
+RAW 140 car  Left=576, Top=268, Right=690, Bottom=356
+
+RAW 141 car  Left=527, Top=270, Right=574, Bottom=310
+
+RAW 141 car  Left=574, Top=266, Right=693, Bottom=358
+
+RAW 142 car  Left=528, Top=270, Right=576, Bottom=311
+
+RAW 142 car  Left=573, Top=267, Right=695, Bottom=363
+
+RAW 143 car  Left=529, Top=270, Right=578, Bottom=312
+
+RAW 143 car  Left=575, Top=267, Right=695, Bottom=362
+
+RAW 144 car  Left=529, Top=270, Right=578, Bottom=313
+
+RAW 144 car  Left=567, Top=262, Right=707, Bottom=369
+
+RAW 145 car  Left=531, Top=269, Right=581, Bottom=313
+
+RAW 145 car  Left=570, Top=262, Right=705, Bottom=372
+
+RAW 146 car  Left=533, Top=270, Right=580, Bottom=314
+
+RAW 146 car  Left=572, Top=264, Right=705, Bottom=377
+
+RAW 147 car  Left=533, Top=271, Right=581, Bottom=314
+
+RAW 147 car  Left=574, Top=267, Right=711, Bottom=376
+
+RAW 148 car  Left=530, Top=272, Right=584, Bottom=320
+
+RAW 148 car  Left=575, Top=268, Right=714, Bottom=376
+
+RAW 149 car  Left=531, Top=275, Right=584, Bottom=320
+
+RAW 149 car  Left=575, Top=270, Right=719, Bottom=382
+
+RAW 149 car  Left=505, Top=283, Right=518, Bottom=294
+
+RAW 150 car  Left=534, Top=281, Right=586, Bottom=324
+
+RAW 150 car  Left=579, Top=273, Right=720, Bottom=380
+
+RAW 150 car  Left=504, Top=284, Right=518, Bottom=295
+
+RAW 151 car  Left=535, Top=281, Right=589, Bottom=326
+
+RAW 151 car  Left=578, Top=273, Right=726, Bottom=390
+
+RAW 152 car  Left=574, Top=283, Right=734, Bottom=395
+
+RAW 152 car  Left=536, Top=287, Right=589, Bottom=332
+
+RAW 153 car  Left=538, Top=290, Right=588, Bottom=334
+
+RAW 153 car  Left=581, Top=281, Right=739, Bottom=397
+
+RAW 154 car  Left=582, Top=283, Right=750, Bottom=414
+
+RAW 154 car  Left=537, Top=291, Right=590, Bottom=339
+
+RAW 155 car  Left=537, Top=297, Right=591, Bottom=345
+
+RAW 155 car  Left=582, Top=288, Right=755, Bottom=418
+
+RAW 156 car  Left=587, Top=294, Right=759, Bottom=419
+
+RAW 156 car  Left=540, Top=301, Right=591, Bottom=347
+
+RAW 157 car  Left=539, Top=304, Right=591, Bottom=352
+
+RAW 157 car  Left=589, Top=300, Right=764, Bottom=429
+
+RAW 158 car  Left=595, Top=305, Right=771, Bottom=433
+
+RAW 158 car  Left=541, Top=308, Right=598, Bottom=359
+
+RAW 159 car  Left=598, Top=308, Right=780, Bottom=443
+
+RAW 159 car  Left=541, Top=309, Right=598, Bottom=360
+
+RAW 160 car  Left=542, Top=313, Right=598, Bottom=361
+
+RAW 160 car  Left=599, Top=307, Right=784, Bottom=447
+
+RAW 161 car  Left=542, Top=314, Right=601, Bottom=364
+
+RAW 161 car  Left=600, Top=311, Right=794, Bottom=451
+
+RAW 162 car  Left=544, Top=317, Right=604, Bottom=365
+
+RAW 162 car  Left=600, Top=317, Right=804, Bottom=453
+
+RAW 162 car  Left=506, Top=318, Right=519, Bottom=329
+
+RAW 163 car  Left=546, Top=317, Right=604, Bottom=366
+
+RAW 163 car  Left=604, Top=315, Right=816, Bottom=458
+
+RAW 164 car  Left=547, Top=317, Right=608, Bottom=368
+
+RAW 164 car  Left=607, Top=314, Right=820, Bottom=460
+
+RAW 165 car  Left=548, Top=316, Right=606, Bottom=365
+
+RAW 165 car  Left=604, Top=324, Right=835, Bottom=470
+
+RAW 166 car  Left=548, Top=314, Right=609, Bottom=367
+
+RAW 166 car  Left=609, Top=316, Right=842, Bottom=479
+
+RAW 167 car  Left=547, Top=315, Right=610, Bottom=365
+
+RAW 167 car  Left=606, Top=312, Right=852, Bottom=482
+
+RAW 168 car  Left=613, Top=310, Right=859, Bottom=485
+
+RAW 168 car  Left=549, Top=310, Right=614, Bottom=364
+
+RAW 169 car  Left=618, Top=309, Right=879, Bottom=484
+
+RAW 169 car  Left=546, Top=304, Right=610, Bottom=356
+
+RAW 170 car  Left=550, Top=303, Right=616, Bottom=357
+
+RAW 170 car  Left=624, Top=299, Right=896, Bottom=475
+
+RAW 170 car  Left=509, Top=305, Right=521, Bottom=316
+
+RAW 170 car  Left=515, Top=306, Right=525, Bottom=317
+
+RAW 171 car  Left=550, Top=299, Right=616, Bottom=353
+
+RAW 171 car  Left=627, Top=299, Right=895, Bottom=476
+
+RAW 172 car  Left=552, Top=296, Right=621, Bottom=350
+
+RAW 173 car  Left=649, Top=294, Right=906, Bottom=467
+
+RAW 173 car  Left=554, Top=291, Right=618, Bottom=341
+
+RAW 174 car  Left=555, Top=288, Right=620, Bottom=341
+
+RAW 175 car  Left=554, Top=280, Right=625, Bottom=338
+
+RAW 175 car  Left=515, Top=282, Right=526, Bottom=292
+
+RAW 176 car  Left=554, Top=275, Right=624, Bottom=330
+
+RAW 176 car  Left=646, Top=273, Right=953, Bottom=479
+
+RAW 176 car  Left=645, Top=272, Right=675, Bottom=312
+
+RAW 177 car  Left=557, Top=272, Right=622, Bottom=324
+
+RAW 177 car  Left=647, Top=265, Right=955, Bottom=477
+
+RAW 178 car  Left=556, Top=268, Right=623, Bottom=325
+
+RAW 178 car  Left=652, Top=261, Right=954, Bottom=489
+
+RAW 178 car  Left=648, Top=269, Right=680, Bottom=313
+
+RAW 179 car  Left=555, Top=258, Right=626, Bottom=321
+
+RAW 179 car  Left=661, Top=253, Right=959, Bottom=496
+
+RAW 179 car  Left=624, Top=267, Right=680, Bottom=315
+
+RAW 180 car  Left=556, Top=256, Right=629, Bottom=318
+
+RAW 180 car  Left=665, Top=250, Right=959, Bottom=508
+
+RAW 180 car  Left=626, Top=265, Right=678, Bottom=313
+
+RAW 180 car  Left=515, Top=259, Right=528, Bottom=271
+
+RAW 181 car  Left=672, Top=245, Right=959, Bottom=522
+
+RAW 181 car  Left=555, Top=252, Right=630, Bottom=316
+
+RAW 181 car  Left=632, Top=259, Right=693, Bottom=312
+
+RAW 181 car  Left=515, Top=255, Right=525, Bottom=266
+
+RAW 182 car  Left=675, Top=243, Right=959, Bottom=530
+
+RAW 182 car  Left=556, Top=250, Right=630, Bottom=314
+
+RAW 182 car  Left=513, Top=253, Right=525, Bottom=264
+
+RAW 183 car  Left=685, Top=243, Right=959, Bottom=531
+
+RAW 183 car  Left=559, Top=250, Right=632, Bottom=312
+
+RAW 184 car  Left=683, Top=244, Right=959, Bottom=531
+
+RAW 184 car  Left=558, Top=248, Right=636, Bottom=312
+
+RAW 184 car  Left=513, Top=247, Right=527, Bottom=260
+
+RAW 185 car  Left=692, Top=241, Right=959, Bottom=536
+
+RAW 185 car  Left=558, Top=246, Right=636, Bottom=313
+
+RAW 185 car  Left=512, Top=248, Right=528, Bottom=260
+
+RAW 186 car  Left=698, Top=241, Right=959, Bottom=536
+
+RAW 186 car  Left=559, Top=247, Right=637, Bottom=314
+
+RAW 186 car  Left=513, Top=247, Right=527, Bottom=259
+
+RAW 187 car  Left=701, Top=243, Right=959, Bottom=535
+
+RAW 187 car  Left=560, Top=247, Right=639, Bottom=315
+
+RAW 188 car  Left=562, Top=250, Right=641, Bottom=316
+
+RAW 188 car  Left=716, Top=245, Right=959, Bottom=535
+
+RAW 188 car  Left=516, Top=254, Right=527, Bottom=263
+
+RAW 189 car  Left=723, Top=244, Right=957, Bottom=536
+
+RAW 189 car  Left=563, Top=250, Right=640, Bottom=315
+
+RAW 190 car  Left=728, Top=249, Right=959, Bottom=529
+
+RAW 190 car  Left=568, Top=254, Right=647, Bottom=319
+
+RAW 191 car  Left=730, Top=247, Right=958, Bottom=530
+
+RAW 191 car  Left=561, Top=254, Right=646, Bottom=322
+
+RAW 191 car  Left=513, Top=255, Right=527, Bottom=265
+
+RAW 192 car  Left=736, Top=254, Right=959, Bottom=524
+
+RAW 192 car  Left=566, Top=255, Right=650, Bottom=322
+
+RAW 192 car  Left=513, Top=258, Right=528, Bottom=271
+
+RAW 193 car  Left=765, Top=273, Right=957, Bottom=532
+
+RAW 193 car  Left=561, Top=256, Right=646, Bottom=324
+
+RAW 193 car  Left=508, Top=259, Right=521, Bottom=270
+
+RAW 194 car  Left=769, Top=273, Right=955, Bottom=535
+
+RAW 194 car  Left=565, Top=262, Right=652, Bottom=330
+
+RAW 195 car  Left=771, Top=276, Right=958, Bottom=535
+
+RAW 195 car  Left=566, Top=262, Right=653, Bottom=332
+
+RAW 196 car  Left=782, Top=279, Right=959, Bottom=535
+
+RAW 196 car  Left=570, Top=264, Right=650, Bottom=332
+
+RAW 197 car  Left=791, Top=271, Right=959, Bottom=537
+
+RAW 197 car  Left=569, Top=263, Right=650, Bottom=336
+
+RAW 198 car  Left=566, Top=267, Right=654, Bottom=339
+
+RAW 198 car  Left=812, Top=275, Right=959, Bottom=536
+
+RAW 199 car  Left=826, Top=279, Right=959, Bottom=537
+
+RAW 199 car  Left=565, Top=267, Right=655, Bottom=341
+
+RAW 199 car  Left=506, Top=269, Right=522, Bottom=279
+
+RAW 200 car  Left=839, Top=275, Right=959, Bottom=537
+
+RAW 200 car  Left=566, Top=267, Right=661, Bottom=342
+
+RAW 200 car  Left=507, Top=269, Right=521, Bottom=279
+
+RAW 201 car  Left=847, Top=278, Right=959, Bottom=537
+
+RAW 201 car  Left=567, Top=266, Right=660, Bottom=345
+
+RAW 202 car  Left=877, Top=293, Right=959, Bottom=527
+
+RAW 202 car  Left=567, Top=269, Right=663, Bottom=346
+
+RAW 202 car  Left=507, Top=269, Right=520, Bottom=278
+
+RAW 203 car  Left=567, Top=268, Right=666, Bottom=345
+
+RAW 203 car  Left=506, Top=269, Right=521, Bottom=279
+
+RAW 204 car  Left=568, Top=269, Right=668, Bottom=346
+
+RAW 204 car  Left=506, Top=269, Right=520, Bottom=279
+
+RAW 205 car  Left=567, Top=268, Right=671, Bottom=348
+
+RAW 205 car  Left=505, Top=269, Right=521, Bottom=279
+
+RAW 206 car  Left=567, Top=268, Right=672, Bottom=349
+
+RAW 206 car  Left=506, Top=269, Right=520, Bottom=279
+
+RAW 207 car  Left=569, Top=267, Right=673, Bottom=350
+
+RAW 207 car  Left=506, Top=269, Right=520, Bottom=279
+
+RAW 208 car  Left=571, Top=267, Right=675, Bottom=350
+
+RAW 208 car  Left=506, Top=268, Right=521, Bottom=279
+
+RAW 209 car  Left=506, Top=268, Right=522, Bottom=278
+
+RAW 209 car  Left=573, Top=268, Right=677, Bottom=353
+
+RAW 210 car  Left=576, Top=266, Right=689, Bottom=358
+
+RAW 210 car  Left=506, Top=268, Right=521, Bottom=278
+
+RAW 211 car  Left=505, Top=267, Right=521, Bottom=279
+
+RAW 211 car  Left=575, Top=264, Right=691, Bottom=356
+
+RAW 212 car  Left=505, Top=267, Right=521, Bottom=278
+
+RAW 212 car  Left=573, Top=263, Right=692, Bottom=358
+
+RAW 213 car  Left=574, Top=263, Right=692, Bottom=359
+
+RAW 213 car  Left=505, Top=265, Right=519, Bottom=277
+
+RAW 214 car  Left=577, Top=262, Right=691, Bottom=360
+
+RAW 214 car  Left=506, Top=265, Right=520, Bottom=275
+
+RAW 215 car  Left=570, Top=262, Right=689, Bottom=354
+
+RAW 215 car  Left=506, Top=265, Right=521, Bottom=275
+
+RAW 216 car  Left=567, Top=262, Right=701, Bottom=369
+
+RAW 216 car  Left=505, Top=265, Right=520, Bottom=274
+
+RAW 217 car  Left=581, Top=260, Right=699, Bottom=357
+
+RAW 218 car  Left=571, Top=260, Right=707, Bottom=369
+
+RAW 218 car  Left=504, Top=259, Right=518, Bottom=271
+
+RAW 219 car  Left=582, Top=260, Right=705, Bottom=358
+
+RAW 219 car  Left=505, Top=261, Right=520, Bottom=272
+
+RAW 220 car  Left=582, Top=259, Right=709, Bottom=360
+
+RAW 221 car  Left=584, Top=263, Right=715, Bottom=363
+
+RAW 222 car  Left=579, Top=263, Right=721, Bottom=361
+
+RAW 222 car  Left=506, Top=260, Right=519, Bottom=271
+
+RAW 223 car  Left=583, Top=260, Right=719, Bottom=372
+
+RAW 223 car  Left=505, Top=261, Right=519, Bottom=271
+
+RAW 224 car  Left=586, Top=259, Right=731, Bottom=368
+
+RAW 225 car  Left=583, Top=262, Right=735, Bottom=369
+
+RAW 226 car  Left=588, Top=263, Right=734, Bottom=372
+
+RAW 227 car  Left=589, Top=263, Right=737, Bottom=377
+
+RAW 228 car  Left=588, Top=261, Right=745, Bottom=380
+
+RAW 228 car  Left=504, Top=259, Right=517, Bottom=271
+
+RAW 229 car  Left=588, Top=263, Right=751, Bottom=385
+
+RAW 230 car  Left=590, Top=262, Right=755, Bottom=385
+
+RAW 230 car  Left=505, Top=261, Right=517, Bottom=271
+
+RAW 231 car  Left=594, Top=264, Right=760, Bottom=389
+
+RAW 232 car  Left=596, Top=264, Right=768, Bottom=390
+
+RAW 233 car  Left=599, Top=265, Right=770, Bottom=394
+
+RAW 234 car  Left=599, Top=263, Right=774, Bottom=395
+
+RAW 235 car  Left=600, Top=265, Right=778, Bottom=398
+
+RAW 235 car  Left=505, Top=266, Right=518, Bottom=277
+
+RAW 236 car  Left=602, Top=267, Right=785, Bottom=400
+
+RAW 236 car  Left=504, Top=265, Right=518, Bottom=277
+
+RAW 237 car  Left=614, Top=266, Right=806, Bottom=403
+
+RAW 237 car  Left=504, Top=266, Right=517, Bottom=277
+
+RAW 238 car  Left=610, Top=266, Right=810, Bottom=405
+
+RAW 239 car  Left=607, Top=264, Right=813, Bottom=413
+
+RAW 239 car  Left=504, Top=268, Right=517, Bottom=278
+
+RAW 240 car  Left=611, Top=262, Right=812, Bottom=418
+
+RAW 240 car  Left=502, Top=268, Right=518, Bottom=279
+
+RAW 241 car  Left=602, Top=267, Right=829, Bottom=428
+
+RAW 241 car  Left=503, Top=268, Right=518, Bottom=279
+
+RAW 242 car  Left=611, Top=269, Right=834, Bottom=430
+
+RAW 242 car  Left=502, Top=267, Right=519, Bottom=278
+
+RAW 243 car  Left=502, Top=267, Right=518, Bottom=278
+
+RAW 243 car  Left=608, Top=264, Right=839, Bottom=438
+
+RAW 244 car  Left=500, Top=267, Right=517, Bottom=279
+
+RAW 245 car  Left=499, Top=267, Right=516, Bottom=278
+
+RAW 245 car  Left=495, Top=266, Right=509, Bottom=276
+
+RAW 245 car  Left=672, Top=278, Right=861, Bottom=433
+
+RAW 246 car  Left=499, Top=266, Right=516, Bottom=278
+
+RAW 246 car  Left=654, Top=272, Right=872, Bottom=443
+
+RAW 247 car  Left=642, Top=271, Right=883, Bottom=447
+
+RAW 247 car  Left=499, Top=266, Right=517, Bottom=279
+
+RAW 248 car  Left=635, Top=272, Right=897, Bottom=449
+
+RAW 248 car  Left=500, Top=266, Right=517, Bottom=278
+
+RAW 249 car  Left=631, Top=273, Right=902, Bottom=453
+
+RAW 250 car  Left=643, Top=277, Right=906, Bottom=454
+
+RAW 251 car  Left=650, Top=285, Right=917, Bottom=457
+
+RAW 251 car  Left=495, Top=264, Right=509, Bottom=277
+
+RAW 252 car  Left=638, Top=269, Right=944, Bottom=474
+
+RAW 252 car  Left=495, Top=264, Right=510, Bottom=277
+
+RAW 253 car  Left=639, Top=272, Right=952, Bottom=483
+
+RAW 253 car  Left=496, Top=265, Right=509, Bottom=277
+
+RAW 254 car  Left=643, Top=271, Right=958, Bottom=494
+
+RAW 254 car  Left=496, Top=265, Right=510, Bottom=277
+
+RAW 255 car  Left=651, Top=266, Right=951, Bottom=506
+
+RAW 255 car  Left=496, Top=265, Right=509, Bottom=276
+
+RAW 256 car  Left=653, Top=263, Right=952, Bottom=516
+
+RAW 256 car  Left=495, Top=265, Right=510, Bottom=277
+
+RAW 257 car  Left=660, Top=269, Right=959, Bottom=533
+
+RAW 258 car  Left=664, Top=256, Right=959, Bottom=521
+
+RAW 259 car  Left=666, Top=270, Right=958, Bottom=537
+
+RAW 260 car  Left=672, Top=278, Right=956, Bottom=536
+
+RAW 261 car  Left=677, Top=275, Right=959, Bottom=537
+
+RAW 261 car  Left=495, Top=266, Right=509, Bottom=277
+
+RAW 262 car  Left=678, Top=253, Right=959, Bottom=524
+
+RAW 262 car  Left=495, Top=266, Right=509, Bottom=277
+
+RAW 263 car  Left=685, Top=251, Right=959, Bottom=521
+
+RAW 263 car  Left=495, Top=265, Right=509, Bottom=277
+
+RAW 264 car  Left=696, Top=251, Right=959, Bottom=523
+
+RAW 264 car  Left=495, Top=266, Right=509, Bottom=278
+
+RAW 265 car  Left=698, Top=250, Right=959, Bottom=522
+
+RAW 265 car  Left=494, Top=265, Right=508, Bottom=276
+
+RAW 266 car  Left=706, Top=252, Right=959, Bottom=522
+
+RAW 266 car  Left=494, Top=266, Right=508, Bottom=276
+
+RAW 267 car  Left=717, Top=281, Right=957, Bottom=537
+
+RAW 267 car  Left=493, Top=266, Right=509, Bottom=276
+
+RAW 268 car  Left=728, Top=252, Right=959, Bottom=521
+
+RAW 269 car  Left=735, Top=280, Right=957, Bottom=537
+
+RAW 269 car  Left=493, Top=267, Right=508, Bottom=278
+
+RAW 270 car  Left=741, Top=279, Right=956, Bottom=537
+
+RAW 270 car  Left=493, Top=266, Right=508, Bottom=278
+
+RAW 271 car  Left=746, Top=278, Right=953, Bottom=537
+
+RAW 271 car  Left=493, Top=267, Right=509, Bottom=279
+
+RAW 272 car  Left=759, Top=274, Right=949, Bottom=537
+
+RAW 272 car  Left=493, Top=267, Right=509, Bottom=278
+
+RAW 273 car  Left=771, Top=280, Right=952, Bottom=536
+
+RAW 273 car  Left=494, Top=267, Right=509, Bottom=278
+
+RAW 274 car  Left=776, Top=279, Right=956, Bottom=535
+
+RAW 275 car  Left=784, Top=277, Right=959, Bottom=537
+
+RAW 277 car  Left=493, Top=267, Right=508, Bottom=279
+
+RAW 278 car  Left=835, Top=287, Right=959, Bottom=534
+
+RAW 278 car  Left=493, Top=267, Right=509, Bottom=279
+
+RAW 279 car  Left=494, Top=267, Right=509, Bottom=278
+
+RAW 280 car  Left=493, Top=267, Right=509, Bottom=279
+
+RAW 281 car  Left=493, Top=268, Right=508, Bottom=280
+
+RAW 282 car  Left=494, Top=268, Right=508, Bottom=280
+
+RAW 283 car  Left=495, Top=268, Right=509, Bottom=280
+
+RAW 284 car  Left=494, Top=268, Right=509, Bottom=280
+
+RAW 285 car  Left=494, Top=269, Right=509, Bottom=281
+
+RAW 286 car  Left=494, Top=269, Right=509, Bottom=280
+
+RAW 287 car  Left=494, Top=269, Right=509, Bottom=280
+
+RAW 288 car  Left=494, Top=268, Right=509, Bottom=280
+
+RAW 289 car  Left=494, Top=268, Right=509, Bottom=279
+
+RAW 290 car  Left=494, Top=268, Right=509, Bottom=279
+
+RAW 291 car  Left=494, Top=268, Right=509, Bottom=279
+
+RAW 292 car  Left=493, Top=267, Right=510, Bottom=279
+
+RAW 293 car  Left=493, Top=267, Right=510, Bottom=279
+
+RAW 294 car  Left=493, Top=267, Right=509, Bottom=279
+
+RAW 295 car  Left=493, Top=267, Right=509, Bottom=279
+
+RAW 296 car  Left=493, Top=267, Right=509, Bottom=279
+
+RAW 297 car  Left=493, Top=267, Right=509, Bottom=279
+
+RAW 298 car  Left=493, Top=267, Right=509, Bottom=279
+
+RAW 299 car  Left=494, Top=267, Right=509, Bottom=279
+
+RAW 300 car  Left=493, Top=268, Right=510, Bottom=279
+
+RAW 301 car  Left=493, Top=267, Right=509, Bottom=280
+
+RAW 302 car  Left=493, Top=268, Right=508, Bottom=280
+
+RAW 303 car  Left=493, Top=268, Right=508, Bottom=280
+
+RAW 304 car  Left=494, Top=267, Right=509, Bottom=280
+
+RAW 305 car  Left=494, Top=269, Right=508, Bottom=281
+
+RAW 306 car  Left=494, Top=269, Right=509, Bottom=281
+
+RAW 307 car  Left=494, Top=269, Right=508, Bottom=281
+
+RAW 308 car  Left=494, Top=268, Right=509, Bottom=280
+
+RAW 309 car  Left=494, Top=269, Right=509, Bottom=281
+
+RAW 310 car  Left=496, Top=270, Right=508, Bottom=280
+
+RAW 311 car  Left=494, Top=268, Right=509, Bottom=280
+
+RAW 312 car  Left=496, Top=268, Right=509, Bottom=279
+
+RAW 313 car  Left=493, Top=266, Right=511, Bottom=280
+
+RAW 314 car  Left=494, Top=267, Right=510, Bottom=280
+
+RAW 315 car  Left=494, Top=268, Right=510, Bottom=280
+
+RAW 316 car  Left=494, Top=268, Right=510, Bottom=280
+
+RAW 317 car  Left=494, Top=267, Right=509, Bottom=280
+
+RAW 318 car  Left=494, Top=267, Right=509, Bottom=280
+
+RAW 319 car  Left=494, Top=267, Right=509, Bottom=281
+
+RAW 320 car  Left=494, Top=267, Right=509, Bottom=280
+
+RAW 321 car  Left=493, Top=266, Right=510, Bottom=281
+
+RAW 322 car  Left=493, Top=267, Right=508, Bottom=280
+
+RAW 323 car  Left=494, Top=268, Right=510, Bottom=280
+
+RAW 324 car  Left=493, Top=268, Right=510, Bottom=280
+
+RAW 325 car  Left=494, Top=268, Right=509, Bottom=279
+
+RAW 326 car  Left=494, Top=267, Right=509, Bottom=279
+
+RAW 327 car  Left=494, Top=266, Right=510, Bottom=280
+
+RAW 328 car  Left=494, Top=266, Right=509, Bottom=279
+
+RAW 329 car  Left=494, Top=264, Right=510, Bottom=279
+
+RAW 330 car  Left=492, Top=265, Right=509, Bottom=279
+
+RAW 331 car  Left=492, Top=264, Right=509, Bottom=279
+
+RAW 332 car  Left=493, Top=265, Right=509, Bottom=278
+
+RAW 333 car  Left=494, Top=265, Right=509, Bottom=278
+
+RAW 334 car  Left=493, Top=266, Right=509, Bottom=278
+
+RAW 335 car  Left=495, Top=265, Right=509, Bottom=277
+
+RAW 336 car  Left=494, Top=265, Right=510, Bottom=278
+
+RAW 337 car  Left=494, Top=264, Right=511, Bottom=277
+
+RAW 338 car  Left=494, Top=265, Right=510, Bottom=277
+
+RAW 339 car  Left=495, Top=266, Right=508, Bottom=278
+
+RAW 341 car  Left=494, Top=266, Right=509, Bottom=278
+
+RAW 342 car  Left=493, Top=265, Right=510, Bottom=278
+
+RAW 343 car  Left=493, Top=265, Right=509, Bottom=279
+
+RAW 344 car  Left=494, Top=265, Right=510, Bottom=278
+
+RAW 345 car  Left=493, Top=265, Right=509, Bottom=278
+
+RAW 346 car  Left=493, Top=264, Right=509, Bottom=279
+
+RAW 347 car  Left=493, Top=265, Right=509, Bottom=280
+
+RAW 348 car  Left=494, Top=267, Right=508, Bottom=281
+
+RAW 373 car  Left=493, Top=267, Right=508, Bottom=282
+
+RAW 374 car  Left=492, Top=266, Right=509, Bottom=282
+
+RAW 375 car  Left=493, Top=266, Right=509, Bottom=282
+
+RAW 376 car  Left=492, Top=265, Right=512, Bottom=281
+
+RAW 377 car  Left=491, Top=265, Right=512, Bottom=281
+
+RAW 378 car  Left=492, Top=265, Right=511, Bottom=281
+
+RAW 379 car  Left=492, Top=265, Right=512, Bottom=281
+
+RAW 380 car  Left=492, Top=265, Right=512, Bottom=281
+
+RAW 381 car  Left=491, Top=265, Right=513, Bottom=282
+
+RAW 382 car  Left=492, Top=265, Right=512, Bottom=281
+
+RAW 383 car  Left=491, Top=265, Right=512, Bottom=281
+
+RAW 384 car  Left=491, Top=265, Right=511, Bottom=282
+
+RAW 385 car  Left=491, Top=265, Right=512, Bottom=281
+
+RAW 386 car  Left=492, Top=266, Right=511, Bottom=281
+
+RAW 387 car  Left=490, Top=265, Right=514, Bottom=281
+
+RAW 388 car  Left=491, Top=266, Right=514, Bottom=281
+
+RAW 389 car  Left=491, Top=266, Right=514, Bottom=280
+
+RAW 390 car  Left=490, Top=264, Right=514, Bottom=280
+
+RAW 391 car  Left=490, Top=265, Right=513, Bottom=280
+
+RAW 392 car  Left=491, Top=265, Right=512, Bottom=280
+
+RAW 393 car  Left=490, Top=264, Right=513, Bottom=281
+
+RAW 394 car  Left=489, Top=263, Right=514, Bottom=281
+
+RAW 395 car  Left=490, Top=264, Right=515, Bottom=280
+
+RAW 396 car  Left=490, Top=265, Right=514, Bottom=280
+
+RAW 397 car  Left=490, Top=264, Right=515, Bottom=281
+
+RAW 398 car  Left=490, Top=263, Right=516, Bottom=280
+
+RAW 399 car  Left=490, Top=264, Right=515, Bottom=281
+
+RAW 400 car  Left=490, Top=262, Right=515, Bottom=281
+
+RAW 401 car  Left=489, Top=263, Right=515, Bottom=281
+
+RAW 402 car  Left=491, Top=264, Right=515, Bottom=281
+
+RAW 403 car  Left=491, Top=264, Right=515, Bottom=280
+
+RAW 404 car  Left=491, Top=265, Right=514, Bottom=279
+
+RAW 405 car  Left=491, Top=264, Right=514, Bottom=279
+
+RAW 406 car  Left=491, Top=264, Right=514, Bottom=279
+
+RAW 407 car  Left=489, Top=264, Right=516, Bottom=279
+
+RAW 408 car  Left=491, Top=263, Right=514, Bottom=280
+
+RAW 409 car  Left=496, Top=265, Right=518, Bottom=280
+
+RAW 410 car  Left=491, Top=261, Right=515, Bottom=279
+
+RAW 411 car  Left=491, Top=263, Right=515, Bottom=279
+
+RAW 412 car  Left=491, Top=261, Right=515, Bottom=280
+
+RAW 413 car  Left=497, Top=264, Right=517, Bottom=281
+
+RAW 414 car  Left=497, Top=265, Right=520, Bottom=281
+
+RAW 415 car  Left=498, Top=265, Right=518, Bottom=281
+
+RAW 416 car  Left=497, Top=266, Right=518, Bottom=280
+
+RAW 417 car  Left=498, Top=266, Right=518, Bottom=280
+
+RAW 418 car  Left=496, Top=265, Right=518, Bottom=281
+
+RAW 419 car  Left=499, Top=267, Right=519, Bottom=281
+
+RAW 420 car  Left=498, Top=267, Right=518, Bottom=282
+
+RAW 422 car  Left=499, Top=268, Right=518, Bottom=282
+
+RAW 427 car  Left=501, Top=269, Right=518, Bottom=283
+
+RAW 428 car  Left=499, Top=268, Right=518, Bottom=283
+
+RAW 429 car  Left=500, Top=267, Right=518, Bottom=282
+
+RAW 430 car  Left=501, Top=267, Right=519, Bottom=282
+
+RAW 431 car  Left=500, Top=267, Right=520, Bottom=283
+
+RAW 432 car  Left=501, Top=268, Right=519, Bottom=283
+
+RAW 435 car  Left=500, Top=267, Right=518, Bottom=283
+
+RAW 436 car  Left=500, Top=268, Right=519, Bottom=284
+
+RAW 439 car  Left=503, Top=268, Right=518, Bottom=283
+
+RAW 441 car  Left=501, Top=268, Right=519, Bottom=282
+
+RAW 443 car  Left=500, Top=267, Right=519, Bottom=282
+
+RAW 446 car  Left=499, Top=268, Right=519, Bottom=282
+
+RAW 447 car  Left=499, Top=267, Right=519, Bottom=283
+
+RAW 449 car  Left=494, Top=268, Right=510, Bottom=283
+
+RAW 450 car  Left=873, Top=274, Right=959, Bottom=338
+
+RAW 452 car  Left=499, Top=267, Right=517, Bottom=281
+
+RAW 453 car  Left=498, Top=266, Right=517, Bottom=281
+
+RAW 454 car  Left=498, Top=266, Right=516, Bottom=282
+
+RAW 455 car  Left=501, Top=266, Right=517, Bottom=280
+
+RAW 457 car  Left=493, Top=265, Right=512, Bottom=282
+
+RAW 459 car  Left=494, Top=266, Right=511, Bottom=282
+
+RAW 460 car  Left=498, Top=266, Right=517, Bottom=282
+
+RAW 461 car  Left=497, Top=265, Right=517, Bottom=282
+
+RAW 462 car  Left=498, Top=266, Right=516, Bottom=281
+
+RAW 463 car  Left=498, Top=265, Right=517, Bottom=282
+
+RAW 464 car  Left=499, Top=267, Right=519, Bottom=283
+
+RAW 465 car  Left=498, Top=267, Right=517, Bottom=284
+
+RAW 466 car  Left=498, Top=267, Right=519, Bottom=283
+
+RAW 467 car  Left=499, Top=267, Right=519, Bottom=283
+
+RAW 468 car  Left=500, Top=267, Right=518, Bottom=286
+
+RAW 469 car  Left=500, Top=269, Right=519, Bottom=287
+
+RAW 470 car  Left=500, Top=268, Right=519, Bottom=286
+
+RAW 470 car  Left=551, Top=271, Right=592, Bottom=302
+
+RAW 471 car  Left=499, Top=268, Right=520, Bottom=286
+
+RAW 472 car  Left=500, Top=267, Right=519, Bottom=286
+
+RAW 473 car  Left=498, Top=267, Right=519, Bottom=287
+
+RAW 474 car  Left=497, Top=267, Right=521, Bottom=288
+
+RAW 475 car  Left=500, Top=269, Right=521, Bottom=287
+
+RAW 476 car  Left=500, Top=268, Right=520, Bottom=287
+
+RAW 477 car  Left=499, Top=268, Right=520, Bottom=288
+
+RAW 478 car  Left=499, Top=267, Right=523, Bottom=288
+
+RAW 479 car  Left=499, Top=267, Right=524, Bottom=288
+
+RAW 480 car  Left=499, Top=269, Right=527, Bottom=288
+
+RAW 481 car  Left=500, Top=268, Right=526, Bottom=287
+
+RAW 482 car  Left=500, Top=268, Right=526, Bottom=288
+
+RAW 483 car  Left=500, Top=267, Right=526, Bottom=287
+
+RAW 484 car  Left=502, Top=267, Right=526, Bottom=288
+
+RAW 485 car  Left=501, Top=267, Right=526, Bottom=287
+
+RAW 486 car  Left=501, Top=267, Right=526, Bottom=286
+
+RAW 487 car  Left=500, Top=267, Right=527, Bottom=287
+
+RAW 488 car  Left=501, Top=266, Right=527, Bottom=286
+
+RAW 489 car  Left=502, Top=268, Right=527, Bottom=286
+
+RAW 490 car  Left=501, Top=268, Right=525, Bottom=286
+
+RAW 491 car  Left=503, Top=266, Right=527, Bottom=285
+
+RAW 492 car  Left=502, Top=267, Right=525, Bottom=285
+
+RAW 493 car  Left=503, Top=267, Right=524, Bottom=284
+
+RAW 494 car  Left=502, Top=267, Right=525, Bottom=285
+
+RAW 495 car  Left=502, Top=265, Right=524, Bottom=285
+
+RAW 496 car  Left=501, Top=267, Right=526, Bottom=286
+
+RAW 496 car  Left=560, Top=270, Right=609, Bottom=305
+
+RAW 497 car  Left=501, Top=266, Right=526, Bottom=285
+
+RAW 498 car  Left=500, Top=267, Right=527, Bottom=285
+
+RAW 499 car  Left=501, Top=267, Right=528, Bottom=285
+
+RAW 500 car  Left=501, Top=267, Right=530, Bottom=287
+
+RAW 501 car  Left=503, Top=268, Right=526, Bottom=285
+
+RAW 502 car  Left=503, Top=267, Right=526, Bottom=285
+
+RAW 503 car  Left=504, Top=268, Right=525, Bottom=286
+
+RAW 504 car  Left=502, Top=267, Right=527, Bottom=287
+
+RAW 505 car  Left=503, Top=266, Right=527, Bottom=288
+
+RAW 506 car  Left=502, Top=266, Right=529, Bottom=287
+
+RAW 507 car  Left=503, Top=267, Right=527, Bottom=286
+
+RAW 508 car  Left=501, Top=265, Right=530, Bottom=289
+
+RAW 509 car  Left=502, Top=266, Right=530, Bottom=288
+
+RAW 510 car  Left=504, Top=267, Right=534, Bottom=290
+
+RAW 511 car  Left=505, Top=268, Right=534, Bottom=290
+
+RAW 512 car  Left=504, Top=267, Right=535, Bottom=289
+
+RAW 513 car  Left=504, Top=267, Right=534, Bottom=289
+
+RAW 514 car  Left=504, Top=267, Right=534, Bottom=289
+
+RAW 515 car  Left=504, Top=264, Right=535, Bottom=290
+
+RAW 516 car  Left=504, Top=267, Right=535, Bottom=291
+
+RAW 517 car  Left=505, Top=267, Right=534, Bottom=290
+
+RAW 518 car  Left=505, Top=267, Right=534, Bottom=291
+
+RAW 519 car  Left=505, Top=266, Right=534, Bottom=291
+
+RAW 520 car  Left=504, Top=264, Right=534, Bottom=290
+
+RAW 521 car  Left=505, Top=268, Right=534, Bottom=290
+
+RAW 522 car  Left=503, Top=267, Right=535, Bottom=290
+
+RAW 523 car  Left=504, Top=267, Right=535, Bottom=291
+
+RAW 524 car  Left=507, Top=268, Right=534, Bottom=289
+
+RAW 525 car  Left=507, Top=268, Right=533, Bottom=289
+
+RAW 526 car  Left=508, Top=268, Right=533, Bottom=288
+
+RAW 527 car  Left=508, Top=267, Right=533, Bottom=289
+
+RAW 528 car  Left=507, Top=266, Right=533, Bottom=287
+
+RAW 529 car  Left=508, Top=267, Right=532, Bottom=287
+
+RAW 530 car  Left=508, Top=267, Right=533, Bottom=287
+
+RAW 531 car  Left=509, Top=266, Right=532, Bottom=287
+
+RAW 532 car  Left=509, Top=267, Right=532, Bottom=289
+
+RAW 533 car  Left=507, Top=266, Right=533, Bottom=288
+
+RAW 534 car  Left=508, Top=266, Right=533, Bottom=288
+
+RAW 535 car  Left=509, Top=266, Right=534, Bottom=288
+
+RAW 536 car  Left=508, Top=267, Right=534, Bottom=289
+
+RAW 537 car  Left=506, Top=267, Right=535, Bottom=289
+
+RAW 538 car  Left=508, Top=268, Right=535, Bottom=289
+
+RAW 539 car  Left=507, Top=268, Right=536, Bottom=289
+
+RAW 540 car  Left=510, Top=269, Right=535, Bottom=286
+
+RAW 541 car  Left=509, Top=265, Right=535, Bottom=287
+
+RAW 542 car  Left=508, Top=266, Right=539, Bottom=288
+
+RAW 543 car  Left=509, Top=265, Right=537, Bottom=286
+
+RAW 544 car  Left=510, Top=265, Right=538, Bottom=286
+
+RAW 545 car  Left=509, Top=267, Right=538, Bottom=286
+
+RAW 546 car  Left=511, Top=266, Right=535, Bottom=285
+
+RAW 547 car  Left=510, Top=266, Right=538, Bottom=286
+
+RAW 548 car  Left=510, Top=265, Right=540, Bottom=285
+
+RAW 549 car  Left=510, Top=263, Right=541, Bottom=285
+
+RAW 550 car  Left=511, Top=264, Right=542, Bottom=284
+
+RAW 551 car  Left=510, Top=265, Right=543, Bottom=284
+
+RAW 552 car  Left=510, Top=265, Right=543, Bottom=283
+
+RAW 553 car  Left=510, Top=264, Right=543, Bottom=283
+
+RAW 554 car  Left=508, Top=264, Right=545, Bottom=283
+
+RAW 555 car  Left=509, Top=263, Right=545, Bottom=282
+
+RAW 556 car  Left=509, Top=263, Right=545, Bottom=283
+
+RAW 557 car  Left=510, Top=262, Right=544, Bottom=283
+
+RAW 558 car  Left=510, Top=261, Right=544, Bottom=282
+
+RAW 559 car  Left=509, Top=258, Right=545, Bottom=283
+
+RAW 560 car  Left=510, Top=258, Right=545, Bottom=284
+
+RAW 561 car  Left=510, Top=258, Right=545, Bottom=284
+
+RAW 562 car  Left=510, Top=258, Right=545, Bottom=284
+
+RAW 563 car  Left=510, Top=258, Right=545, Bottom=284
+
+RAW 564 car  Left=510, Top=258, Right=545, Bottom=284
+
+RAW 565 car  Left=511, Top=259, Right=546, Bottom=285
+
+RAW 566 car  Left=511, Top=257, Right=544, Bottom=285
+
+RAW 567 car  Left=512, Top=257, Right=543, Bottom=285
+
+RAW 568 car  Left=513, Top=265, Right=541, Bottom=283
+
+RAW 569 car  Left=512, Top=265, Right=542, Bottom=283
+
+RAW 570 car  Left=512, Top=265, Right=542, Bottom=282
+
+RAW 571 car  Left=512, Top=265, Right=541, Bottom=283
+
+RAW 572 car  Left=512, Top=264, Right=543, Bottom=284
+
+RAW 573 car  Left=512, Top=264, Right=542, Bottom=284
+
+RAW 574 car  Left=512, Top=264, Right=542, Bottom=284
+
+RAW 575 car  Left=512, Top=265, Right=542, Bottom=284
+
+RAW 576 car  Left=513, Top=265, Right=540, Bottom=284
+
+RAW 577 car  Left=513, Top=266, Right=540, Bottom=284
+
+RAW 578 car  Left=513, Top=266, Right=541, Bottom=284
+
+RAW 579 car  Left=513, Top=266, Right=539, Bottom=283
+
+RAW 580 car  Left=512, Top=260, Right=544, Bottom=287
+
+RAW 581 car  Left=511, Top=261, Right=543, Bottom=288
+
+RAW 582 car  Left=511, Top=260, Right=543, Bottom=287
+
+RAW 583 car  Left=510, Top=258, Right=545, Bottom=287
+
+RAW 584 car  Left=511, Top=260, Right=543, Bottom=287
+
+RAW 585 car  Left=511, Top=262, Right=543, Bottom=288
+
+RAW 586 car  Left=508, Top=265, Right=545, Bottom=288
+
+RAW 587 car  Left=510, Top=262, Right=542, Bottom=287
+
+RAW 588 car  Left=507, Top=267, Right=544, Bottom=289
+
+RAW 589 car  Left=509, Top=266, Right=538, Bottom=288
+
+RAW 590 car  Left=508, Top=267, Right=539, Bottom=288
+
+RAW 591 car  Left=505, Top=262, Right=537, Bottom=288
+
+RAW 592 car  Left=507, Top=268, Right=538, Bottom=288
+
+RAW 593 car  Left=502, Top=261, Right=537, Bottom=289
+
+RAW 594 car  Left=502, Top=262, Right=536, Bottom=288
+
+RAW 595 car  Left=502, Top=262, Right=535, Bottom=288
+
+RAW 596 car  Left=497, Top=261, Right=534, Bottom=289
+
+RAW 597 car  Left=496, Top=262, Right=533, Bottom=289
+
+RAW 598 car  Left=497, Top=268, Right=529, Bottom=286
+
+RAW 599 car  Left=492, Top=261, Right=529, Bottom=288
+
+RAW 600 car  Left=495, Top=267, Right=526, Bottom=288
+
+RAW 601 car  Left=490, Top=266, Right=526, Bottom=289
+
+RAW 602 car  Left=489, Top=264, Right=524, Bottom=288
+
+RAW 603 car  Left=486, Top=261, Right=518, Bottom=287
+
+RAW 604 car  Left=485, Top=261, Right=517, Bottom=288
+
+RAW 605 car  Left=483, Top=268, Right=515, Bottom=288
+
+RAW 606 car  Left=481, Top=267, Right=511, Bottom=289
+
+RAW 607 car  Left=477, Top=262, Right=510, Bottom=289
+
+RAW 608 car  Left=473, Top=267, Right=505, Bottom=288
+
+RAW 609 car  Left=471, Top=264, Right=501, Bottom=289
+
+RAW 610 car  Left=470, Top=267, Right=502, Bottom=290
+
+RAW 611 car  Left=466, Top=267, Right=499, Bottom=289
+
+RAW 612 car  Left=462, Top=259, Right=494, Bottom=289
+
+RAW 613 car  Left=457, Top=267, Right=490, Bottom=289
+
+RAW 614 car  Left=455, Top=261, Right=487, Bottom=289
+
+RAW 615 car  Left=450, Top=265, Right=486, Bottom=290
+
+RAW 616 car  Left=445, Top=263, Right=481, Bottom=289
+
+RAW 617 car  Left=445, Top=268, Right=476, Bottom=289
+
+RAW 618 car  Left=440, Top=262, Right=471, Bottom=289
+
+RAW 619 car  Left=433, Top=265, Right=471, Bottom=290
+
+RAW 620 car  Left=431, Top=261, Right=462, Bottom=289
+
+RAW 621 car  Left=431, Top=268, Right=462, Bottom=289
+
+RAW 622 car  Left=423, Top=261, Right=454, Bottom=289
+
+RAW 623 car  Left=412, Top=264, Right=452, Bottom=289
+
+RAW 624 car  Left=406, Top=257, Right=448, Bottom=291
+
+RAW 625 car  Left=402, Top=262, Right=442, Bottom=289
+
+RAW 626 car  Left=394, Top=258, Right=435, Bottom=290
+
+RAW 627 car  Left=394, Top=259, Right=432, Bottom=290
+
+RAW 628 car  Left=387, Top=262, Right=427, Bottom=291
+
+RAW 629 car  Left=383, Top=261, Right=420, Bottom=289
+
+RAW 630 car  Left=376, Top=260, Right=417, Bottom=291
+
+RAW 632 car  Left=367, Top=264, Right=406, Bottom=291
+
+RAW 633 car  Left=361, Top=262, Right=401, Bottom=291
+
+RAW 634 car  Left=354, Top=263, Right=392, Bottom=290
+
+RAW 635 car  Left=349, Top=259, Right=387, Bottom=290
+
+RAW 636 car  Left=344, Top=261, Right=382, Bottom=290
+
+RAW 637 car  Left=338, Top=264, Right=374, Bottom=291
+
+RAW 638 car  Left=331, Top=263, Right=367, Bottom=291
+
+RAW 639 car  Left=324, Top=261, Right=361, Bottom=291
+
+RAW 640 car  Left=319, Top=263, Right=356, Bottom=289
+
+RAW 641 car  Left=313, Top=264, Right=350, Bottom=291
+
+RAW 642 car  Left=306, Top=260, Right=342, Bottom=290
+
+RAW 643 car  Left=299, Top=260, Right=334, Bottom=290
+
+RAW 644 car  Left=289, Top=261, Right=327, Bottom=288
+
+RAW 645 car  Left=284, Top=259, Right=319, Bottom=290
+
+RAW 646 car  Left=274, Top=257, Right=314, Bottom=289
+
+RAW 647 car  Left=269, Top=256, Right=306, Bottom=286
+
+RAW 648 car  Left=260, Top=257, Right=301, Bottom=287
+
+RAW 649 car  Left=252, Top=258, Right=292, Bottom=287
+
+RAW 650 car  Left=244, Top=258, Right=283, Bottom=285
+
+RAW 651 car  Left=234, Top=256, Right=276, Bottom=285
+
+RAW 652 car  Left=225, Top=255, Right=264, Bottom=284
+
+RAW 653 car  Left=219, Top=258, Right=256, Bottom=284
+
+RAW 654 car  Left=224, Top=259, Right=248, Bottom=283
+
+RAW 655 car  Left=200, Top=251, Right=239, Bottom=281
+
+RAW 656 car  Left=208, Top=260, Right=230, Bottom=283
+
+RAW 657 car  Left=185, Top=250, Right=224, Bottom=282
+
+RAW 658 car  Left=174, Top=250, Right=213, Bottom=283
+
+RAW 659 car  Left=162, Top=250, Right=204, Bottom=281
+
+RAW 659 car  Left=181, Top=260, Right=204, Bottom=283
+
+RAW 659 car  Left=161, Top=260, Right=179, Bottom=281
+
+RAW 660 car  Left=159, Top=251, Right=199, Bottom=281
+
+RAW 661 car  Left=146, Top=256, Right=187, Bottom=283
+
+RAW 662 car  Left=135, Top=251, Right=175, Bottom=281
+
+RAW 662 car  Left=134, Top=262, Right=154, Bottom=281
+
+RAW 663 car  Left=121, Top=251, Right=166, Bottom=282
+
+RAW 664 car  Left=115, Top=259, Right=157, Bottom=284
+
+RAW 665 car  Left=101, Top=262, Right=130, Bottom=284
+
+RAW 666 car  Left=91, Top=261, Right=118, Bottom=283
+
+RAW 666 car  Left=115, Top=265, Right=141, Bottom=283
+
+RAW 667 car  Left=80, Top=258, Right=130, Bottom=287
+
+RAW 668 car  Left=86, Top=236, Right=99, Bottom=244
+
+RAW 668 car  Left=93, Top=258, Right=121, Bottom=288
+
+RAW 668 car  Left=72, Top=264, Right=91, Bottom=284
+
+RAW 669 car  Left=61, Top=255, Right=108, Bottom=287
+
+RAW 670 car  Left=50, Top=258, Right=93, Bottom=289
+
+RAW 671 car  Left=37, Top=257, Right=82, Bottom=288
+
+RAW 672 car  Left=24, Top=256, Right=73, Bottom=288
+
+RAW 673 car  Left=14, Top=255, Right=66, Bottom=290
+
+RAW 674 car  Left=2, Top=252, Right=56, Bottom=290
+
+RAW 675 car  Left=1, Top=254, Right=43, Bottom=290
+
+RAW 676 car  Left=0, Top=240, Right=31, Bottom=289
+
+RAW 701 car  Left=937, Top=258, Right=959, Bottom=294
+
+RAW 702 car  Left=929, Top=258, Right=959, Bottom=292
+
+RAW 703 car  Left=922, Top=258, Right=959, Bottom=292
+
+RAW 704 car  Left=914, Top=256, Right=959, Bottom=293
+
+RAW 705 car  Left=902, Top=255, Right=959, Bottom=291
+
+RAW 706 car  Left=894, Top=257, Right=959, Bottom=289
+
+RAW 707 car  Left=889, Top=256, Right=959, Bottom=290
+
+RAW 708 car  Left=879, Top=257, Right=958, Bottom=288
+
+RAW 709 car  Left=874, Top=257, Right=956, Bottom=287
+
+RAW 710 car  Left=869, Top=256, Right=954, Bottom=286
+
+RAW 711 car  Left=864, Top=255, Right=945, Bottom=286
+
+RAW 712 car  Left=851, Top=250, Right=933, Bottom=282
+
+RAW 713 car  Left=844, Top=251, Right=933, Bottom=282
+
+RAW 714 car  Left=845, Top=249, Right=929, Bottom=283
+
+RAW 715 car  Left=829, Top=248, Right=922, Bottom=282
+
+RAW 716 car  Left=825, Top=249, Right=909, Bottom=282
+
+RAW 717 car  Left=816, Top=248, Right=908, Bottom=281
+
+RAW 718 car  Left=812, Top=245, Right=896, Bottom=278
+
+RAW 719 car  Left=804, Top=246, Right=894, Bottom=278
+
+RAW 720 car  Left=797, Top=246, Right=882, Bottom=277
+
+RAW 721 car  Left=788, Top=245, Right=871, Bottom=276
+
+RAW 722 car  Left=783, Top=245, Right=869, Bottom=276
+
+RAW 723 car  Left=773, Top=243, Right=859, Bottom=275
+
+RAW 724 car  Left=764, Top=236, Right=841, Bottom=271
+
+RAW 725 car  Left=764, Top=237, Right=840, Bottom=270
+
+RAW 726 car  Left=754, Top=237, Right=830, Bottom=269
+
+RAW 727 car  Left=752, Top=237, Right=828, Bottom=269
+
+RAW 728 car  Left=742, Top=234, Right=818, Bottom=266
+
+RAW 729 car  Left=740, Top=236, Right=814, Bottom=267
+
+RAW 730 car  Left=739, Top=237, Right=811, Bottom=268
+
+RAW 731 car  Left=726, Top=237, Right=799, Bottom=268
+
+RAW 731 car  Left=928, Top=200, Right=959, Bottom=313
+
+RAW 732 car  Left=717, Top=235, Right=790, Bottom=266
+
+RAW 732 car  Left=926, Top=244, Right=959, Bottom=307
+
+RAW 733 car  Left=917, Top=237, Right=959, Bottom=312
+
+RAW 733 car  Left=717, Top=236, Right=786, Bottom=270
+
+RAW 734 car  Left=912, Top=240, Right=959, Bottom=309
+
+RAW 734 car  Left=711, Top=236, Right=784, Bottom=271
+
+RAW 735 car  Left=905, Top=239, Right=959, Bottom=310
+
+RAW 735 car  Left=701, Top=243, Right=750, Bottom=273
+
+RAW 736 car  Left=902, Top=240, Right=959, Bottom=313
+
+RAW 736 car  Left=698, Top=246, Right=779, Bottom=274
+
+RAW 737 car  Left=898, Top=242, Right=959, Bottom=315
+
+RAW 737 car  Left=698, Top=246, Right=773, Bottom=276
+
+RAW 738 car  Left=691, Top=246, Right=761, Bottom=278
+
+RAW 738 car  Left=886, Top=246, Right=959, Bottom=315
+
+RAW 739 car  Left=880, Top=249, Right=959, Bottom=317
+
+RAW 739 car  Left=677, Top=247, Right=751, Bottom=277
+
+RAW 740 car  Left=875, Top=251, Right=957, Bottom=317
+
+RAW 740 car  Left=676, Top=249, Right=750, Bottom=281
+
+RAW 741 car  Left=872, Top=254, Right=958, Bottom=321
+
+RAW 742 car  Left=859, Top=256, Right=953, Bottom=320
+
+RAW 743 car  Left=857, Top=258, Right=953, Bottom=321
+
+RAW 743 car  Left=663, Top=257, Right=739, Bottom=285
+
+RAW 744 car  Left=851, Top=256, Right=949, Bottom=324
+
+RAW 744 car  Left=664, Top=258, Right=735, Bottom=289
+
+RAW 745 car  Left=849, Top=256, Right=941, Bottom=326
+
+RAW 745 car  Left=649, Top=258, Right=701, Bottom=289
+
+RAW 746 car  Left=648, Top=262, Right=726, Bottom=293
+
+RAW 746 car  Left=840, Top=255, Right=941, Bottom=327
+
+RAW 747 car  Left=641, Top=261, Right=713, Bottom=292
+
+RAW 747 car  Left=831, Top=263, Right=933, Bottom=331
+
+RAW 748 car  Left=638, Top=263, Right=715, Bottom=294
+
+RAW 748 car  Left=830, Top=253, Right=930, Bottom=330
+
+RAW 749 car  Left=825, Top=252, Right=927, Bottom=331
+
+RAW 749 car  Left=642, Top=271, Right=710, Bottom=296
+
+RAW 749 car  Left=632, Top=262, Right=659, Bottom=292
+
+RAW 750 car  Left=825, Top=267, Right=923, Bottom=340
+
+RAW 750 car  Left=640, Top=269, Right=710, Bottom=296
+
+RAW 751 car  Left=633, Top=270, Right=692, Bottom=300
+
+RAW 752 car  Left=809, Top=269, Right=904, Bottom=338
+
+RAW 752 car  Left=633, Top=272, Right=693, Bottom=298
+
+RAW 753 car  Left=806, Top=271, Right=904, Bottom=339
+
+RAW 754 car  Left=495, Top=272, Right=551, Bottom=298
+
+RAW 755 car  Left=801, Top=267, Right=901, Bottom=341
+
+RAW 755 car  Left=630, Top=271, Right=690, Bottom=299
+
+RAW 757 car  Left=792, Top=267, Right=894, Bottom=342
+
+RAW 757 car  Left=604, Top=273, Right=624, Bottom=296
+
+RAW 758 car  Left=785, Top=270, Right=879, Bottom=338
+
+RAW 758 car  Left=621, Top=270, Right=677, Bottom=300
+
+RAW 758 car  Left=600, Top=269, Right=626, Bottom=297
+
+RAW 759 car  Left=779, Top=268, Right=884, Bottom=340
+
+RAW 759 car  Left=597, Top=275, Right=621, Bottom=296
+
+RAW 759 car  Left=625, Top=271, Right=673, Bottom=300
+
+RAW 760 car  Left=604, Top=271, Right=671, Bottom=299
+
+RAW 761 car  Left=603, Top=270, Right=668, Bottom=300
+
+RAW 762 car  Left=604, Top=268, Right=668, Bottom=299
+
+RAW 763 car  Left=587, Top=268, Right=662, Bottom=300
+
+RAW 763 car  Left=495, Top=270, Right=519, Bottom=297
+
+RAW 764 car  Left=767, Top=266, Right=876, Bottom=342
+
+RAW 765 car  Left=764, Top=266, Right=871, Bottom=341
+
+RAW 766 car  Left=760, Top=266, Right=853, Bottom=337
+
+RAW 766 car  Left=595, Top=268, Right=653, Bottom=298
+
+RAW 767 car  Left=755, Top=266, Right=856, Bottom=338
+
+RAW 767 car  Left=575, Top=272, Right=600, Bottom=296
+
+RAW 767 car  Left=597, Top=268, Right=651, Bottom=298
+
+RAW 768 car  Left=753, Top=263, Right=860, Bottom=341
+
+RAW 768 car  Left=595, Top=269, Right=650, Bottom=298
+
+RAW 768 car  Left=477, Top=272, Right=504, Bottom=300
+
+RAW 769 car  Left=752, Top=265, Right=860, Bottom=343
+
+RAW 770 car  Left=473, Top=271, Right=501, Bottom=300
+
+RAW 770 car  Left=589, Top=268, Right=639, Bottom=300
+
+RAW 771 car  Left=750, Top=266, Right=859, Bottom=342
+
+RAW 771 car  Left=469, Top=271, Right=497, Bottom=300
+
+RAW 771 car  Left=423, Top=269, Right=501, Bottom=300
+
+RAW 772 car  Left=751, Top=267, Right=857, Bottom=341
+
+RAW 772 car  Left=586, Top=268, Right=639, Bottom=299
+
+RAW 773 car  Left=749, Top=264, Right=859, Bottom=345
+
+RAW 773 car  Left=462, Top=270, Right=493, Bottom=300
+
+RAW 773 car  Left=582, Top=268, Right=640, Bottom=300
+
+RAW 773 car  Left=563, Top=274, Right=591, Bottom=296
+
+RAW 774 car  Left=562, Top=274, Right=588, Bottom=296
+
+RAW 774 car  Left=587, Top=272, Right=634, Bottom=300
+
+RAW 775 car  Left=588, Top=271, Right=633, Bottom=300
+
+RAW 775 car  Left=561, Top=273, Right=588, Bottom=294
+
+RAW 776 car  Left=452, Top=273, Right=490, Bottom=302
+
+RAW 776 car  Left=742, Top=270, Right=818, Bottom=336
+
+RAW 776 car  Left=586, Top=266, Right=634, Bottom=300
+
+RAW 776 car  Left=772, Top=278, Right=859, Bottom=349
+
+RAW 777 car  Left=450, Top=274, Right=490, Bottom=302
+
+RAW 777 car  Left=745, Top=267, Right=854, Bottom=346
+
+RAW 777 car  Left=558, Top=271, Right=587, Bottom=299
+
+RAW 777 car  Left=586, Top=269, Right=631, Bottom=301
+
+RAW 778 car  Left=742, Top=265, Right=853, Bottom=349
+
+RAW 778 car  Left=556, Top=272, Right=621, Bottom=301
+
+RAW 778 car  Left=448, Top=273, Right=488, Bottom=303
+
+RAW 779 car  Left=740, Top=269, Right=847, Bottom=347
+
+RAW 779 car  Left=570, Top=273, Right=626, Bottom=303
+
+RAW 780 car  Left=733, Top=264, Right=852, Bottom=349
+
+RAW 780 car  Left=555, Top=270, Right=622, Bottom=302
+
+RAW 780 car  Left=390, Top=271, Right=487, Bottom=305
+
+RAW 780 car  Left=444, Top=277, Right=482, Bottom=304
+
+RAW 781 car  Left=443, Top=276, Right=481, Bottom=305
+
+RAW 781 car  Left=555, Top=270, Right=619, Bottom=303
+
+RAW 781 car  Left=389, Top=272, Right=483, Bottom=306
+
+RAW 782 car  Left=441, Top=277, Right=481, Bottom=307
+
+RAW 782 car  Left=556, Top=270, Right=619, Bottom=304
+
+RAW 782 car  Left=551, Top=278, Right=575, Bottom=298
+
+RAW 783 car  Left=551, Top=278, Right=573, Bottom=299
+
+RAW 784 car  Left=436, Top=276, Right=475, Bottom=306
+
+RAW 784 car  Left=729, Top=271, Right=832, Bottom=346
+
+RAW 784 car  Left=556, Top=269, Right=617, Bottom=304
+
+RAW 785 car  Left=554, Top=269, Right=617, Bottom=305
+
+RAW 786 car  Left=729, Top=270, Right=850, Bottom=359
+
+RAW 786 car  Left=544, Top=271, Right=610, Bottom=306
+
+RAW 787 car  Left=727, Top=270, Right=851, Bottom=363
+
+RAW 787 car  Left=541, Top=271, Right=611, Bottom=306
+
+RAW 787 car  Left=429, Top=280, Right=472, Bottom=310
+
+RAW 787 car  Left=373, Top=281, Right=469, Bottom=312
+
+RAW 788 car  Left=543, Top=269, Right=612, Bottom=311
+
+RAW 788 car  Left=726, Top=275, Right=835, Bottom=356
+
+RAW 789 car  Left=545, Top=271, Right=604, Bottom=310
+
+RAW 789 car  Left=728, Top=276, Right=829, Bottom=353
+
+RAW 789 car  Left=425, Top=282, Right=469, Bottom=313
+
+RAW 790 car  Left=421, Top=282, Right=467, Bottom=315
+
+RAW 790 car  Left=543, Top=270, Right=609, Bottom=312
+
+RAW 790 car  Left=728, Top=275, Right=831, Bottom=358
+
+RAW 791 car  Left=541, Top=278, Right=608, Bottom=312
+
+RAW 791 car  Left=374, Top=280, Right=465, Bottom=317
+
+RAW 791 car  Left=727, Top=272, Right=833, Bottom=362
+
+RAW 792 car  Left=544, Top=278, Right=607, Bottom=313
+
+RAW 792 car  Left=721, Top=276, Right=840, Bottom=368
+
+RAW 792 car  Left=351, Top=270, Right=376, Bottom=312
+
+RAW 793 car  Left=719, Top=278, Right=842, Bottom=367
+
+RAW 793 car  Left=415, Top=283, Right=462, Bottom=317
+
+RAW 793 car  Left=542, Top=278, Right=610, Bottom=313
+
+RAW 794 car  Left=358, Top=282, Right=463, Bottom=321
+
+RAW 795 car  Left=537, Top=282, Right=582, Bottom=314
+
+RAW 796 car  Left=533, Top=280, Right=595, Bottom=316
+
+RAW 796 car  Left=412, Top=285, Right=458, Bottom=320
+
+RAW 797 car  Left=407, Top=282, Right=456, Bottom=319
+
+RAW 797 car  Left=537, Top=279, Right=592, Bottom=316
+
+RAW 798 car  Left=535, Top=279, Right=595, Bottom=316
+
+RAW 798 car  Left=407, Top=284, Right=456, Bottom=319
+
+RAW 799 car  Left=714, Top=279, Right=847, Bottom=375
+
+RAW 799 car  Left=403, Top=283, Right=450, Bottom=321
+
+RAW 799 car  Left=532, Top=282, Right=598, Bottom=316
+
+RAW 800 car  Left=400, Top=283, Right=451, Bottom=320
+
+RAW 800 car  Left=533, Top=282, Right=596, Bottom=317
+
+RAW 801 car  Left=531, Top=281, Right=595, Bottom=317
+
+RAW 801 car  Left=399, Top=283, Right=451, Bottom=322
+
+RAW 802 car  Left=710, Top=278, Right=852, Bottom=374
+
+RAW 802 car  Left=532, Top=285, Right=592, Bottom=317
+
+RAW 802 car  Left=395, Top=284, Right=448, Bottom=321
+
+RAW 803 car  Left=395, Top=283, Right=447, Bottom=320
+
+RAW 803 car  Left=528, Top=279, Right=594, Bottom=317
+
+RAW 804 car  Left=528, Top=278, Right=595, Bottom=316
+
+RAW 804 car  Left=383, Top=282, Right=441, Bottom=321
+
+RAW 805 car  Left=384, Top=280, Right=442, Bottom=320
+
+RAW 805 car  Left=526, Top=282, Right=591, Bottom=317
+
+RAW 806 car  Left=385, Top=280, Right=441, Bottom=320
+
+RAW 806 car  Left=527, Top=283, Right=575, Bottom=315
+
+RAW 807 car  Left=383, Top=282, Right=443, Bottom=321
+
+RAW 807 car  Left=525, Top=277, Right=580, Bottom=317
+
+RAW 808 car  Left=524, Top=281, Right=581, Bottom=316
+
+RAW 809 car  Left=523, Top=282, Right=582, Bottom=315
+
+RAW 809 car  Left=377, Top=279, Right=440, Bottom=321
+
+RAW 810 car  Left=376, Top=280, Right=439, Bottom=321
+
+RAW 810 car  Left=522, Top=283, Right=580, Bottom=315
+
+RAW 811 car  Left=522, Top=278, Right=582, Bottom=315
+
+RAW 811 car  Left=376, Top=281, Right=438, Bottom=321
+
+RAW 812 car  Left=370, Top=277, Right=433, Bottom=320
+
+RAW 812 car  Left=521, Top=278, Right=582, Bottom=316
+
+RAW 813 car  Left=367, Top=277, Right=431, Bottom=320
+
+RAW 813 car  Left=520, Top=278, Right=579, Bottom=314
+
+RAW 814 car  Left=519, Top=281, Right=578, Bottom=315
+
+RAW 814 car  Left=365, Top=276, Right=430, Bottom=321
+
+RAW 815 car  Left=362, Top=278, Right=428, Bottom=323
+
+RAW 815 car  Left=516, Top=277, Right=578, Bottom=315
+
+RAW 816 car  Left=516, Top=279, Right=576, Bottom=315
+
+RAW 816 car  Left=360, Top=279, Right=429, Bottom=321
+
+RAW 817 car  Left=358, Top=279, Right=431, Bottom=322
+
+RAW 817 car  Left=513, Top=273, Right=578, Bottom=317
+
+RAW 818 car  Left=356, Top=279, Right=430, Bottom=321
+
+RAW 818 car  Left=510, Top=277, Right=571, Bottom=316
+
+RAW 819 car  Left=356, Top=280, Right=431, Bottom=323
+
+RAW 819 car  Left=511, Top=281, Right=569, Bottom=316
+
+RAW 820 car  Left=510, Top=281, Right=568, Bottom=317
+
+RAW 820 car  Left=352, Top=278, Right=422, Bottom=322
+
+RAW 821 car  Left=510, Top=280, Right=569, Bottom=316
+
+RAW 821 car  Left=350, Top=280, Right=423, Bottom=324
+
+RAW 822 car  Left=507, Top=280, Right=567, Bottom=317
+
+RAW 822 car  Left=347, Top=279, Right=422, Bottom=327
+
+RAW 823 car  Left=348, Top=281, Right=420, Bottom=327
+
+RAW 823 car  Left=509, Top=282, Right=564, Bottom=318
+
+RAW 824 car  Left=508, Top=279, Right=566, Bottom=319
+
+RAW 824 car  Left=346, Top=280, Right=419, Bottom=328
+
+RAW 825 car  Left=506, Top=281, Right=564, Bottom=318
+
+RAW 826 car  Left=338, Top=281, Right=414, Bottom=329
+
+RAW 826 car  Left=506, Top=278, Right=563, Bottom=318
+
+RAW 827 car  Left=506, Top=283, Right=559, Bottom=317
+
+RAW 827 car  Left=337, Top=280, Right=414, Bottom=330
+
+RAW 828 car  Left=505, Top=287, Right=551, Bottom=317
+
+RAW 828 car  Left=334, Top=282, Right=415, Bottom=329
+
+RAW 829 car  Left=503, Top=287, Right=552, Bottom=317
+
+RAW 829 car  Left=320, Top=278, Right=416, Bottom=330
+
+RAW 830 car  Left=502, Top=284, Right=555, Bottom=318
+
+RAW 830 car  Left=331, Top=280, Right=412, Bottom=328
+
+RAW 831 car  Left=502, Top=277, Right=554, Bottom=317
+
+RAW 831 car  Left=331, Top=280, Right=409, Bottom=328
+
+RAW 832 car  Left=500, Top=279, Right=553, Bottom=317
+
+RAW 832 car  Left=326, Top=277, Right=411, Bottom=326
+
+RAW 833 car  Left=500, Top=281, Right=553, Bottom=314
+
+RAW 833 car  Left=323, Top=275, Right=410, Bottom=327
+
+RAW 834 car  Left=499, Top=281, Right=550, Bottom=313
+
+RAW 834 car  Left=321, Top=271, Right=408, Bottom=325
+
+RAW 835 car  Left=498, Top=269, Right=549, Bottom=309
+
+RAW 835 car  Left=322, Top=271, Right=408, Bottom=323
+
+RAW 836 car  Left=497, Top=269, Right=548, Bottom=307
+
+RAW 836 car  Left=319, Top=269, Right=406, Bottom=323
+
+RAW 837 car  Left=500, Top=270, Right=547, Bottom=304
+
+RAW 837 car  Left=316, Top=266, Right=406, Bottom=318
+
+RAW 838 car  Left=498, Top=265, Right=548, Bottom=302
+
+RAW 838 car  Left=317, Top=264, Right=406, Bottom=316
+
+RAW 839 car  Left=497, Top=267, Right=548, Bottom=300
+
+RAW 839 car  Left=315, Top=265, Right=403, Bottom=313
+
+RAW 840 car  Left=498, Top=260, Right=545, Bottom=295
+
+RAW 840 car  Left=312, Top=259, Right=404, Bottom=309
+
+RAW 841 car  Left=497, Top=258, Right=545, Bottom=291
+
+RAW 841 car  Left=313, Top=255, Right=404, Bottom=306
+
+RAW 842 car  Left=498, Top=255, Right=545, Bottom=290
+
+RAW 842 car  Left=311, Top=252, Right=405, Bottom=303
+
+RAW 843 car  Left=310, Top=244, Right=405, Bottom=301
+
+RAW 843 car  Left=498, Top=244, Right=544, Bottom=285
+
+RAW 844 car  Left=310, Top=243, Right=402, Bottom=299
+
+RAW 844 car  Left=496, Top=244, Right=545, Bottom=283
+
+RAW 845 car  Left=498, Top=241, Right=545, Bottom=279
+
+RAW 845 car  Left=308, Top=242, Right=402, Bottom=298
+
+RAW 846 car  Left=497, Top=242, Right=546, Bottom=277
+
+RAW 846 car  Left=303, Top=238, Right=397, Bottom=294
+
+RAW 847 car  Left=498, Top=243, Right=545, Bottom=275
+
+RAW 847 car  Left=302, Top=238, Right=398, Bottom=292
+
+RAW 848 car  Left=301, Top=236, Right=398, Bottom=290
+
+RAW 848 car  Left=498, Top=241, Right=543, Bottom=275
+
+RAW 849 car  Left=299, Top=234, Right=399, Bottom=291
+
+RAW 849 car  Left=497, Top=233, Right=546, Bottom=271
+
+RAW 850 car  Left=298, Top=235, Right=397, Bottom=290
+
+RAW 850 car  Left=497, Top=232, Right=547, Bottom=271
+
+RAW 851 car  Left=297, Top=233, Right=396, Bottom=289
+
+RAW 851 car  Left=498, Top=233, Right=542, Bottom=271
+
+RAW 852 car  Left=296, Top=234, Right=395, Bottom=291
+
+RAW 852 car  Left=497, Top=232, Right=546, Bottom=271
+
+RAW 853 car  Left=292, Top=234, Right=394, Bottom=291
+
+RAW 853 car  Left=497, Top=229, Right=534, Bottom=270
+
+RAW 854 car  Left=292, Top=236, Right=396, Bottom=293
+
+RAW 855 car  Left=292, Top=236, Right=393, Bottom=294
+
+RAW 855 car  Left=499, Top=240, Right=539, Bottom=275
+
+RAW 856 car  Left=290, Top=242, Right=395, Bottom=298
+
+RAW 856 car  Left=498, Top=241, Right=541, Bottom=276
+
+RAW 857 car  Left=289, Top=242, Right=392, Bottom=299
+
+RAW 857 car  Left=498, Top=245, Right=540, Bottom=277
+
+RAW 858 car  Left=288, Top=242, Right=396, Bottom=302
+
+RAW 858 car  Left=496, Top=245, Right=534, Bottom=280
+
+RAW 859 car  Left=290, Top=245, Right=394, Bottom=306
+
+RAW 859 car  Left=497, Top=247, Right=540, Bottom=283
+
+RAW 860 car  Left=739, Top=244, Right=959, Bottom=401
+
+RAW 860 car  Left=497, Top=255, Right=536, Bottom=287
+
+RAW 860 car  Left=288, Top=249, Right=391, Bottom=308
+
+RAW 861 car  Left=745, Top=243, Right=958, Bottom=405
+
+RAW 861 car  Left=289, Top=253, Right=392, Bottom=311
+
+RAW 861 car  Left=498, Top=257, Right=541, Bottom=290
+
+RAW 862 car  Left=288, Top=258, Right=386, Bottom=317
+
+RAW 862 car  Left=496, Top=260, Right=535, Bottom=293
+
+RAW 862 car  Left=756, Top=257, Right=959, Bottom=401
+
+RAW 863 car  Left=755, Top=256, Right=959, Bottom=412
+
+RAW 863 car  Left=288, Top=260, Right=390, Bottom=321
+
+RAW 863 car  Left=495, Top=258, Right=536, Bottom=296
+
+RAW 864 car  Left=284, Top=264, Right=388, Bottom=327
+
+RAW 864 car  Left=499, Top=270, Right=539, Bottom=302
+
+RAW 864 car  Left=757, Top=260, Right=959, Bottom=416
+
+RAW 865 car  Left=282, Top=265, Right=391, Bottom=330
+
+RAW 865 car  Left=497, Top=271, Right=541, Bottom=304
+
+RAW 865 car  Left=756, Top=271, Right=959, Bottom=427
+
+RAW 866 car  Left=283, Top=271, Right=391, Bottom=333
+
+RAW 866 car  Left=496, Top=275, Right=535, Bottom=309
+
+RAW 866 car  Left=757, Top=270, Right=959, Bottom=433
+
+RAW 867 car  Left=758, Top=257, Right=959, Bottom=424
+
+RAW 867 car  Left=283, Top=274, Right=389, Bottom=338
+
+RAW 867 car  Left=497, Top=280, Right=535, Bottom=313
+
+RAW 868 car  Left=281, Top=280, Right=387, Bottom=341
+
+RAW 868 car  Left=497, Top=282, Right=541, Bottom=317
+
+RAW 869 car  Left=281, Top=284, Right=386, Bottom=344
+
+RAW 869 car  Left=496, Top=284, Right=535, Bottom=318
+
+RAW 870 car  Left=757, Top=276, Right=959, Bottom=445
+
+RAW 870 car  Left=499, Top=286, Right=539, Bottom=319
+
+RAW 870 car  Left=279, Top=286, Right=385, Bottom=346
+
+RAW 871 car  Left=275, Top=289, Right=391, Bottom=352
+
+RAW 871 car  Left=498, Top=293, Right=540, Bottom=323
+
+RAW 872 car  Left=275, Top=287, Right=390, Bottom=353
+
+RAW 872 car  Left=496, Top=291, Right=541, Bottom=327
+
+RAW 873 car  Left=273, Top=287, Right=392, Bottom=355
+
+RAW 873 car  Left=497, Top=289, Right=541, Bottom=327
+
+RAW 874 car  Left=259, Top=289, Right=383, Bottom=353
+
+RAW 874 car  Left=498, Top=292, Right=540, Bottom=326
+
+RAW 874 car  Left=769, Top=276, Right=959, Bottom=454
+
+RAW 875 car  Left=769, Top=273, Right=959, Bottom=456
+
+RAW 875 car  Left=261, Top=289, Right=384, Bottom=353
+
+RAW 875 car  Left=498, Top=293, Right=540, Bottom=326
+
+RAW 876 car  Left=259, Top=289, Right=383, Bottom=352
+
+RAW 876 car  Left=498, Top=286, Right=539, Bottom=320
+
+RAW 876 car  Left=773, Top=275, Right=959, Bottom=454
+
+RAW 877 car  Left=777, Top=273, Right=957, Bottom=461
+
+RAW 877 car  Left=260, Top=288, Right=384, Bottom=353
+
+RAW 877 car  Left=499, Top=294, Right=539, Bottom=323
+
+RAW 878 car  Left=776, Top=272, Right=958, Bottom=453
+
+RAW 878 car  Left=263, Top=285, Right=385, Bottom=350
+
+RAW 878 car  Left=497, Top=286, Right=535, Bottom=321
+
+RAW 879 car  Left=498, Top=290, Right=534, Bottom=318
+
+RAW 879 car  Left=259, Top=284, Right=382, Bottom=349
+
+RAW 879 car  Left=783, Top=273, Right=958, Bottom=459
+
+RAW 880 car  Left=497, Top=282, Right=535, Bottom=316
+
+RAW 880 car  Left=260, Top=284, Right=380, Bottom=347
+
+RAW 881 car  Left=258, Top=283, Right=381, Bottom=347
+
+RAW 881 car  Left=497, Top=284, Right=533, Bottom=315
+
+RAW 882 car  Left=258, Top=281, Right=381, Bottom=346
+
+RAW 882 car  Left=496, Top=283, Right=535, Bottom=314
+
+RAW 883 car  Left=795, Top=269, Right=956, Bottom=458
+
+RAW 883 car  Left=258, Top=278, Right=380, Bottom=346
+
+RAW 883 car  Left=496, Top=278, Right=535, Bottom=313
+
+RAW 884 car  Left=259, Top=276, Right=380, Bottom=345
+
+RAW 884 car  Left=497, Top=280, Right=535, Bottom=311
+
+RAW 884 car  Left=798, Top=269, Right=955, Bottom=454
+
+RAW 885 car  Left=498, Top=280, Right=534, Bottom=311
+
+RAW 885 car  Left=258, Top=274, Right=377, Bottom=344
+
+RAW 885 car  Left=798, Top=265, Right=954, Bottom=456
+
+RAW 886 car  Left=496, Top=274, Right=535, Bottom=308
+
+RAW 886 car  Left=255, Top=273, Right=376, Bottom=342
+
+RAW 887 car  Left=496, Top=274, Right=534, Bottom=307
+
+RAW 887 car  Left=254, Top=271, Right=377, Bottom=342
+
+RAW 888 car  Left=495, Top=270, Right=536, Bottom=307
+
+RAW 888 car  Left=252, Top=272, Right=375, Bottom=342
+
+RAW 889 car  Left=811, Top=262, Right=957, Bottom=459
+
+RAW 889 car  Left=494, Top=275, Right=535, Bottom=305
+
+RAW 889 car  Left=254, Top=272, Right=376, Bottom=342
+
+RAW 890 car  Left=811, Top=263, Right=958, Bottom=459
+
+RAW 890 car  Left=252, Top=270, Right=377, Bottom=340
+
+RAW 890 car  Left=494, Top=270, Right=536, Bottom=304
+
+RAW 891 car  Left=248, Top=272, Right=374, Bottom=340
+
+RAW 891 car  Left=495, Top=272, Right=535, Bottom=304
+
+RAW 892 car  Left=247, Top=270, Right=373, Bottom=341
+
+RAW 892 car  Left=495, Top=272, Right=535, Bottom=304
+
+RAW 893 car  Left=244, Top=270, Right=375, Bottom=341
+
+RAW 893 car  Left=494, Top=270, Right=534, Bottom=304
+
+RAW 893 car  Left=813, Top=265, Right=957, Bottom=451
+
+RAW 894 car  Left=811, Top=266, Right=957, Bottom=453
+
+RAW 894 car  Left=238, Top=270, Right=377, Bottom=343
+
+RAW 894 car  Left=493, Top=270, Right=535, Bottom=304
+
+RAW 895 car  Left=815, Top=269, Right=958, Bottom=453
+
+RAW 895 car  Left=495, Top=274, Right=535, Bottom=303
+
+RAW 895 car  Left=238, Top=273, Right=377, Bottom=343
+
+RAW 896 car  Left=492, Top=273, Right=536, Bottom=305
+
+RAW 896 car  Left=238, Top=273, Right=374, Bottom=342
+
+RAW 896 car  Left=816, Top=269, Right=957, Bottom=450
+
+RAW 897 car  Left=817, Top=268, Right=958, Bottom=448
+
+RAW 897 car  Left=493, Top=273, Right=536, Bottom=304
+
+RAW 897 car  Left=229, Top=270, Right=369, Bottom=345
+
+RAW 898 car  Left=220, Top=273, Right=375, Bottom=345
+
+RAW 898 car  Left=494, Top=273, Right=535, Bottom=304
+
+RAW 898 car  Left=820, Top=273, Right=957, Bottom=446
+
+RAW 899 car  Left=226, Top=274, Right=372, Bottom=346
+
+RAW 899 car  Left=492, Top=272, Right=535, Bottom=305
+
+RAW 899 car  Left=820, Top=271, Right=957, Bottom=447
+
+RAW 900 car  Left=842, Top=255, Right=956, Bottom=455
+
+RAW 900 car  Left=223, Top=274, Right=372, Bottom=348
+
+RAW 900 car  Left=495, Top=274, Right=535, Bottom=306
+
+RAW 901 car  Left=227, Top=277, Right=370, Bottom=350
+
+RAW 901 car  Left=495, Top=272, Right=533, Bottom=308
+
+RAW 901 car  Left=846, Top=256, Right=957, Bottom=458
+
+RAW 902 car  Left=494, Top=273, Right=534, Bottom=308
+
+RAW 902 car  Left=224, Top=277, Right=369, Bottom=351
+
+RAW 902 car  Left=850, Top=257, Right=959, Bottom=459
+
+RAW 903 car  Left=862, Top=260, Right=959, Bottom=461
+
+RAW 903 car  Left=222, Top=279, Right=369, Bottom=352
+
+RAW 903 car  Left=495, Top=275, Right=534, Bottom=309
+
+RAW 904 car  Left=223, Top=276, Right=369, Bottom=355
+
+RAW 904 car  Left=496, Top=275, Right=534, Bottom=309
+
+RAW 904 car  Left=864, Top=266, Right=958, Bottom=453
+
+RAW 905 car  Left=219, Top=286, Right=369, Bottom=355
+
+RAW 905 car  Left=496, Top=280, Right=535, Bottom=311
+
+RAW 905 car  Left=866, Top=263, Right=957, Bottom=458
+
+RAW 906 car  Left=221, Top=285, Right=369, Bottom=357
+
+RAW 906 car  Left=495, Top=279, Right=533, Bottom=311
+
+RAW 906 car  Left=872, Top=262, Right=956, Bottom=461
+
+RAW 907 car  Left=222, Top=285, Right=367, Bottom=357
+
+RAW 907 car  Left=876, Top=261, Right=956, Bottom=461
+
+RAW 907 car  Left=494, Top=279, Right=534, Bottom=313
+
+RAW 908 car  Left=218, Top=286, Right=368, Bottom=357
+
+RAW 908 car  Left=495, Top=279, Right=535, Bottom=312
+
+RAW 908 car  Left=882, Top=262, Right=957, Bottom=463
+
+RAW 909 car  Left=218, Top=285, Right=367, Bottom=358
+
+RAW 909 car  Left=888, Top=262, Right=957, Bottom=464
+
+RAW 909 car  Left=496, Top=273, Right=533, Bottom=310
+
+RAW 910 car  Left=217, Top=286, Right=366, Bottom=358
+
+RAW 910 car  Left=893, Top=261, Right=958, Bottom=459
+
+RAW 910 car  Left=497, Top=274, Right=534, Bottom=308
+
+RAW 911 car  Left=215, Top=286, Right=366, Bottom=359
+
+RAW 911 car  Left=897, Top=265, Right=959, Bottom=458
+
+RAW 911 car  Left=498, Top=283, Right=543, Bottom=312
+
+RAW 912 car  Left=215, Top=286, Right=367, Bottom=359
+
+RAW 912 car  Left=900, Top=266, Right=958, Bottom=457
+
+RAW 912 car  Left=496, Top=281, Right=543, Bottom=313
+
+RAW 913 car  Left=213, Top=285, Right=368, Bottom=361
+
+RAW 913 car  Left=906, Top=265, Right=956, Bottom=459
+
+RAW 913 car  Left=501, Top=280, Right=541, Bottom=312
+
+RAW 914 car  Left=215, Top=285, Right=370, Bottom=361
+
+RAW 914 car  Left=502, Top=283, Right=542, Bottom=311
+
+RAW 914 car  Left=907, Top=266, Right=957, Bottom=458
+
+RAW 915 car  Left=215, Top=285, Right=371, Bottom=360
+
+RAW 915 car  Left=500, Top=273, Right=543, Bottom=308
+
+RAW 915 car  Left=923, Top=263, Right=959, Bottom=453
+
+RAW 916 car  Left=214, Top=285, Right=372, Bottom=360
+
+RAW 916 car  Left=503, Top=276, Right=544, Bottom=308
+
+RAW 916 car  Left=931, Top=275, Right=959, Bottom=436
+
+RAW 917 car  Left=212, Top=284, Right=376, Bottom=361
+
+RAW 917 car  Left=503, Top=276, Right=546, Bottom=308
+
+RAW 917 car  Left=930, Top=283, Right=959, Bottom=431
+
+RAW 918 car  Left=212, Top=284, Right=375, Bottom=361
+
+RAW 918 car  Left=505, Top=275, Right=547, Bottom=308
+
+RAW 918 car  Left=932, Top=299, Right=958, Bottom=409
+
+RAW 919 car  Left=213, Top=284, Right=375, Bottom=361
+
+RAW 919 car  Left=509, Top=274, Right=548, Bottom=309
+
+RAW 920 car  Left=212, Top=284, Right=375, Bottom=361
+
+RAW 920 car  Left=511, Top=273, Right=552, Bottom=306
+
+RAW 921 car  Left=212, Top=284, Right=376, Bottom=362
+
+RAW 921 car  Left=511, Top=269, Right=553, Bottom=305
+
+RAW 922 car  Left=212, Top=284, Right=376, Bottom=361
+
+RAW 922 car  Left=512, Top=272, Right=558, Bottom=306
+
+RAW 923 car  Left=213, Top=284, Right=376, Bottom=362
+
+RAW 923 car  Left=514, Top=273, Right=557, Bottom=305
+
+RAW 924 car  Left=213, Top=284, Right=379, Bottom=362
+
+RAW 924 car  Left=513, Top=269, Right=559, Bottom=305
+
+RAW 925 car  Left=516, Top=273, Right=560, Bottom=304
+
+RAW 925 car  Left=208, Top=280, Right=380, Bottom=367
+
+RAW 926 car  Left=207, Top=280, Right=383, Bottom=366
+
+RAW 926 car  Left=520, Top=271, Right=562, Bottom=304
+
+RAW 927 car  Left=211, Top=282, Right=383, Bottom=368
+
+RAW 927 car  Left=522, Top=273, Right=560, Bottom=304
+
+RAW 928 car  Left=207, Top=281, Right=382, Bottom=367
+
+RAW 928 car  Left=525, Top=267, Right=567, Bottom=304
+
+RAW 929 car  Left=225, Top=283, Right=391, Bottom=365
+
+RAW 929 car  Left=527, Top=276, Right=569, Bottom=304
+
+RAW 930 car  Left=224, Top=282, Right=392, Bottom=366
+
+RAW 930 car  Left=530, Top=273, Right=572, Bottom=303
+
+RAW 931 car  Left=228, Top=283, Right=395, Bottom=365
+
+RAW 931 car  Left=532, Top=271, Right=575, Bottom=303
+
+RAW 932 car  Left=224, Top=280, Right=399, Bottom=370
+
+RAW 932 car  Left=536, Top=274, Right=577, Bottom=304
+
+RAW 933 car  Left=229, Top=282, Right=404, Bottom=370
+
+RAW 933 car  Left=541, Top=272, Right=582, Bottom=303
+
+RAW 934 car  Left=227, Top=283, Right=410, Bottom=369
+
+RAW 934 car  Left=544, Top=274, Right=585, Bottom=303
+
+RAW 935 car  Left=230, Top=282, Right=414, Bottom=371
+
+RAW 935 car  Left=548, Top=274, Right=591, Bottom=303
+
+RAW 936 car  Left=230, Top=284, Right=420, Bottom=370
+
+RAW 936 car  Left=550, Top=271, Right=592, Bottom=302
+
+RAW 937 car  Left=236, Top=284, Right=421, Bottom=371
+
+RAW 937 car  Left=553, Top=275, Right=595, Bottom=303
+
+RAW 938 car  Left=239, Top=282, Right=423, Bottom=372
+
+RAW 938 car  Left=559, Top=273, Right=597, Bottom=304
+
+RAW 939 car  Left=243, Top=281, Right=424, Bottom=372
+
+RAW 939 car  Left=561, Top=272, Right=602, Bottom=303
+
+RAW 940 car  Left=244, Top=285, Right=426, Bottom=373
+
+RAW 940 car  Left=566, Top=272, Right=606, Bottom=303
+
+RAW 941 car  Left=255, Top=285, Right=426, Bottom=374
+
+RAW 941 car  Left=571, Top=273, Right=610, Bottom=303
+
+RAW 942 car  Left=259, Top=287, Right=433, Bottom=375
+
+RAW 942 car  Left=574, Top=272, Right=615, Bottom=303
+
+RAW 943 car  Left=254, Top=289, Right=434, Bottom=375
+
+RAW 943 car  Left=578, Top=273, Right=620, Bottom=303
+
+RAW 944 car  Left=260, Top=287, Right=436, Bottom=379
+
+RAW 944 car  Left=584, Top=272, Right=622, Bottom=303
+
+RAW 945 car  Left=264, Top=289, Right=449, Bottom=381
+
+RAW 945 car  Left=587, Top=275, Right=629, Bottom=304
+
+RAW 946 car  Left=262, Top=288, Right=455, Bottom=383
+
+RAW 946 car  Left=592, Top=274, Right=630, Bottom=303
+
+RAW 947 car  Left=269, Top=291, Right=458, Bottom=382
+
+RAW 947 car  Left=596, Top=273, Right=638, Bottom=304
+
+RAW 948 car  Left=274, Top=291, Right=464, Bottom=381
+
+RAW 948 car  Left=601, Top=272, Right=640, Bottom=302
+
+RAW 949 car  Left=277, Top=289, Right=470, Bottom=382
+
+RAW 949 car  Left=607, Top=272, Right=646, Bottom=302
+
+RAW 950 car  Left=278, Top=290, Right=476, Bottom=383
+
+RAW 950 car  Left=610, Top=274, Right=654, Bottom=302
+
+RAW 951 car  Left=280, Top=291, Right=478, Bottom=381
+
+RAW 951 car  Left=616, Top=270, Right=656, Bottom=302
+
+RAW 952 car  Left=288, Top=291, Right=481, Bottom=382
+
+RAW 952 car  Left=623, Top=272, Right=660, Bottom=301
+
+RAW 953 car  Left=296, Top=289, Right=491, Bottom=388
+
+RAW 953 car  Left=625, Top=273, Right=669, Bottom=301
+
+RAW 954 car  Left=303, Top=289, Right=493, Bottom=386
+
+RAW 954 car  Left=633, Top=271, Right=672, Bottom=302
+
+RAW 955 car  Left=304, Top=289, Right=494, Bottom=386
+
+RAW 955 car  Left=640, Top=271, Right=678, Bottom=302
+
+RAW 956 car  Left=310, Top=288, Right=510, Bottom=388
+
+RAW 956 car  Left=642, Top=270, Right=685, Bottom=301
+
+RAW 957 car  Left=314, Top=289, Right=521, Bottom=388
+
+RAW 957 car  Left=649, Top=271, Right=691, Bottom=302
+
+RAW 958 car  Left=318, Top=289, Right=522, Bottom=388
+
+RAW 958 car  Left=655, Top=272, Right=695, Bottom=302
+
+RAW 959 car  Left=320, Top=290, Right=531, Bottom=388
+
+RAW 959 car  Left=663, Top=273, Right=703, Bottom=301
+
+RAW 960 car  Left=326, Top=289, Right=538, Bottom=389
+
+RAW 960 car  Left=667, Top=272, Right=708, Bottom=301
+
+RAW 961 car  Left=332, Top=287, Right=547, Bottom=392
+
+RAW 961 car  Left=673, Top=273, Right=712, Bottom=301
+
+RAW 962 car  Left=337, Top=290, Right=552, Bottom=390
+
+RAW 962 car  Left=680, Top=271, Right=718, Bottom=301
+
+RAW 963 car  Left=335, Top=289, Right=563, Bottom=390
+
+RAW 963 car  Left=684, Top=271, Right=725, Bottom=301
+
+RAW 964 car  Left=353, Top=287, Right=574, Bottom=392
+
+RAW 964 car  Left=689, Top=271, Right=734, Bottom=300
+
+RAW 965 car  Left=357, Top=288, Right=580, Bottom=393
+
+RAW 965 car  Left=699, Top=272, Right=736, Bottom=302
+
+RAW 966 car  Left=363, Top=288, Right=585, Bottom=393
+
+RAW 966 car  Left=705, Top=272, Right=742, Bottom=302
+
+RAW 967 car  Left=357, Top=285, Right=604, Bottom=398
+
+RAW 967 car  Left=710, Top=271, Right=748, Bottom=301
+
+RAW 968 car  Left=367, Top=292, Right=607, Bottom=403
+
+RAW 968 car  Left=716, Top=272, Right=758, Bottom=302
+
+RAW 969 car  Left=372, Top=291, Right=615, Bottom=405
+
+RAW 969 car  Left=720, Top=270, Right=765, Bottom=302
+
+RAW 970 car  Left=372, Top=289, Right=628, Bottom=407
+
+RAW 970 car  Left=730, Top=273, Right=769, Bottom=302
+
+RAW 970 car  Left=770, Top=266, Right=791, Bottom=281
+
+RAW 971 car  Left=387, Top=290, Right=637, Bottom=406
+
+RAW 971 car  Left=737, Top=271, Right=775, Bottom=302
+
+RAW 971 car  Left=779, Top=265, Right=798, Bottom=282
+
+RAW 972 car  Left=393, Top=292, Right=641, Bottom=405
+
+RAW 972 car  Left=744, Top=272, Right=783, Bottom=302
+
+RAW 973 car  Left=401, Top=293, Right=652, Bottom=408
+
+RAW 973 car  Left=747, Top=272, Right=789, Bottom=303
+
+RAW 974 car  Left=403, Top=290, Right=660, Bottom=413
+
+RAW 974 car  Left=753, Top=273, Right=800, Bottom=303
+
+RAW 975 car  Left=407, Top=288, Right=674, Bottom=413
+
+RAW 975 car  Left=762, Top=273, Right=808, Bottom=303
+
+RAW 976 car  Left=402, Top=288, Right=688, Bottom=413
+
+RAW 976 car  Left=766, Top=272, Right=814, Bottom=303
+
+RAW 977 car  Left=431, Top=284, Right=693, Bottom=417
+
+RAW 977 car  Left=776, Top=272, Right=824, Bottom=302
+
+RAW 978 car  Left=432, Top=287, Right=703, Bottom=419
+
+RAW 978 car  Left=783, Top=273, Right=827, Bottom=302
+
+RAW 979 car  Left=436, Top=288, Right=716, Bottom=418
+
+RAW 979 car  Left=792, Top=274, Right=834, Bottom=302
+
+RAW 980 car  Left=446, Top=288, Right=726, Bottom=418
+
+RAW 980 car  Left=802, Top=274, Right=842, Bottom=302
+
+RAW 981 car  Left=453, Top=288, Right=743, Bottom=418
+
+RAW 981 car  Left=810, Top=273, Right=849, Bottom=302
+
+RAW 982 car  Left=448, Top=290, Right=752, Bottom=419
+
+RAW 982 car  Left=817, Top=272, Right=856, Bottom=302
+
+RAW 983 car  Left=468, Top=288, Right=765, Bottom=419
+
+RAW 983 car  Left=824, Top=272, Right=863, Bottom=302
+
+RAW 984 car  Left=483, Top=288, Right=774, Bottom=425
+
+RAW 984 car  Left=832, Top=273, Right=871, Bottom=302
+
+RAW 984 car  Left=0, Top=276, Right=45, Bottom=348
+
+RAW 985 car  Left=482, Top=285, Right=786, Bottom=422
+
+RAW 985 car  Left=839, Top=270, Right=881, Bottom=302
+
+RAW 985 car  Left=0, Top=289, Right=61, Bottom=338
+
+RAW 986 car  Left=483, Top=283, Right=801, Bottom=424
+
+RAW 986 car  Left=848, Top=270, Right=887, Bottom=302
+
+RAW 987 car  Left=488, Top=283, Right=812, Bottom=424
+
+RAW 987 car  Left=856, Top=271, Right=896, Bottom=302
+
+RAW 988 car  Left=501, Top=280, Right=829, Bottom=427
+
+RAW 988 car  Left=862, Top=271, Right=902, Bottom=302
+
+RAW 989 car  Left=521, Top=281, Right=835, Bottom=428
+
+RAW 989 car  Left=874, Top=268, Right=914, Bottom=301
+
+RAW 990 car  Left=526, Top=282, Right=855, Bottom=432
+
+RAW 990 car  Left=880, Top=270, Right=926, Bottom=301
+
+RAW 991 car  Left=522, Top=285, Right=873, Bottom=436
+
+RAW 991 car  Left=891, Top=269, Right=933, Bottom=301
+
+RAW 992 car  Left=529, Top=278, Right=898, Bottom=436
+
+RAW 992 car  Left=897, Top=268, Right=940, Bottom=300
+
+RAW 993 car  Left=554, Top=284, Right=897, Bottom=442
+
+RAW 993 car  Left=905, Top=269, Right=951, Bottom=300
+
+RAW 994 car  Left=560, Top=283, Right=925, Bottom=442
+
+RAW 994 car  Left=914, Top=268, Right=957, Bottom=300
+
+RAW 995 car  Left=563, Top=284, Right=933, Bottom=443
+
+RAW 995 car  Left=922, Top=267, Right=958, Bottom=299
+
+RAW 996 car  Left=581, Top=276, Right=945, Bottom=453
+
+RAW 997 car  Left=592, Top=278, Right=954, Bottom=452
+
+RAW 998 car  Left=607, Top=278, Right=953, Bottom=455
+
+RAW 999 car  Left=609, Top=281, Right=957, Bottom=461
+
+RAW 1000 car  Left=621, Top=285, Right=959, Bottom=464
+
+RAW 1001 car  Left=626, Top=286, Right=959, Bottom=471
+
+RAW 1002 car  Left=622, Top=289, Right=959, Bottom=477
+
+RAW 1003 car  Left=633, Top=290, Right=959, Bottom=477
+
+RAW 1004 car  Left=664, Top=288, Right=959, Bottom=475
+
+RAW 1005 car  Left=668, Top=282, Right=959, Bottom=472
+
+RAW 1006 car  Left=680, Top=284, Right=959, Bottom=478
+
+RAW 1007 car  Left=687, Top=286, Right=959, Bottom=477
+
+RAW 1008 car  Left=694, Top=282, Right=959, Bottom=480
+
+RAW 1009 car  Left=718, Top=293, Right=959, Bottom=466
+
+RAW 1010 car  Left=722, Top=294, Right=957, Bottom=469
+
+RAW 1012 car  Left=747, Top=287, Right=957, Bottom=476
+
+RAW 1013 car  Left=766, Top=279, Right=957, Bottom=477
+
+RAW 1014 car  Left=773, Top=280, Right=955, Bottom=476
+
+RAW 1015 car  Left=781, Top=281, Right=956, Bottom=482
+
+RAW 1016 car  Left=796, Top=285, Right=957, Bottom=479
+
+RAW 1018 car  Left=811, Top=291, Right=959, Bottom=485
+
+RAW 1019 car  Left=847, Top=275, Right=958, Bottom=498
+
+RAW 1020 car  Left=866, Top=284, Right=958, Bottom=494
+
+RAW 1126 car  Left=710, Top=337, Right=773, Bottom=434
+
+RAW 1127 car  Left=716, Top=339, Right=782, Bottom=436
+
+RAW 1128 car  Left=730, Top=343, Right=792, Bottom=433
+
+RAW 1130 car  Left=742, Top=345, Right=815, Bottom=431
+
+RAW 1132 car  Left=761, Top=345, Right=841, Bottom=455
+
+RAW 1133 car  Left=771, Top=348, Right=849, Bottom=455
+
+RAW 1134 car  Left=779, Top=348, Right=864, Bottom=456
+
+RAW 1440 car  Left=607, Top=252, Right=665, Bottom=265
+
+RAW 1475 car  Left=487, Top=273, Right=529, Bottom=306
+
+RAW 1521 car  Left=500, Top=270, Right=546, Bottom=304
+
+RAW 1552 car  Left=501, Top=268, Right=548, Bottom=308
+
+RAW 1618 car  Left=519, Top=263, Right=572, Bottom=310
+
+RAW 1619 car  Left=519, Top=265, Right=570, Bottom=310
+
+RAW 1619 car  Left=666, Top=278, Right=712, Bottom=316
+
+RAW 1620 car  Left=709, Top=275, Right=833, Bottom=320
+
+RAW 1620 car  Left=518, Top=264, Right=564, Bottom=310
+
+RAW 1620 car  Left=667, Top=278, Right=712, Bottom=316
+
+RAW 1621 car  Left=222, Top=272, Right=308, Bottom=330
+
+RAW 1621 car  Left=520, Top=264, Right=571, Bottom=311
+
+RAW 1622 car  Left=518, Top=263, Right=573, Bottom=311
+
+RAW 1622 car  Left=218, Top=266, Right=315, Bottom=331
+
+RAW 1622 car  Left=715, Top=277, Right=827, Bottom=324
+
+RAW 1623 car  Left=518, Top=265, Right=571, Bottom=311
+
+RAW 1623 car  Left=222, Top=270, Right=305, Bottom=330
+
+RAW 1624 car  Left=519, Top=265, Right=574, Bottom=311
+
+RAW 1624 car  Left=729, Top=275, Right=855, Bottom=324
+
+RAW 1625 car  Left=518, Top=266, Right=571, Bottom=313
+
+RAW 1625 car  Left=712, Top=276, Right=836, Bottom=325
+
+RAW 1626 car  Left=713, Top=275, Right=836, Bottom=325
+
+RAW 1627 car  Left=515, Top=261, Right=566, Bottom=310
+
+RAW 1627 car  Left=713, Top=276, Right=832, Bottom=323
+
+RAW 1628 car  Left=514, Top=263, Right=564, Bottom=311
+
+RAW 1630 car  Left=513, Top=263, Right=567, Bottom=312
+
+RAW 1630 car  Left=713, Top=275, Right=836, Bottom=325
+
+RAW 1631 car  Left=511, Top=263, Right=566, Bottom=311
+
+RAW 1631 car  Left=197, Top=262, Right=291, Bottom=334
+
+RAW 1632 car  Left=512, Top=262, Right=564, Bottom=310
+
+RAW 1637 car  Left=175, Top=252, Right=288, Bottom=328
+
+RAW 1639 car  Left=497, Top=260, Right=553, Bottom=308
+
+RAW 1640 car  Left=496, Top=260, Right=551, Bottom=310
+
+RAW 912 motorbike  Left=397, Top=288, Right=446, Bottom=318
+
+RAW 1578 bus  Left=27, Top=251, Right=253, Bottom=355
+
+RAW 1580 bus  Left=17, Top=248, Right=256, Bottom=355
+
+RAW 1581 bus  Left=27, Top=246, Right=249, Bottom=354
+
+RAW 1582 bus  Left=13, Top=249, Right=253, Bottom=358
+
+RAW 1617 bus  Left=8, Top=236, Right=213, Bottom=375
+
+RAW 1618 bus  Left=6, Top=230, Right=215, Bottom=371
+
+RAW 1620 bus  Left=4, Top=235, Right=182, Bottom=372
+
+RAW 1621 bus  Left=10, Top=235, Right=207, Bottom=376
+
+RAW 1622 bus  Left=0, Top=234, Right=189, Bottom=375
+
+RAW 1623 bus  Left=9, Top=234, Right=206, Bottom=373
+
+RAW 1624 bus  Left=0, Top=233, Right=245, Bottom=373
+
+RAW 1625 bus  Left=2, Top=236, Right=177, Bottom=374
+
+RAW 1626 bus  Left=0, Top=228, Right=230, Bottom=378
+
+RAW 1627 bus  Left=4, Top=234, Right=177, Bottom=379
+
+RAW 1628 bus  Left=0, Top=224, Right=178, Bottom=382
+
+RAW 1630 bus  Left=0, Top=226, Right=170, Bottom=389
+
+RAW 1631 bus  Left=2, Top=214, Right=164, Bottom=395
+
+RAW 1632 bus  Left=0, Top=218, Right=160, Bottom=390
+
+RAW 1633 bus  Left=0, Top=228, Right=155, Bottom=394
+
+RAW 1634 bus  Left=0, Top=227, Right=149, Bottom=396
+
+RAW 1635 bus  Left=0, Top=221, Right=150, Bottom=394
+
+RAW 1636 bus  Left=0, Top=222, Right=144, Bottom=390
+
+RAW 1637 bus  Left=0, Top=210, Right=132, Bottom=404
+
+RAW 1638 bus  Left=0, Top=204, Right=126, Bottom=408
+
+RAW 1639 bus  Left=0, Top=205, Right=126, Bottom=404
+
+RAW 1640 bus  Left=0, Top=205, Right=120, Bottom=403
+
+RAW 1641 bus  Left=0, Top=203, Right=114, Bottom=403
+
+RAW 1643 bus  Left=2, Top=186, Right=105, Bottom=383
+
+RAW 46 truck  Left=533, Top=269, Right=608, Bottom=331
+
+RAW 50 truck  Left=543, Top=267, Right=621, Bottom=337
+
+RAW 52 truck  Left=541, Top=265, Right=623, Bottom=334
+
+RAW 53 truck  Left=541, Top=264, Right=624, Bottom=335
+
+RAW 55 truck  Left=540, Top=264, Right=629, Bottom=337
+
+RAW 56 truck  Left=541, Top=262, Right=629, Bottom=337
+
+RAW 57 truck  Left=540, Top=260, Right=633, Bottom=342
+
+RAW 58 truck  Left=540, Top=261, Right=638, Bottom=341
+
+RAW 59 truck  Left=543, Top=261, Right=640, Bottom=343
+
+RAW 60 truck  Left=542, Top=263, Right=643, Bottom=343
+
+RAW 61 truck  Left=547, Top=264, Right=648, Bottom=343
+
+RAW 62 truck  Left=548, Top=262, Right=648, Bottom=347
+
+RAW 63 truck  Left=548, Top=264, Right=651, Bottom=347
+
+RAW 64 truck  Left=546, Top=264, Right=657, Bottom=348
+
+RAW 65 truck  Left=549, Top=264, Right=655, Bottom=350
+
+RAW 66 truck  Left=547, Top=264, Right=659, Bottom=351
+
+RAW 68 truck  Left=555, Top=261, Right=663, Bottom=361
+
+RAW 69 truck  Left=558, Top=263, Right=667, Bottom=360
+
+RAW 70 truck  Left=557, Top=263, Right=669, Bottom=361
+
+RAW 71 truck  Left=557, Top=272, Right=678, Bottom=369
+
+RAW 72 truck  Left=556, Top=272, Right=681, Bottom=369
+
+RAW 74 truck  Left=557, Top=269, Right=690, Bottom=373
+
+RAW 76 truck  Left=569, Top=268, Right=699, Bottom=376
+
+RAW 77 truck  Left=563, Top=269, Right=694, Bottom=374
+
+RAW 88 truck  Left=589, Top=268, Right=755, Bottom=403
+
+RAW 93 truck  Left=599, Top=263, Right=796, Bottom=418
+
+RAW 97 truck  Left=613, Top=253, Right=833, Bottom=430
+
+RAW 98 truck  Left=616, Top=259, Right=844, Bottom=423
+
+RAW 99 truck  Left=621, Top=272, Right=860, Bottom=450
+
+RAW 100 truck  Left=622, Top=270, Right=876, Bottom=460
+
+RAW 101 truck  Left=627, Top=271, Right=879, Bottom=466
+
+RAW 102 truck  Left=620, Top=273, Right=887, Bottom=470
+
+RAW 106 truck  Left=650, Top=276, Right=949, Bottom=521
+
+RAW 107 truck  Left=653, Top=269, Right=951, Bottom=529
+
+RAW 109 truck  Left=667, Top=277, Right=959, Bottom=535
+
+RAW 110 truck  Left=674, Top=275, Right=959, Bottom=535
+
+RAW 139 truck  Left=564, Top=269, Right=681, Bottom=354
+
+RAW 166 truck  Left=610, Top=307, Right=838, Bottom=471
+
+RAW 167 truck  Left=608, Top=307, Right=852, Bottom=472
+
+RAW 168 truck  Left=614, Top=304, Right=861, Bottom=474
+
+RAW 169 truck  Left=619, Top=304, Right=877, Bottom=473
+
+RAW 170 truck  Left=619, Top=294, Right=885, Bottom=473
+
+RAW 172 truck  Left=634, Top=299, Right=902, Bottom=471
+
+RAW 173 truck  Left=649, Top=294, Right=906, Bottom=467
+
+RAW 174 truck  Left=642, Top=280, Right=930, Bottom=477
+
+RAW 175 truck  Left=642, Top=279, Right=945, Bottom=474
+
+RAW 188 truck  Left=711, Top=256, Right=959, Bottom=537
+
+RAW 207 truck  Left=569, Top=267, Right=673, Bottom=350
+
+RAW 208 truck  Left=571, Top=267, Right=675, Bottom=350
+
+RAW 210 truck  Left=572, Top=267, Right=682, Bottom=353
+
+RAW 215 truck  Left=570, Top=262, Right=689, Bottom=354
+
+RAW 216 truck  Left=580, Top=261, Right=696, Bottom=359
+
+RAW 235 truck  Left=600, Top=265, Right=778, Bottom=398
+
+RAW 241 truck  Left=597, Top=270, Right=810, Bottom=425
+
+RAW 242 truck  Left=607, Top=271, Right=789, Bottom=428
+
+RAW 244 truck  Left=616, Top=266, Right=846, Bottom=439
+
+RAW 245 truck  Left=617, Top=265, Right=857, Bottom=443
+
+RAW 246 truck  Left=625, Top=265, Right=865, Bottom=447
+
+RAW 247 truck  Left=624, Top=270, Right=872, Bottom=451
+
+RAW 248 truck  Left=618, Top=266, Right=888, Bottom=451
+
+RAW 249 truck  Left=617, Top=267, Right=892, Bottom=455
+
+RAW 250 truck  Left=615, Top=264, Right=891, Bottom=463
+
+RAW 251 truck  Left=640, Top=271, Right=929, Bottom=469
+
+RAW 253 truck  Left=639, Top=272, Right=952, Bottom=483
+
+RAW 260 truck  Left=655, Top=247, Right=952, Bottom=526
+
+RAW 262 truck  Left=677, Top=272, Right=959, Bottom=537
+
+RAW 263 truck  Left=687, Top=273, Right=959, Bottom=537
+
+RAW 267 truck  Left=717, Top=281, Right=957, Bottom=537
+
+RAW 268 truck  Left=729, Top=281, Right=959, Bottom=537
+
+RAW 746 truck  Left=840, Top=261, Right=944, Bottom=332
+
+RAW 748 truck  Left=830, Top=262, Right=941, Bottom=334
+
+RAW 751 truck  Left=815, Top=264, Right=919, Bottom=340
+
+RAW 752 truck  Left=813, Top=268, Right=912, Bottom=342
+
+RAW 753 truck  Left=813, Top=270, Right=913, Bottom=342
+
+RAW 754 truck  Left=812, Top=270, Right=910, Bottom=343
+
+RAW 755 truck  Left=801, Top=267, Right=901, Bottom=341
+
+RAW 756 truck  Left=798, Top=270, Right=896, Bottom=341
+
+RAW 757 truck  Left=792, Top=267, Right=894, Bottom=342
+
+RAW 758 truck  Left=788, Top=268, Right=892, Bottom=343
+
+RAW 760 truck  Left=785, Top=267, Right=887, Bottom=343
+
+RAW 761 truck  Left=775, Top=269, Right=883, Bottom=341
+
+RAW 762 truck  Left=775, Top=264, Right=880, Bottom=340
+
+RAW 763 truck  Left=774, Top=268, Right=877, Bottom=342
+
+RAW 764 truck  Left=767, Top=266, Right=876, Bottom=342
+
+RAW 765 truck  Left=764, Top=266, Right=871, Bottom=341
+
+RAW 766 truck  Left=761, Top=263, Right=870, Bottom=344
+
+RAW 767 truck  Left=757, Top=264, Right=870, Bottom=343
+
+RAW 768 truck  Left=756, Top=262, Right=867, Bottom=344
+
+RAW 769 truck  Left=756, Top=264, Right=865, Bottom=345
+
+RAW 770 truck  Left=755, Top=264, Right=866, Bottom=345
+
+RAW 773 truck  Left=752, Top=263, Right=868, Bottom=346
+
+RAW 774 truck  Left=749, Top=267, Right=856, Bottom=343
+
+RAW 775 truck  Left=747, Top=266, Right=857, Bottom=345
+
+RAW 775 truck  Left=405, Top=270, Right=494, Bottom=302
+
+RAW 776 truck  Left=747, Top=271, Right=847, Bottom=341
+
+RAW 778 truck  Left=742, Top=265, Right=853, Bottom=349
+
+RAW 779 truck  Left=740, Top=269, Right=847, Bottom=347
+
+RAW 780 truck  Left=733, Top=264, Right=852, Bottom=349
+
+RAW 781 truck  Left=736, Top=268, Right=850, Bottom=354
+
+RAW 782 truck  Left=732, Top=267, Right=851, Bottom=353
+
+RAW 783 truck  Left=733, Top=267, Right=854, Bottom=356
+
+RAW 783 truck  Left=367, Top=260, Right=476, Bottom=307
+
+RAW 784 truck  Left=730, Top=268, Right=852, Bottom=355
+
+RAW 785 truck  Left=730, Top=265, Right=850, Bottom=360
+
+RAW 785 truck  Left=554, Top=269, Right=617, Bottom=305
+
+RAW 785 truck  Left=372, Top=250, Right=470, Bottom=307
+
+RAW 786 truck  Left=364, Top=268, Right=470, Bottom=310
+
+RAW 789 truck  Left=375, Top=279, Right=470, Bottom=314
+
+RAW 790 truck  Left=726, Top=269, Right=848, Bottom=366
+
+RAW 791 truck  Left=721, Top=274, Right=852, Bottom=370
+
+RAW 793 truck  Left=719, Top=278, Right=852, Bottom=369
+
+RAW 793 truck  Left=542, Top=271, Right=612, Bottom=314
+
+RAW 794 truck  Left=722, Top=277, Right=851, Bottom=370
+
+RAW 794 truck  Left=540, Top=277, Right=607, Bottom=314
+
+RAW 795 truck  Left=719, Top=278, Right=851, Bottom=371
+
+RAW 795 truck  Left=336, Top=255, Right=461, Bottom=321
+
+RAW 796 truck  Left=719, Top=275, Right=852, Bottom=372
+
+RAW 796 truck  Left=332, Top=254, Right=461, Bottom=321
+
+RAW 797 truck  Left=719, Top=278, Right=852, Bottom=373
+
+RAW 798 truck  Left=717, Top=276, Right=852, Bottom=375
+
+RAW 799 truck  Left=716, Top=278, Right=853, Bottom=377
+
+RAW 800 truck  Left=716, Top=280, Right=853, Bottom=376
+
+RAW 801 truck  Left=717, Top=279, Right=853, Bottom=378
+
+RAW 802 truck  Left=716, Top=279, Right=854, Bottom=376
+
+RAW 803 truck  Left=720, Top=275, Right=852, Bottom=383
+
+RAW 804 truck  Left=721, Top=274, Right=851, Bottom=384
+
+RAW 805 truck  Left=719, Top=274, Right=852, Bottom=384
+
+RAW 806 truck  Left=720, Top=278, Right=853, Bottom=385
+
+RAW 807 truck  Left=720, Top=274, Right=852, Bottom=384
+
+RAW 808 truck  Left=718, Top=277, Right=854, Bottom=382
+
+RAW 808 truck  Left=334, Top=274, Right=439, Bottom=322
+
+RAW 809 truck  Left=721, Top=272, Right=852, Bottom=385
+
+RAW 810 truck  Left=718, Top=276, Right=850, Bottom=387
+
+RAW 811 truck  Left=716, Top=274, Right=852, Bottom=385
+
+RAW 812 truck  Left=717, Top=274, Right=853, Bottom=385
+
+RAW 813 truck  Left=716, Top=270, Right=855, Bottom=387
+
+RAW 814 truck  Left=714, Top=277, Right=856, Bottom=386
+
+RAW 815 truck  Left=714, Top=274, Right=860, Bottom=390
+
+RAW 816 truck  Left=716, Top=276, Right=858, Bottom=392
+
+RAW 817 truck  Left=712, Top=280, Right=857, Bottom=389
+
+RAW 818 truck  Left=711, Top=272, Right=865, Bottom=390
+
+RAW 819 truck  Left=713, Top=275, Right=860, Bottom=391
+
+RAW 820 truck  Left=711, Top=275, Right=859, Bottom=394
+
+RAW 821 truck  Left=713, Top=279, Right=861, Bottom=394
+
+RAW 822 truck  Left=711, Top=275, Right=859, Bottom=395
+
+RAW 823 truck  Left=709, Top=278, Right=862, Bottom=395
+
+RAW 824 truck  Left=708, Top=274, Right=864, Bottom=399
+
+RAW 825 truck  Left=709, Top=274, Right=866, Bottom=399
+
+RAW 826 truck  Left=708, Top=274, Right=864, Bottom=400
+
+RAW 827 truck  Left=709, Top=277, Right=866, Bottom=399
+
+RAW 828 truck  Left=709, Top=281, Right=864, Bottom=397
+
+RAW 829 truck  Left=708, Top=278, Right=869, Bottom=398
+
+RAW 830 truck  Left=711, Top=277, Right=871, Bottom=398
+
+RAW 831 truck  Left=710, Top=270, Right=872, Bottom=401
+
+RAW 832 truck  Left=710, Top=266, Right=875, Bottom=400
+
+RAW 833 truck  Left=707, Top=267, Right=880, Bottom=398
+
+RAW 834 truck  Left=713, Top=266, Right=883, Bottom=400
+
+RAW 835 truck  Left=714, Top=267, Right=884, Bottom=403
+
+RAW 836 truck  Left=715, Top=262, Right=886, Bottom=398
+
+RAW 837 truck  Left=711, Top=262, Right=889, Bottom=394
+
+RAW 838 truck  Left=711, Top=256, Right=894, Bottom=394
+
+RAW 839 truck  Left=709, Top=251, Right=898, Bottom=393
+
+RAW 840 truck  Left=711, Top=252, Right=911, Bottom=384
+
+RAW 841 truck  Left=711, Top=247, Right=914, Bottom=384
+
+RAW 842 truck  Left=700, Top=243, Right=909, Bottom=381
+
+RAW 843 truck  Left=712, Top=242, Right=919, Bottom=375
+
+RAW 844 truck  Left=716, Top=235, Right=921, Bottom=377
+
+RAW 845 truck  Left=717, Top=222, Right=918, Bottom=360
+
+RAW 846 truck  Left=720, Top=219, Right=922, Bottom=363
+
+RAW 847 truck  Left=721, Top=218, Right=926, Bottom=363
+
+RAW 848 truck  Left=719, Top=217, Right=927, Bottom=364
+
+RAW 849 truck  Left=720, Top=218, Right=936, Bottom=364
+
+RAW 850 truck  Left=726, Top=210, Right=937, Bottom=368
+
+RAW 851 truck  Left=723, Top=215, Right=939, Bottom=365
+
+RAW 852 truck  Left=726, Top=212, Right=936, Bottom=369
+
+RAW 853 truck  Left=724, Top=211, Right=945, Bottom=370
+
+RAW 854 truck  Left=727, Top=213, Right=946, Bottom=368
+
+RAW 854 truck  Left=493, Top=230, Right=537, Bottom=272
+
+RAW 855 truck  Left=730, Top=230, Right=955, Bottom=383
+
+RAW 856 truck  Left=730, Top=231, Right=957, Bottom=385
+
+RAW 857 truck  Left=733, Top=236, Right=959, Bottom=389
+
+RAW 858 truck  Left=737, Top=232, Right=959, Bottom=392
+
+RAW 859 truck  Left=737, Top=239, Right=959, Bottom=396
+
+RAW 860 truck  Left=739, Top=244, Right=959, Bottom=401
+
+RAW 861 truck  Left=745, Top=243, Right=958, Bottom=405
+
+RAW 862 truck  Left=743, Top=253, Right=958, Bottom=405
+
+RAW 863 truck  Left=748, Top=256, Right=957, Bottom=410
+
+RAW 864 truck  Left=744, Top=267, Right=959, Bottom=426
+
+RAW 866 truck  Left=749, Top=267, Right=957, Bottom=432
+
+RAW 867 truck  Left=749, Top=266, Right=959, Bottom=435
+
+RAW 868 truck  Left=752, Top=254, Right=950, Bottom=426
+
+RAW 869 truck  Left=751, Top=279, Right=958, Bottom=441
+
+RAW 870 truck  Left=754, Top=275, Right=955, Bottom=444
+
+RAW 871 truck  Left=754, Top=277, Right=955, Bottom=448
+
+RAW 872 truck  Left=756, Top=279, Right=954, Bottom=446
+
+RAW 873 truck  Left=757, Top=278, Right=954, Bottom=447
+
+RAW 874 truck  Left=760, Top=280, Right=951, Bottom=448
+
+RAW 875 truck  Left=755, Top=278, Right=954, Bottom=448
+
+RAW 876 truck  Left=760, Top=281, Right=951, Bottom=446
+
+RAW 877 truck  Left=764, Top=280, Right=947, Bottom=450
+
+RAW 878 truck  Left=762, Top=279, Right=949, Bottom=444
+
+RAW 880 truck  Left=786, Top=270, Right=957, Bottom=457
+
+RAW 881 truck  Left=789, Top=269, Right=957, Bottom=457
+
+RAW 882 truck  Left=792, Top=270, Right=956, Bottom=456
+
+RAW 883 truck  Left=795, Top=269, Right=956, Bottom=458
+
+RAW 886 truck  Left=805, Top=262, Right=954, Bottom=463
+
+RAW 887 truck  Left=805, Top=262, Right=957, Bottom=457
+
+RAW 888 truck  Left=805, Top=260, Right=956, Bottom=460
+
+RAW 889 truck  Left=816, Top=259, Right=959, Bottom=457
+
+RAW 890 truck  Left=815, Top=260, Right=959, Bottom=452
+
+RAW 891 truck  Left=815, Top=258, Right=959, Bottom=451
+
+RAW 892 truck  Left=814, Top=256, Right=959, Bottom=447
+
+RAW 893 truck  Left=817, Top=247, Right=958, Bottom=436
+
+RAW 894 truck  Left=819, Top=257, Right=958, Bottom=451
+
+RAW 895 truck  Left=822, Top=258, Right=957, Bottom=452
+
+RAW 896 truck  Left=825, Top=247, Right=958, Bottom=437
+
+RAW 897 truck  Left=827, Top=247, Right=958, Bottom=437
+
+RAW 898 truck  Left=834, Top=243, Right=956, Bottom=440
+
+RAW 899 truck  Left=838, Top=240, Right=956, Bottom=444
+
+RAW 900 truck  Left=842, Top=240, Right=957, Bottom=444
+
+RAW 901 truck  Left=845, Top=244, Right=957, Bottom=439
+
+RAW 902 truck  Left=851, Top=242, Right=959, Bottom=440
+
+RAW 903 truck  Left=854, Top=259, Right=958, Bottom=462
+
+RAW 1007 truck  Left=490, Top=55, Right=959, Bottom=476
+
+RAW 1011 truck  Left=529, Top=59, Right=950, Bottom=473
+
+RAW 1017 truck  Left=807, Top=295, Right=957, Bottom=474
+
+RAW 1474 truck  Left=160, Top=254, Right=311, Bottom=327
+
+RAW 1475 truck  Left=151, Top=256, Right=330, Bottom=326
+
+RAW 1476 truck  Left=158, Top=256, Right=324, Bottom=327
+
+RAW 1478 truck  Left=155, Top=256, Right=321, Bottom=328
+
+RAW 1479 truck  Left=162, Top=261, Right=306, Bottom=334
+
+RAW 1480 truck  Left=154, Top=256, Right=329, Bottom=326
+
+RAW 1481 truck  Left=152, Top=257, Right=326, Bottom=325
+
+RAW 1483 truck  Left=156, Top=256, Right=323, Bottom=327
+
+RAW 1485 truck  Left=151, Top=257, Right=322, Bottom=324
+
+RAW 1487 truck  Left=150, Top=252, Right=296, Bottom=329
+
+RAW 1488 truck  Left=152, Top=259, Right=321, Bottom=324
+
+RAW 1489 truck  Left=151, Top=255, Right=321, Bottom=325
+
+RAW 1490 truck  Left=154, Top=257, Right=321, Bottom=324
+
+RAW 1491 truck  Left=150, Top=243, Right=322, Bottom=333
+
+RAW 1492 truck  Left=156, Top=262, Right=312, Bottom=331
+
+RAW 1493 truck  Left=152, Top=256, Right=325, Bottom=327
+
+RAW 1494 truck  Left=162, Top=259, Right=316, Bottom=324
+
+RAW 1495 truck  Left=155, Top=262, Right=313, Bottom=331
+
+RAW 1496 truck  Left=156, Top=257, Right=322, Bottom=324
+
+RAW 1497 truck  Left=166, Top=255, Right=316, Bottom=325
+
+RAW 1499 truck  Left=164, Top=255, Right=317, Bottom=327
+
+RAW 1500 truck  Left=161, Top=256, Right=315, Bottom=326
+
+RAW 1506 truck  Left=147, Top=240, Right=321, Bottom=335
+
+RAW 1518 truck  Left=139, Top=241, Right=333, Bottom=334
+
+RAW 1533 truck  Left=133, Top=237, Right=302, Bottom=340
+
+RAW 1536 truck  Left=124, Top=236, Right=309, Bottom=340
+
