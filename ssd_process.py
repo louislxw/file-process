@@ -10,10 +10,10 @@ def grouper(n, iterable, fillvalue=None):
     return zip_longest(*args, fillvalue=fillvalue)
 
 
-f1 = open("summary/cam1_PRC_still.txt", 'r')
-f2 = open("summary/cam1_RAW_still.txt", 'r')
-f3 = open("data/coco.names", 'r')
-f4 = open("summary/cam1_still.txt", 'wt')
+f1 = open("summary/ssd_cam1_prc.txt", 'r')  # Replace with a new PRC file
+f2 = open("summary/ssd_cam1_raw.txt", 'r')  # Replace with a new RAW file
+f3 = open("data/voc.names", 'r')
+f4 = open("summary/ssd_cam1.txt", 'wt')  # Replace with a new file
 
 list1 = []
 list2 = []
@@ -29,7 +29,7 @@ for lines in f3:
     for word in lines.split("\n"):
         list3.append(word)
 list3 = list(filter(None, list3))  # Remove empty elements
-# print(list3)
+print(list3)
 
 object_prc = []
 object_raw = []
@@ -42,7 +42,7 @@ for i in list3:
     count_object_prc = 0
     count_frame_prc = 0
     for j in list1:
-        match_frame_prc = re.search(r'\d+', j)
+        match_frame_prc = re.search(r'\d+', j)  # Get the PRC frame from the first digit
         if match_frame_prc:
             count_frame_prc = int(match_frame_prc.group())
             my_regex1 = r"\b(?=\w)" + re.escape(i) + r"\b(?!\w)"
@@ -52,7 +52,7 @@ for i in list3:
     axis_prc = object_prc
     object_prc = []
     for k in list2:
-        match_frame_raw = re.search(r'\d+', k)
+        match_frame_raw = re.search(r'\d+', k)  # Get the RAW frame from the first digit
         if match_frame_raw:
             count_frame_raw = int(match_frame_raw.group())
             my_regex2 = r"\b(?=\w)" + re.escape(i) + r"\b(?!\w)"
